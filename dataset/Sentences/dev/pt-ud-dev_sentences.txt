@@ -1,0 +1,2923 @@
+# text = É dele o segundo lugar do Smirnoff International Fashion Awards, disputado anteontem em Dublin.
+# source = CETENFolha n=892 cad=Ilustrada sec=nd sem=94a
+# newdoc id = CF892
+# sent_id = CF892-3
+# id = 3759
+
+# text = Um Godard intergaláctico
+# source = CETENFolha n=893 cad=TV Folha sec=clt-soc sem=94b
+# newdoc id = CF893
+# sent_id = CF893-1
+# id = 3760
+
+# text = «Alphaville» é uma mistura de ficção científica, filme noir, e a irreverência das histórias em quadrinhos.
+# source = CETENFolha n=893 cad=TV Folha sec=clt-soc sem=94b
+# sent_id = CF893-2
+# id = 3761
+
+# text = A história narra a ida de um agente secreto à desumana cidade futurista de Alphaville, controlada por um cérebro eletrônico que baniu totalmente os conceitos de amor e solidariedade.
+# source = CETENFolha n=893 cad=TV Folha sec=clt-soc sem=94b
+# sent_id = CF893-3
+# id = 3762
+
+# text = Para construir o ambiente futurista do filme, Godard recorreu quase que totalmente à fotografia.
+# source = CETENFolha n=893 cad=TV Folha sec=clt-soc sem=94b
+# sent_id = CF893-4
+# id = 3763
+
+# text = A câmera de Raoul Coutard conseguiu transformar Paris numa cidade gélida, sem contar a ousadia de montar sequências inteiras em negativo.
+# source = CETENFolha n=893 cad=TV Folha sec=clt-soc sem=94b
+# sent_id = CF893-5
+# id = 3764
+
+# text = O experimentalismo do filme não esconde sua proposição simbólica, a alienação na sociedade tecnológica.
+# source = CETENFolha n=893 cad=TV Folha sec=clt-soc sem=94b
+# sent_id = CF893-6
+# id = 3765
+
+# text = Audiência na Justiça do Pará discute diploma
+# source = CETENFolha n=894 cad=Brasil sec=pol sem=94a
+# newdoc id = CF894
+# sent_id = CF894-1
+# id = 3766
+
+# text = Uma audiência hoje na 7ª Junta da Justiça do Trabalho em Belém reabre a discussão sobre a obrigatoriedade do diploma específico para o exercício do jornalismo.
+# source = CETENFolha n=894 cad=Brasil sec=pol sem=94a
+# sent_id = CF894-3
+# id = 3767
+
+# text = O Sindicato dos Jornalistas do Pará exige a demissão dos cerca de 150 jornalistas irregulares (que não têm curso universitário de Jornalismo) das empresas de Belém.
+# source = CETENFolha n=894 cad=Brasil sec=pol sem=94a
+# sent_id = CF894-4
+# id = 3768
+
+# text = Como o Estado não tem recursos, nem vai ter para todos, o atendimento acaba deixando de fora justamente os mais pobres, que não conseguem acesso aos serviços públicos.
+# source = CETENFolha n=895 cad=Caderno Especial sec=nd sem=94b
+# newdoc id = CF895
+# sent_id = CF895-1
+# id = 3769
+
+# text = O problema é político porque envolve, por exemplo, a gratuidade da educação, da saúde, da previdência mínima.
+# source = CETENFolha n=895 cad=Caderno Especial sec=nd sem=94b
+# sent_id = CF895-2
+# id = 3770
+
+# text = Excetuada a educação básica de primeiro grau, que deve ser gratuita e obrigatória, para todo o resto é preciso discriminar quem pode pagar.
+# source = CETENFolha n=895 cad=Caderno Especial sec=nd sem=94b
+# sent_id = CF895-3
+# id = 3771
+
+# text = Dados do IBGE (Instituto Brasileiro de Geografia e Estatística), de 1989, mostram que 30,6 milhões de brasileiros.
+# source = CETENFolha n=896 cad=Brasil sec=pol sem=94b
+# newdoc id = CF896
+# sent_id = CF896-1
+# id = 3772
+
+# text = Dos fumantes, 18,1 milhões são homens e 12,5 milhões, mulheres.
+# source = CETENFolha n=896 cad=Brasil sec=pol sem=94b &E
+# sent_id = CF896-2
+# id = 3773
+
+# text = PF prende dois por cobrar ágio
+# source = CETENFolha n=897 cad=Dinheiro sec=eco sem=94a
+# newdoc id = CF897
+# sent_id = CF897-1
+# id = 3775
+
+# text = Da FT
+# source = CETENFolha n=897 cad=Dinheiro sec=eco sem=94a
+# sent_id = CF897-2
+# id = 3776
+
+# text = A PF (Polícia Federal) indiciou ontem duas pessoas por vender carro com ágio.
+# source = CETENFolha n=897 cad=Dinheiro sec=eco sem=94a
+# sent_id = CF897-3
+# id = 3777
+
+# text = Foram indiciados o dono da revendedora 3.000 Automóveis (Leonardo Romanioli Filho) e o vendedor Luís Silveira, da concessionária Frame.
+# source = CETENFolha n=897 cad=Dinheiro sec=eco sem=94a
+# sent_id = CF897-4
+# id = 3778
+
+# text = Os dois foram presos quando o taxista José Fioravanti, 61, foi entregar US$ 1.000 a Romanioli como ágio da compra de um Santana Quantum.
+# source = CETENFolha n=897 cad=Dinheiro sec=eco sem=94a
+# sent_id = CF897-5
+# id = 3779
+
+# text = Ele estava acompanhados de três agentes da PF.
+# source = CETENFolha n=897 cad=Dinheiro sec=eco sem=94a
+# sent_id = CF897-6
+# id = 3780
+
+# text = Um deles era seu filho, Sérgio Fioravanti.
+# source = CETENFolha n=897 cad=Dinheiro sec=eco sem=94a
+# sent_id = CF897-7
+# id = 3781
+
+# text = Tabela ganha mais informações
+# source = CETENFolha n=898 cad=Tudo sec=nd sem=94b
+# newdoc id = CF898
+# sent_id = CF898-1
+# id = 3782
+
+# text = A partir desta edição, a tabela com o levantamento dos indicadores Folha-Sebrae passa a incluir a comparação da capacidade ocupada no mês pesquisado com o mesmo mês no ano anterior.
+# source = CETENFolha n=898 cad=Tudo sec=nd sem=94b
+# sent_id = CF898-3
+# id = 3783
+
+# text = O uso da comparação anualizada permite verificar a variação da atividade industrial sem a influência de fatores sazonais.
+# source = CETENFolha n=898 cad=Tudo sec=nd sem=94b
+# sent_id = CF898-4
+# id = 3784
+
+# text = Com a inclusão de mais esse dado comparativo, a tabela fica mais completa.
+# source = CETENFolha n=898 cad=Tudo sec=nd sem=94b
+# sent_id = CF898-5
+# id = 3785
+
+# text = Ela tem também textos com explicações sobre cada item pesquisado.
+# source = CETENFolha n=898 cad=Tudo sec=nd sem=94b
+# sent_id = CF898-6
+# id = 3786
+
+# text = A versão mais corrente sobre o início do enriquecimento de Quércia é de que ele comprou terrenos em áreas de periferia que seriam beneficiadas pelos projetos de melhoria urbana da Prefeitura.
+# source = CETENFolha n=899 cad=Brasil sec=pol sem=94b
+# newdoc id = CF899
+# sent_id = CF899-1
+# id = 3787
+
+# text = Na sua administração, executou um plano viário com largas avenidas interligando os bairros, que provocaram um boom imobiliário.
+# source = CETENFolha n=899 cad=Brasil sec=pol sem=94b
+# sent_id = CF899-2
+# id = 3788
+
+# text = Nicolau diz que hoje o produtor de leite C recebe US$ 0,22, enquanto o custo está em US$ 0,24.
+# source = CETENFolha n=900 cad=Mundo sec=pol sem=94b
+# newdoc id = CF900
+# sent_id = CF900-1
+# id = 3789
+
+# text = Dallari orientou os produtores a negociarem com a indústria.
+# source = CETENFolha n=900 cad=Mundo sec=pol sem=94b
+# sent_id = CF900-2
+# id = 3790
+
+# text = Esses aspectos podem ser observados nos relatos das pacientes: «quando tenho que arrumar a casa e não estou com vontade, escuto vozes que me incentivam a começar a tarefa.
+# source = CETENFolha n=901 cad=Mais! sec=nd sem=94b
+# newdoc id = CF901
+# sent_id = CF901-1
+# id = 3791
+
+# text = Depois de um tempo, as vozes aumentam e acabo ficando atordoada e não consigo terminar o que comecei».
+# source = CETENFolha n=901 cad=Mais! sec=nd sem=94b
+# sent_id = CF901-2
+# id = 3792
+
+# text = Estes problemas não são frequentes nos homens, pois além de terem uma possibilidade menor de casarem e terem filhos, esses não são os tipos de papéis socialmente esperados para o sexo masculino.
+# source = CETENFolha n=901 cad=Mais! sec=nd sem=94b
+# sent_id = CF901-3
+# id = 3793
+
+# text = Pedro Ivo, 63, tel. 289-3609)
+# source = CETENFolha n=902 cad=Cotidiano sec=soc sem=94b
+# newdoc id = CF902
+# sent_id = CF902-1
+# id = 3794
+
+# text = O restaurante, especializado em carnes e saladas, oferecerá uma garrafa de champanhe espanhol para os casais na noite do dia 12.
+# source = CETENFolha n=902 cad=Cotidiano sec=soc sem=94b
+# sent_id = CF902-2
+# id = 3795
+
+# text = Quem não quiser beber durante o jantar, poderá levar o champanhe para casa.
+# source = CETENFolha n=902 cad=Cotidiano sec=soc sem=94b
+# sent_id = CF902-3
+# id = 3796
+
+# text = Preço: 18 URVs (por pessoa)
+# source = CETENFolha n=902 cad=Cotidiano sec=soc sem=94b
+# sent_id = CF902-4
+# id = 3797
+
+# text = Horário: no dia 12, das 19h ao último cliente
+# source = CETENFolha n=902 cad=Cotidiano sec=soc sem=94b
+# sent_id = CF902-5
+# id = 3798
+
+# text = Cartões: aceita todos
+# source = CETENFolha n=902 cad=Cotidiano sec=soc sem=94b
+# sent_id = CF902-6
+# id = 3799
+
+# text = Estacionamento com manobrista
+# source = CETENFolha n=902 cad=Cotidiano sec=soc sem=94b
+# sent_id = CF902-7
+# id = 3800
+
+# text = Em entrevista à Folha por telefone, de Londres, o estilista diz que moda hoje não é se preocupar com marcas:
+# source = CETENFolha n=903 cad=Ilustrada sec=nd sem=94a
+# newdoc id = CF903
+# sent_id = CF903-1
+# id = 3801
+
+# text = «As pessoas estão cansadas do hype que se cria em torno das roupas, dos estilistas e do luxo abusivo.
+# source = CETENFolha n=903 cad=Ilustrada sec=nd sem=94a
+# sent_id = CF903-2
+# id = 3802
+
+# text = Conforto é fundamental.
+# source = CETENFolha n=903 cad=Ilustrada sec=nd sem=94a
+# sent_id = CF903-3
+# id = 3803
+
+# text = Eu não me associo com moda.
+# source = CETENFolha n=903 cad=Ilustrada sec=nd sem=94a
+# sent_id = CF903-4
+# id = 3804
+
+# text = Para mim roupa e moda são coisas diferentes».
+# source = CETENFolha n=903 cad=Ilustrada sec=nd sem=94a
+# sent_id = CF903-5
+# id = 3805
+
+# text = Folha -- o que a mulher precisa hoje, em termos de roupas?
+# source = CETENFolha n=903 cad=Ilustrada sec=nd sem=94a
+# sent_id = CF903-6
+# id = 3806
+
+# text = Desorganização e violência marcam torneio que consolida o 'efeito Copa'.
+# source = CETENFolha n=904 cad=Esporte sec=des sem=94a
+# newdoc id = CF904
+# sent_id = CF904-1
+# id = 3807
+
+# text = Aumento no número de passes e lançamentos aproxima futebol brasileiro do praticado no Mundial dos EUA
+# source = CETENFolha n=904 cad=Esporte sec=des sem=94a
+# sent_id = CF904-2
+# id = 3808
+
+# text = Os clubes de futebol do Brasil estão valorizando cada vez mais a posse de bola e a utilização de lançamentos como armas para se chegar ao ataque.
+# source = CETENFolha n=904 cad=Esporte sec=des sem=94a
+# sent_id = CF904-5
+# id = 3809
+
+# text = É o que confirmam as estatísticas do Campeonato Brasileiro, encerrado ontem com o novo título palmeirense.
+# source = CETENFolha n=904 cad=Esporte sec=des sem=94a
+# sent_id = CF904-6
+# id = 3810
+
+# text = Emily Lloyd vai ser a desbocada punk «Tank Girl», dos gibis ingleses.
+# source = CETENFolha n=905 cad=Ilustrada sec=nd sem=94b
+# newdoc id = CF905
+# sent_id = CF905-1
+# id = 3811
+
+# text = Ainda na Inglaterra, Spielberg negocia os direitos da série de «TV Doctor Who».
+# source = CETENFolha n=905 cad=Ilustrada sec=nd sem=94b
+# sent_id = CF905-2
+# id = 3812
+
+# text = Chris Columbus está ligado à adaptação dos super-heróis «Quarteto Fantástico», que inauguraram a era Marvel nos gibis há 30 anos.
+# source = CETENFolha n=905 cad=Ilustrada sec=nd sem=94b
+# sent_id = CF905-3
+# id = 3813
+
+# text = Mas o orçamento de US$ 5 milhões insinua que a informação não é séria.
+# source = CETENFolha n=905 cad=Ilustrada sec=nd sem=94b
+# sent_id = CF905-4
+# id = 3814
+
+# text = São comuns casos como a filmagem do gibi «Sargento Rock», que teve os direitos comprados por Joel Silver há cinco anos.
+# source = CETENFolha n=905 cad=Ilustrada sec=nd sem=94b
+# sent_id = CF905-5
+# id = 3815
+
+# text = Arnold Schwarzenegger deu entrevistas como ator principal, foi substituído por Bruce Willis há dois anos, mas o projeto nunca saiu do papel.
+# source = CETENFolha n=905 cad=Ilustrada sec=nd sem=94b
+# sent_id = CF905-6
+# id = 3816
+
+# text = Na campanha eleitoral, Alencar e Nilo estiveram em lados opostos quanto à ação das Forças Armadas no combate ao crime.
+# source = CETENFolha n=906 cad=Brasil sec=pol sem=94a
+# newdoc id = CF906
+# sent_id = CF906-1
+# id = 3817
+
+# text = Alencar defendeu a adoção do estado de defesa, que prevê a suspensão de garantias individuais.
+# source = CETENFolha n=906 cad=Brasil sec=pol sem=94a
+# sent_id = CF906-2
+# id = 3818
+
+# text = Trata-se, segundo ele, de um «instrumento de defesa da democracia».
+# source = CETENFolha n=906 cad=Brasil sec=pol sem=94a
+# sent_id = CF906-3
+# id = 3819
+
+# text = Ao contrário, nesta situação econômica de extrema gravidade, todos gostariam de ajudar o país.
+# source = CETENFolha n=907 cad=Dinheiro sec=eco sem=94b
+# newdoc id = CF907
+# sent_id = CF907-1
+# id = 3820
+
+# text = Para isso, porém, é necessário que o nosso Banco Central busque não a «independência» do Tesouro, que é impossível, mas que deixe de «quebrar-lo» com a sua política agressiva de juros.
+# source = CETENFolha n=907 cad=Dinheiro sec=eco sem=94b
+# sent_id = CF907-2
+# id = 3821
+
+# text = Promoção do Dia das Mães começa com desfiles
+# source = CETENFolha n=908 cad=Cotidiano sec=soc sem=94b
+# newdoc id = CF908
+# sent_id = CF908-1
+# id = 3822
+
+# text = O shopping West Plaza já começou sua promoção de Dia das Mães.
+# source = CETENFolha n=908 cad=Cotidiano sec=soc sem=94b
+# sent_id = CF908-3
+# id = 3823
+
+# text = Diariamente, está promovendo desfiles de moda para seus consumidores.
+# source = CETENFolha n=908 cad=Cotidiano sec=soc sem=94b
+# sent_id = CF908-4
+# id = 3824
+
+# text = Os desfiles, com roupas a venda no próprio shopping, visam orientar o consumidor a respeito da moda.
+# source = CETENFolha n=908 cad=Cotidiano sec=soc sem=94b
+# sent_id = CF908-5
+# id = 3825
+
+# text = Estilistas estarão à disposição dos clientes.
+# source = CETENFolha n=908 cad=Cotidiano sec=soc sem=94b
+# sent_id = CF908-6
+# id = 3826
+
+# text = Segundo ele, isso aconteceu após a prisão de soldados venezuelanos em território brasileiro, em fevereiro de 1993.
+# source = CETENFolha n=909 cad=Brasil sec=pol sem=94b
+# newdoc id = CF909
+# sent_id = CF909-1
+# id = 3827
+
+# text = «Depois desse incidente, as Forças Armadas venezuelanas tiveram de esfriar suas ações na fronteira com o Brasil.
+# source = CETENFolha n=909 cad=Brasil sec=pol sem=94b
+# sent_id = CF909-2
+# id = 3828
+
+# text = A Guarda Nacional da Venezuela passou a conversar com os índios e a convencê-los de fazer o papel dela, ou seja, reprimir os garimpeiros», diz Altino.
+# source = CETENFolha n=909 cad=Brasil sec=pol sem=94b
+# sent_id = CF909-3
+# id = 3829
+
+# text = A maioria dos bons jogadores brasileiros atuava em clubes profissionais, filiados à FBF.
+# source = CETENFolha n=910 cad=Caderno Especial sec=nd sem=94b
+# newdoc id = CF910
+# sent_id = CF910-1
+# id = 3830
+
+# text = Não houve acordo para uma trégua durante a Copa.
+# source = CETENFolha n=910 cad=Caderno Especial sec=nd sem=94b
+# sent_id = CF910-2
+# id = 3831
+
+# text = A solução foi negociar diretamente com os jogadores.
+# source = CETENFolha n=910 cad=Caderno Especial sec=nd sem=94b
+# sent_id = CF910-3
+# id = 3832
+
+# text = A CBD aliciou Leônidas (Vasco), Luizinho e Waldemar de Brito (São Paulo), entre outros.
+# source = CETENFolha n=910 cad=Caderno Especial sec=nd sem=94b
+# sent_id = CF910-4
+# id = 3833
+
+# text = Era uma época em que os cariocas imperavam em campo e fora dele.
+# source = CETENFolha n=911 cad=Esporte sec=des sem=94b
+# newdoc id = CF911
+# sent_id = CF911-1
+# id = 3834
+
+# text = Por razões que a própria razão desconhece, no sorteio do local do jogo decisivo, a bolinha quase sempre apontava o assustador estádio de São Januário.
+# source = CETENFolha n=911 cad=Esporte sec=des sem=94b
+# sent_id = CF911-2
+# id = 3835
+
+# text = O torcedor paulista sonhava com uma era futura, em que São Paulo chegaria à supremacia, se possível de forma arrasadora.
+# source = CETENFolha n=911 cad=Esporte sec=des sem=94b
+# sent_id = CF911-3
+# id = 3836
+
+# text = Passaram-se uns 50 anos e o sonho se realizou, trazendo alegria e também, inesperadamente, frustração.
+# source = CETENFolha n=911 cad=Esporte sec=des sem=94b
+# sent_id = CF911-4
+# id = 3837
+
+# text = Ficamos todos , isto é, os torcedores paulistas que vem dos idos de 1940, como o americano médio, no fim da Guerra Fria.
+# source = CETENFolha n=911 cad=Esporte sec=des sem=94b
+# sent_id = CF911-5
+# id = 3838
+
+# text = Já não há o império do mal para combater.
+# source = CETENFolha n=911 cad=Esporte sec=des sem=94b
+# sent_id = CF911-6
+# id = 3839
+
+# text = Vasco, Botafogo, Fluminense e até o Flamengo são fantasmas do passado.
+# source = CETENFolha n=911 cad=Esporte sec=des sem=94b
+# sent_id = CF911-7
+# id = 3840
+
+# text = O bombeiro suspeita que o golfinho tenha morrido afogado.
+# source = CETENFolha n=912 cad=Cotidiano sec=soc sem=94b
+# newdoc id = CF912
+# sent_id = CF912-1
+# id = 3841
+
+# text = Ele teria ficado preso em uma rede de pesca sem condições de subir à tona para respirar.
+# source = CETENFolha n=912 cad=Cotidiano sec=soc sem=94b
+# sent_id = CF912-2
+# id = 3842
+
+# text = Os bombeiros pediram ajuda ao Cebimar (Centro de Biologia Marinha) da USP para apurar as causas da morte do golfinho.
+# source = CETENFolha n=912 cad=Cotidiano sec=soc sem=94b
+# sent_id = CF912-3
+# id = 3843
+
+# text = Até as 17h, a Prefeitura de Caraguatatuba não havia retirado o golfinho da praia.
+# source = CETENFolha n=912 cad=Cotidiano sec=soc sem=94b
+# sent_id = CF912-4
+# id = 3844
+
+# text = IMPOSTOS E TARIFAS
+# source = CETENFolha n=913 cad=Brasil sec=pol sem=94b
+# newdoc id = CF913
+# sent_id = CF913-1
+# id = 3845
+
+# text = O governo vai usar a URV para corrigir impostos, garantiu FHC.
+# source = CETENFolha n=913 cad=Brasil sec=pol sem=94b
+# sent_id = CF913-2
+# id = 3846
+
+# text = «A URV é produzida por três índices, e um dos índices é o mesmo da Ufir.
+# source = CETENFolha n=913 cad=Brasil sec=pol sem=94b
+# sent_id = CF913-3
+# id = 3847
+
+# text = Vai ter paridade, já desde o começo», explicou.
+# source = CETENFolha n=913 cad=Brasil sec=pol sem=94b
+# sent_id = CF913-4
+# id = 3848
+
+# text = Quanto às tarifas públicas, não serão fixadas em URV para evitar reajustes diários, mas terão correções periódicas pelo indexador.
+# source = CETENFolha n=913 cad=Brasil sec=pol sem=94b
+# sent_id = CF913-5
+# id = 3849
+
+# text = «Do ponto de vista de proteção ao consumidor, vou reajustar o preço da tarifa pública no dia normal como se ela fosse URV.
+# source = CETENFolha n=913 cad=Brasil sec=pol sem=94b
+# sent_id = CF913-6
+# id = 3850
+
+# text = Ou seja, pela média real dos últimos quatro meses», disse.
+# source = CETENFolha n=913 cad=Brasil sec=pol sem=94b
+# sent_id = CF913-7
+# id = 3851
+
+# text = APOSENTADOS
+# source = CETENFolha n=913 cad=Brasil sec=pol sem=94b
+# sent_id = CF913-8
+# id = 3852
+
+# text = Serão beneficiados porque hoje demoram até 12 dias para receber seus benefícios, vinculados ao salário mínimo:
+# source = CETENFolha n=913 cad=Brasil sec=pol sem=94b
+# sent_id = CF913-9
+# id = 3853
+
+# text = «Onze milhões de aposentados ganham mínimo.
+# source = CETENFolha n=913 cad=Brasil sec=pol sem=94b
+# sent_id = CF913-10
+# id = 3854
+
+# text = Esses vão ter um aumento real, pelo que disse o ministro Cutolo (Sérgio, da Previdência), na passagem para a URV, de 17%.
+# source = CETENFolha n=913 cad=Brasil sec=pol sem=94b
+# sent_id = CF913-11
+# id = 3855
+
+# text = E alguns vão ter de 30%».
+# source = CETENFolha n=913 cad=Brasil sec=pol sem=94b
+# sent_id = CF913-12
+# id = 3856
+
+# text = Ele atribuiu a discussão sobre o valor dos benefícios a uma «ilusão monetária».
+# source = CETENFolha n=913 cad=Brasil sec=pol sem=94b
+# sent_id = CF913-13
+# id = 3857
+
+# text = «As pessoas pensam que recebem US$ 80, mas 30 dias depois esse valor é muito menor».
+# source = CETENFolha n=913 cad=Brasil sec=pol sem=94b
+# sent_id = CF913-14
+# id = 3858
+
+# text = Encerrada a festa, Maluly viu o rapaz esperando.
+# source = CETENFolha n=914 cad=Brasil sec=pol sem=94b
+# newdoc id = CF914
+# sent_id = CF914-1
+# id = 3859
+
+# text = O deputado se aproximou.
+# source = CETENFolha n=914 cad=Brasil sec=pol sem=94b
+# sent_id = CF914-2
+# id = 3860
+
+# text = Eu precisava de uma ajuda do senhor, deputado ...
+# source = CETENFolha n=914 cad=Brasil sec=pol sem=94b
+# sent_id = CF914-3
+# id = 3861
+
+# text = Príncipe Charles vai a inauguração
+# source = CETENFolha n=915 cad=Mundo sec=pol sem=94b
+# newdoc id = CF915
+# sent_id = CF915-1
+# id = 3862
+
+# text = O Príncipe Charles, do Reino Unido, fez respiração boca-a-boca num boneco (foto) na inauguração do novo prédio do Centro de Ambulâncias de Wellington, capital da Nova Zelândia.
+# source = CETENFolha n=915 cad=Mundo sec=pol sem=94b
+# sent_id = CF915-2
+# id = 3863
+
+# text = O homem que atacou Charles anteontem não terá direito a fiança e ficará preso pelo menos até o fim da visita de cinco dias do príncipe ao país.
+# source = CETENFolha n=915 cad=Mundo sec=pol sem=94b
+# sent_id = CF915-3
+# id = 3864
+
+# text = Lituânia e Ucrânia elogiam a Otan Os presidentes da Lituânia, Algirdas Zebrauskas, e da Ucrânia, Leonid Kravtchuk, elogiaram ontem o programa de «Parceria pela Paz» da Otan (aliança militar ocidental, liderada pelos EUA), que prevê operações conjuntas com países do Leste Europeu.
+# source = CETENFolha n=915 cad=Mundo sec=pol sem=94b
+# sent_id = CF915-4
+# id = 3865
+
+# text = Segundo eles, os laços com a aliança não vão afetar as relações com a Rússia.
+# source = CETENFolha n=915 cad=Mundo sec=pol sem=94b
+# sent_id = CF915-5
+# id = 3866
+
+# text = Não é verdade, como diz Gusmão, que a missão enviada a Israel tenha feito «confronto de preços».
+# source = CETENFolha n=916 cad=Mais! sec=nd sem=94b
+# newdoc id = CF916
+# sent_id = CF916-1
+# id = 3867
+
+# text = O relatório sigiloso não traz qualquer lista de preços.
+# source = CETENFolha n=916 cad=Mais! sec=nd sem=94b
+# sent_id = CF916-2
+# id = 3868
+
+# text = As evidências de superfaturamento foram levantadas pelos professores Armando Laganá e Márcio Rillo, da USP, a pedido da Folha.
+# source = CETENFolha n=916 cad=Mais! sec=nd sem=94b
+# sent_id = CF916-3
+# id = 3869
+
+# text = Sustentadas em depoimentos à PF, foram confirmadas em três perícias.
+# source = CETENFolha n=916 cad=Mais! sec=nd sem=94b
+# sent_id = CF916-4
+# id = 3870
+
+# text = A última delas, com a participação de três cientistas, comprovou superfaturamento de 343%.
+# source = CETENFolha n=916 cad=Mais! sec=nd sem=94b
+# sent_id = CF916-5
+# id = 3871
+
+# text = Cingapura acusa mais um americano
+# source = CETENFolha n=917 cad=Mundo sec=pol sem=94b
+# newdoc id = CF917
+# sent_id = CF917-1
+# id = 3872
+
+# text = Stephen Freehill, 16 (foto), compareceu ontem a um tribunal de Cingapura para uma audiência preliminar.
+# source = CETENFolha n=917 cad=Mundo sec=pol sem=94b
+# sent_id = CF917-2
+# id = 3873
+
+# text = Ele é acusado de vandalismo.
+# source = CETENFolha n=917 cad=Mundo sec=pol sem=94b
+# sent_id = CF917-3
+# id = 3874
+
+# text = Pode ser condenado ao açoite, como seu compatriota Michael Fay, 18, preso na mesma ocasião.
+# source = CETENFolha n=917 cad=Mundo sec=pol sem=94b
+# sent_id = CF917-4
+# id = 3875
+
+# text = Fay foi punido com quatro vergastadas e agora cumpre pena de prisão.
+# source = CETENFolha n=917 cad=Mundo sec=pol sem=94b
+# sent_id = CF917-5
+# id = 3876
+
+# text = Norte-iemenitas tomam base do sul
+# source = CETENFolha n=917 cad=Mundo sec=pol sem=94b
+# sent_id = CF917-6
+# id = 3877
+
+# text = Forças do norte do Iêmen anunciaram a tomada da base aérea de Al Anad, a principal dos sul-iemenitas.
+# source = CETENFolha n=917 cad=Mundo sec=pol sem=94b
+# sent_id = CF917-7
+# id = 3878
+
+# text = A base fica a apenas 50 km de Áden, a capital do sul.
+# source = CETENFolha n=917 cad=Mundo sec=pol sem=94b
+# sent_id = CF917-8
+# id = 3879
+
+# text = A guerra começou há 13 dias por causa de um confronto entre o presidente Ali Abdulllah Saleh e seu vice.
+# source = CETENFolha n=917 cad=Mundo sec=pol sem=94b
+# sent_id = CF917-9
+# id = 3880
+
+# text = «Não damos conta de atendê-los.
+# source = CETENFolha n=918 cad=Mundo sec=pol sem=94a
+# newdoc id = CF918
+# sent_id = CF918-1
+# id = 3881
+
+# text = A resposta ao pedido de ajuda foi gigantesca», diz Virginia de la Guardia, porta-voz da Médicos Sem Fronteiras.
+# source = CETENFolha n=918 cad=Mundo sec=pol sem=94a
+# sent_id = CF918-2
+# id = 3882
+
+# text = A maioria dos voluntários são jovens.
+# source = CETENFolha n=918 cad=Mundo sec=pol sem=94a
+# sent_id = CF918-3
+# id = 3883
+
+# text = Mas, comenta Enrique Albizu, presidente da Medicus Mundi, «é precisamente nas situações de emergência que necessitamos de gente mais especializada».
+# source = CETENFolha n=918 cad=Mundo sec=pol sem=94a
+# sent_id = CF918-4
+# id = 3884
+
+# text = Técnico Pepe diz que falta talento ao Santos
+# source = CETENFolha n=919 cad=Esporte sec=des sem=94b
+# newdoc id = CF919
+# sent_id = CF919-1
+# id = 3885
+
+# text = O Santos volta a viver um clima tenso para o próximo jogo, domingo contra o Santo André, em busca da primeira vitória no Campeonato Paulista.
+# source = CETENFolha n=919 cad=Esporte sec=des sem=94b
+# sent_id = CF919-3
+# id = 3886
+
+# text = O técnico Pepe, irritado com a atuação do time no empate em 1 a 1 com Ituano anteontem, disse «que está faltando tranquilidade e talento aos jogadores».
+# source = CETENFolha n=919 cad=Esporte sec=des sem=94b
+# sent_id = CF919-4
+# id = 3887
+
+# text = Pepe ainda tem esperança que o centroavante Guga renove o seu contrato, vencido em 31 de dezembro.
+# source = CETENFolha n=919 cad=Esporte sec=des sem=94b
+# sent_id = CF919-5
+# id = 3888
+
+# text = «Se isso acontecer, tem que ser rápido, do contrário não adianta mais», afirmou.
+# source = CETENFolha n=919 cad=Esporte sec=des sem=94b
+# sent_id = CF919-6
+# id = 3889
+
+# text = Saiba quem é Barrichello
+# source = CETENFolha n=920 cad=Esporte sec=des sem=94b
+# newdoc id = CF920
+# sent_id = CF920-1
+# id = 3890
+
+# text = Nascido no dia 23 de maio de 1972, em São Paulo, Rubens Gonçalves Barrichello começou sua carreira automobilística no kart, em 81, quando foi vice-campeão júnior da capital paulista.
+# source = CETENFolha n=920 cad=Esporte sec=des sem=94b
+# sent_id = CF920-3
+# id = 3891
+
+# text = Em 1989, após ganhar diversos títulos paulistas e brasileiros no kart, Barrichello disputou o Campeonato Brasileiro de Fórmula Ford, terminando em quarto lugar.
+# source = CETENFolha n=920 cad=Esporte sec=des sem=94b
+# sent_id = CF920-4
+# id = 3892
+
+# text = Marcos Augusto Gonçalves é editor da Revista da Folha
+# source = CETENFolha n=921 cad=Revista Folha sec=nd sem=94a
+# newdoc id = CF921
+# sent_id = CF921-1
+# id = 3893
+
+# text = Ilustração:
+# source = Folha n=921 cad=Revista Folha sec=nd sem=94a
+# sent_id = CF921-2
+# id = 3894
+
+# text = «Menina correndo na varanda», óleo s/tela, Giacomo Balla, 1912
+# source = CETENFolha n=921 cad=Revista Folha sec=nd sem=94a
+# sent_id = CF921-3
+# id = 3895
+
+# text = Blitz multa duas lojas em shopping no DF
+# source = CETENFolha n=922 cad=Dinheiro sec=eco sem=94a
+# newdoc id = CF922
+# sent_id = CF922-1
+# id = 3896
+
+# text = A Sunab (Superintendência Nacional de Abastecimento) autuou sábado duas lojas do ParK Shopping, em Brasília.
+# source = CETENFolha n=922 cad=Dinheiro sec=eco sem=94a
+# sent_id = CF922-2
+# id = 3897
+
+# text = Ambas não apresentavam preços de produtos expostos nas vitrines.
+# source = CETENFolha n=922 cad=Dinheiro sec=eco sem=94a
+# sent_id = CF922-3
+# id = 3898
+
+# text = A multa para lojistas que descumprirem a determinação pode chegar a R$ 128 mil.
+# source = CETENFolha n=922 cad=Dinheiro sec=eco sem=94a
+# sent_id = CF922-4
+# id = 3899
+
+# text = Segundo Eduardo Lago, superintendente do orgão, já foram aplicadas 400 multas em todo o país desde o início do mês.
+# source = CETENFolha n=922 cad=Dinheiro sec=eco sem=94a
+# sent_id = CF922-5
+# id = 3900
+
+# text = Mercedes produzirá carro na França
+# source = CETENFolha n=922 cad=Dinheiro sec=eco sem=94a
+# sent_id = CF922-6
+# id = 3901
+
+# text = A Mercedes-Benz deve instalar a linha de montagem do Swatch, carro compacto com design do fabricante dos relógios da marca, em Sarreguemines, cidade do norte da França.
+# source = CETENFolha n=922 cad=Dinheiro sec=eco sem=94a
+# sent_id = CF922-7
+# id = 3902
+
+# text = A decisão foi tomada pelo conselho da montadora alemã, na última sexta-feira.
+# source = CETENFolha n=922 cad=Dinheiro sec=eco sem=94a
+# sent_id = CF922-8
+# id = 3903
+
+# text = O anúncio oficial será feito após o dia 20.
+# source = CETENFolha n=922 cad=Dinheiro sec=eco sem=94a
+# sent_id = CF922-9
+# id = 3904
+
+# text = Beckenbauer aconselha o lateral a conversar com o treinador, procurando reverter a situação.
+# source = CETENFolha n=923 cad=Esporte sec=des sem=94a
+# newdoc id = CF923
+# sent_id = CF923-1
+# id = 3905
+
+# text = «Senão ele vai ser alvo fácil das críticas se o time perder.»
+# source = CETENFolha n=923 cad=Esporte sec=des sem=94a
+# sent_id = CF923-2
+# id = 3906
+
+# text = O caso Effenberg, jogador cortado por ter feito gesto obsceno à torcida, também foi criticado.
+# source = CETENFolha n=923 cad=Esporte sec=des sem=94a
+# sent_id = CF923-3
+# id = 3907
+
+# text = «Foi um ato muito rigoroso.
+# source = CETENFolha n=923 cad=Esporte sec=des sem=94a
+# sent_id = CF923-4
+# id = 3908
+
+# text = Agora, os jogadores vão cumprir sua função mais por obrigação e não por prazer.»
+# source = CETENFolha n=923 cad=Esporte sec=des sem=94a &E
+# sent_id = CF923-5
+# id = 3909
+
+# text = Apesar das críticas, Vogts prefere manter a discrição:
+# source = CETENFolha n=923 cad=Esporte sec=des sem=94a
+# sent_id = CF923-6
+# id = 3910
+
+# text = «Beckenbauer tem o direito de dizer o que quiser».
+# source = CETENFolha n=923 cad=Esporte sec=des sem=94a
+# sent_id = CF923-7
+# id = 3911
+
+# text = Rodado no início da década de 50, época áurea do macarthismo perseguição a artistas e intelectuais comunistas ou acusados de simpatizar com essa ideologia liderada pelo senador Joseph McCarthy nos EUA, o filme ganha versão para CD-ROM, com direito a um extenso material de referência.
+# source = CETENFolha n=924 cad=Informática sec=com sem=94b
+# newdoc id = CF924
+# sent_id = CF924-1
+# id = 3912
+
+# text = Preço: US$ 74,71.
+# source = CETENFolha n=924 cad=Informática sec=com sem=94b
+# sent_id = CF924-2
+# id = 3913
+
+# text = O filme narra uma greve de mineiros em uma cidade do Novo México, nos EUA.
+# source = CETENFolha n=924 cad=Informática sec=com sem=94b
+# sent_id = CF924-3
+# id = 3914
+
+# text = Há uma trama paralela, com Ramon e Esperanza, casal que após a greve se separa.
+# source = CETENFolha n=924 cad=Informática sec=com sem=94b
+# sent_id = CF924-4
+# id = 3915
+
+# text = Caso isso ocorresse, eles seriam colocados em liberdade tão logo chegassem no Canadá.
+# source = CETENFolha n=925 cad=Cotidiano sec=soc sem=94a
+# newdoc id = CF925
+# sent_id = CF925-1
+# id = 3916
+
+# text = Documento do Ministério das Relações Exteriores do Canadá, obtido pela Folha, dá apoio ao lobby (grupo de pressão) feito pela Embaixada do Canadá junto a senadores e deputados brasileiros para que os canadenses sejam expulsos.
+# source = CETENFolha n=925 cad=Cotidiano sec=soc sem=94a
+# sent_id = CF925-2
+# id = 3917
+
+# text = Segundo o cônsul, era crescente a pressão do Congresso norte-americano sobre o Departamento de Estado para que se adotasse uma política idêntica à do Brasil.
+# source = CETENFolha n=926 cad=Cotidiano sec=soc sem=94b
+# newdoc id = CF926
+# sent_id = CF926-1
+# id = 3918
+
+# text = «Queremos dar um visto por dez anos.
+# source = CETENFolha n=926 cad=Cotidiano sec=soc sem=94b
+# sent_id = CF926-2
+# id = 3919
+
+# text = É mais eficiente do que por apenas quatro anos.
+# source = CETENFolha n=926 cad=Cotidiano sec=soc sem=94b
+# sent_id = CF926-3
+# id = 3920
+
+# text = Estamos sendo forçados, ao invés, a reduzir o prazo para três meses.
+# source = CETENFolha n=926 cad=Cotidiano sec=soc sem=94b
+# sent_id = CF926-4
+# id = 3921
+
+# text = É uma situação absurda», disse Taylor, 49.
+# source = CETENFolha n=926 cad=Cotidiano sec=soc sem=94b
+# sent_id = CF926-5
+# id = 3922
+
+# text = Um jogador que estava nos planos de Pepe era o meia Carlos Alberto Dias, que acabou indo para o Flamengo, já que a diretoria do Santos vetou o seu nome.
+# source = CETENFolha n=927 cad=Esporte sec=des sem=94b
+# newdoc id = CF927
+# sent_id = CF927-1
+# id = 3923
+
+# text = No momento, Pelé, o maior jogador da história da equipe, é também a maior esperança de um time forte.
+# source = CETENFolha n=927 cad=Esporte sec=des sem=94b
+# sent_id = CF927-2
+# id = 3924
+
+# text = Durante esta semana, o agora dirigente esteve no Japão, em busca de uma empresa que, no futuro, invista no Santos.
+# source = CETENFolha n=927 cad=Esporte sec=des sem=94b
+# sent_id = CF927-3
+# id = 3925
+
+# text = Recentemente, o time firmou um contrato de US$ 50 mil mensais com a Lousano, que vale até o fim do Campeonato Paulista.
+# source = CETENFolha n=927 cad=Esporte sec=des sem=94b
+# sent_id = CF927-4
+# id = 3926
+
+# text = O aumento das despesas acontece até mesmo nos ministérios da Fazenda e do Planejamento, responsáveis pela montagem do Orçamento federal.
+# source = CETENFolha n=928 cad=Brasil sec=pol sem=94b
+# newdoc id = CF928
+# sent_id = CF928-1
+# id = 3927
+
+# text = No Ministério da Fazenda, as despesas crescerão de US$ 1,13 bilhões em 93 para US$ 1,36 bilhões em 94 (ou mais 20,07%).
+# source = CETENFolha n=928 cad=Brasil sec=pol sem=94b
+# sent_id = CF928-2
+# id = 3928
+
+# text = No Planejamento, o crescimento é de 33,19%, elevando as despesas de US$ 87,6 milhões em 93 para US$ 116,69 milhões em 94.
+# source = CETENFolha n=928 cad=Brasil sec=pol sem=94b
+# sent_id = CF928-3
+# id = 3929
+
+# text = Execução
+# source = CETENFolha n=928 cad=Brasil sec=pol sem=94b
+# sent_id = CF928-4
+# id = 3930
+
+# text = O deputado Aloizio Mercadante (PT/SP) divulgou ontem números do Tesouro sobre a execução orçamentária de janeiro a novembro de 1993, demonstrando que o governo conseguiu um superávit operacional de US$ 9,2 bilhões neste período.
+# source = CETENFolha n=928 cad=Brasil sec=pol sem=94b
+# sent_id = CF928-5
+# id = 3931
+
+# text = Embora esteja a quase 40 km do estádio, o hotel foi escolhido porque está próximo da California State University, onde o Brasil treinará durante esta semana.
+# source = CETENFolha n=929 cad=Esporte sec=des sem=94a
+# newdoc id = CF929
+# sent_id = CF929-1
+# id = 3932
+
+# text = A chegada ao hotel foi às 12h10 (16h10 em Brasília).
+# source = CETENFolha n=929 cad=Esporte sec=des sem=94a
+# sent_id = CF929-2
+# id = 3933
+
+# text = Toda a delegação subiu diretamente para os quartos.
+# source = CETENFolha n=929 cad=Esporte sec=des sem=94a
+# sent_id = CF929-3
+# id = 3934
+
+# text = Os jogadores e Parreira não falaram com a imprensa.
+# source = CETENFolha n=929 cad=Esporte sec=des sem=94a
+# sent_id = CF929-4
+# id = 3935
+
+# text = Para estimular a participação, a cada dois dias de trabalho as meninas ganham uma boneca.
+# source = CETENFolha n=930 cad=Esporte sec=des sem=94b
+# newdoc id = CF930
+# sent_id = CF930-1
+# id = 3936
+
+# text = A República Movimento de Emaús trabalha há 20 anos com adolescentes carentes.
+# source = CETENFolha n=930 cad=Esporte sec=des sem=94b
+# sent_id = CF930-2
+# id = 3937
+
+# text = Demonização
+# source = CETENFolha n=931 cad=Ilustrada sec=nd sem=94b
+# newdoc id = CF931
+# sent_id = CF931-1
+# id = 3938
+
+# text = Cheia de energia, a interpretação da Orquestra Estadual da Hungria vem amortecida um pouco pela artificialidade da gravação, de quase 15 anos atrás, mas compensa a sonoridade de estúdio com o vigor.
+# source = CETENFolha n=931 cad=Ilustrada sec=nd sem=94b
+# sent_id = CF931-2
+# id = 3939
+
+# text = A Sinfonia toda é uma espécie de demonização da Nona de Beethoven, que é muito mais seu assunto do que o Fausto de Goethe.
+# source = CETENFolha n=931 cad=Ilustrada sec=nd sem=94b
+# sent_id = CF931-3
+# id = 3940
+
+# text = Nisto também na resistência e repetição de Beethoven Liszt é um foco importante, com reflexos na obra de Tchaikovsky, Scriabin e Strauss.
+# source = CETENFolha n=931 cad=Ilustrada sec=nd sem=94b
+# sent_id = CF931-4
+# id = 3941
+
+# text = Não poderia haver realização maior para um compositor: substituir Beethoven, ou ter pelo menos a ilusão de ser um novo ponto de partida.
+# source = CETENFolha n=931 cad=Ilustrada sec=nd sem=94b
+# sent_id = CF931-5
+# id = 3942
+
+# text = Para Simon Franco, 55, presidente da Simon Franco Recursos Humanos, «não se pode jogar fora 15 anos de experiência».
+# source = CETENFolha n=932 cad=Empregos sec=eco sem=94a
+# newdoc id = CF932
+# sent_id = CF932-1
+# id = 3943
+
+# text = Segundo ele, Carvalho não está avaliando que pode ampliar seu espectro de opções sem a necessidade de uma mudança radical.
+# source = CETENFolha n=932 cad=Empregos sec=eco sem=94a
+# sent_id = CF932-2
+# id = 3944
+
+# text = Lei brasileira não proíbe a gravidez pós-menopausa
+# source = CETENFolha n=933 cad=Mais! sec=nd sem=94b
+# newdoc id = CF933
+# sent_id = CF933-1
+# id = 3945
+
+# text = Editor-assistente de Ciência
+# source = CETENFolha n=933 cad=Mais! sec=nd sem=94b
+# sent_id = CF933-3
+# id = 3946
+
+# text = A reprodução assistida está regulamentada no Brasil desde novembro de 1992, embora sua prática tenha sido iniciada oito anos antes.
+# source = CETENFolha n=933 cad=Mais! sec=nd sem=94b
+# sent_id = CF933-4
+# id = 3947
+
+# text = Determinadas pelo Conselho Federal de Medicina (CFM), as normas éticas foram inspiradas nas de outros países, Estados Unidos, França e Itália, por exemplo.
+# source = CETENFolha n=933 cad=Mais! sec=nd sem=94b
+# sent_id = CF933-5
+# id = 3948
+
+# text = Mas, como nesses países, os avanços nas pesquisas médicas tornaram os códigos de ética ultrapassados.
+# source = CETENFolha n=933 cad=Mais! sec=nd sem=94b
+# sent_id = CF933-6
+# id = 3949
+
+# text = A possibilidade da gravidez pós-menopausa e o uso de óvulos de fetos abortados (veja texto à pág. 6) são exemplos mais gritantes.
+# source = CETENFolha n=933 cad=Mais! sec=nd sem=94b &D
+# sent_id = CF933-7
+# id = 3950
+
+# text = «Ficaram de fora de nossa regulamentação», disse à Folha Antonio Henrique Pedrosa Neto, diretor do CFM.
+# source = CETENFolha n=933 cad=Mais! sec=nd sem=94b
+# sent_id = CF933-8
+# id = 3951
+
+# text = Ele afirmou, no entanto, que pelo menos a «gravidez pós-menopausa será objeto de nova resolução».
+# source = CETENFolha n=933 cad=Mais! sec=nd sem=94b
+# sent_id = CF933-9
+# id = 3952
+
+# text = Homens são achados amordaçados no Rio
+# source = CETENFolha n=934 cad=Brasil sec=pol sem=94a
+# newdoc id = CF934
+# sent_id = CF934-1
+# id = 3953
+
+# text = Polícia Civil encontrou dois homens amarrados, amordaçados e de olhos vendados, em um barraco da favela Nova Brasília (zona norte).
+# source = CETENFolha n=934 cad=Brasil sec=pol sem=94a
+# sent_id = CF934-2
+# id = 3954
+
+# text = Mauro Pereira e Gilson Paulino dos Santos disseram ter sido sequestrados por traficantes, que os teriam confundido com policiais.
+# source = CETENFolha n=934 cad=Brasil sec=pol sem=94a
+# sent_id = CF934-3
+# id = 3955
+
+# text = Fiscais são recebidos a tiros em favela do Rio
+# source = CETENFolha n=934 cad=Brasil sec=pol sem=94a
+# sent_id = CF934-4
+# id = 3956
+
+# text = Fiscais do Tribunal Regional Eleitoral e PMs do Batalhão de Choque foram recebidos a tiros ontem à tarde na Vila do João, Manguinhos (zona norte do Rio).
+# source = CETENFolha n=934 cad=Brasil sec=pol sem=94a
+# sent_id = CF934-5
+# id = 3957
+
+# text = Os fiscais retirar propaganda irregular.
+# source = CETENFolha n=934 cad=Brasil sec=pol sem=94a
+# sent_id = CF934-6
+# id = 3958
+
+# text = No tiroteio, morreu Adriano Herculano da Silva, 18.
+# source = CETENFolha n=934 cad=Brasil sec=pol sem=94a
+# sent_id = CF934-7
+# id = 3959
+
+# text = O casamento será realizado pelo reverendo Onaldo Pereira, 38, ordenado há oito anos nos Estados Unidos.
+# source = CETENFolha n=935 cad=Cotidiano sec=soc sem=94b
+# newdoc id = CF935
+# sent_id = CF935-1
+# id = 3960
+
+# text = O pastor é responsável no Brasil pela Comunidade Pacifista Cristã, fundada na Alemanha em 1708.
+# source = CETENFolha n=935 cad=Cotidiano sec=soc sem=94b
+# sent_id = CF935-2
+# id = 3961
+
+# text = Feminino bate Cuba e fica com título em PE
+# source = CETENFolha n=936 cad=Esporte sec=des sem=94b
+# newdoc id = CF936
+# sent_id = CF936-1
+# id = 3962
+
+# text = A seleção brasileira feminina de basquete é a campeã do Torneio Internacional de Basquete, um quadrangular amistoso disputado em Recife (PE) e que contou com a participação das seleções de Cuba, Argentina e Eslovênia.
+# source = CETENFolha n=936 cad=Esporte sec=des sem=94b
+# sent_id = CF936-3
+# id = 3963
+
+# text = O time comandado pelo técnico Miguel Ângelo da Luz ficou com o título ao derrotar anteontem à noite na final a forte seleção de Cuba por 115 a 93 (54 a 44 no primeiro tempo).
+# source = CETENFolha n=936 cad=Esporte sec=des sem=94b
+# sent_id = CF936-4
+# id = 3964
+
+# text = A cestinha do jogo foi Hortência, que marcou 38 pontos.
+# source = CETENFolha n=936 cad=Esporte sec=des sem=94b
+# sent_id = CF936-5
+# id = 3965
+
+# text = Além da fazenda do Sabiá, participaram do leilão a Terra Boa e a Mata Velha, tradicionais criadoras de nelore.
+# source = CETENFolha n=937 cad=Agrofolha sec=agr sem=94b
+# newdoc id = CF937
+# sent_id = CF937-1
+# id = 3966
+
+# text = O principal destaque na pista foi a vaca Santya, selecionada para ser doadora em transferência de embriões, que foi vendida por 40,2 mil URVs.
+# source = CETENFolha n=937 cad=Agrofolha sec=agr sem=94b
+# sent_id = CF937-2
+# id = 3967
+
+# text = Filha do touro Chummak, ela está prenha e foi comercializada com uma bezerra ao pé.
+# source = CETENFolha n=937 cad=Agrofolha sec=agr sem=94b
+# sent_id = CF937-3
+# id = 3968
+
+# text = «A Times Square é também um ponto de encontro e uma alternativa teen», afirma o diretor da Multiplan.
+# source = CETENFolha n=938 cad=Cotidiano sec=soc sem=94a
+# newdoc id = CF938
+# sent_id = CF938-1
+# id = 3969
+
+# text = Para Spinelli, o espaço representa uma nova tendência para as áreas de conveniência dos shoppings.
+# source = CETENFolha n=938 cad=Cotidiano sec=soc sem=94a
+# sent_id = CF938-3
+# id = 3970
+
+# text = Paula Toller Isso é uma coisa que a gravadora vinha sugerindo para a gente há muito tempo.
+# source = CETENFolha n=939 cad=Folhateen sec=soc sem=94a
+# newdoc id = CF939
+# sent_id = CF939-1
+# id = 3971
+
+# text = Gostamos da idéia, resolvemos pegar velhos sucessos e fazer neste formato.
+# source = CETENFolha n=939 cad=Folhateen sec=soc sem=94a
+# sent_id = CF939-2
+# id = 3972
+
+# text = Gravações acústicas se encaixam com o nosso tipo de som.
+# source = CETENFolha n=939 cad=Folhateen sec=soc sem=94a
+# sent_id = CF939-3
+# id = 3973
+
+# text = Sempre tivemos canções mais lentas.
+# source = CETENFolha n=939 cad=Folhateen sec=soc sem=94a
+# sent_id = CF939-4
+# id = 3974
+
+# text = Bruno Fortunato A gente sempre teve músicas que dão para tocar no violão.
+# source = CETENFolha n=939 cad=Folhateen sec=soc sem=94a
+# sent_id = CF939-5
+# id = 3975
+
+# text = A intenção é louvável e esta Folha tem denunciado sempre a ciranda financeira como obstáculo a uma autêntica estabilização.
+# source = CETENFolha n=940 cad=Opinião sec=opi sem=94a
+# newdoc id = CF940
+# sent_id = CF940-1
+# id = 3976
+
+# text = O momento e a forma escolhidos para mudar o sistema financeiro, entretanto, dependem fortemente de variáveis políticas.
+# source = CETENFolha n=940 cad=Opinião sec=opi sem=94a
+# sent_id = CF940-2
+# id = 3977
+
+# text = Dique oficial
+# source = CETENFolha n=941 cad=Brasil sec=pol sem=94b
+# newdoc id = CF941
+# sent_id = CF941-1
+# id = 3978
+
+# text = Está em estudo no Ministério da Previdência um conjunto de medidas para desestimular o aumento de aposentadorias no próximo ano.
+# source = CETENFolha n=941 cad=Brasil sec=pol sem=94b
+# sent_id = CF941-2
+# id = 3979
+
+# text = Elas serão oferecidas a Itamar, como alternativa à propalada quebra do caixa previdenciário.
+# source = CETENFolha n=941 cad=Brasil sec=pol sem=94b
+# sent_id = CF941-3
+# id = 3980
+
+# text = Bola preta
+# source = CETENFolha n=941 cad=Brasil sec=pol sem=94b
+# sent_id = CF941-4
+# id = 3981
+
+# text = Causou má impressão, na quarta, a participação do ministro da Justiça, Alexandre Dupeyrat, na reunião que tratou do projeto sobre abuso do poder econômico.
+# source = CETENFolha n=941 cad=Brasil sec=pol sem=94b
+# sent_id = CF941-5
+# id = 3982
+
+# text = Chegou atrasado, foi duro com seus críticos e saiu antes do fim.
+# source = CETENFolha n=941 cad=Brasil sec=pol sem=94b
+# sent_id = CF941-7
+# id = 3983
+
+# text = Madonna na pele de Madonna
+# source = CETENFolha n=942 cad=Revista Folha sec=nd sem=94b
+# newdoc id = CF942
+# sent_id = CF942-1
+# id = 3984
+
+# text = Em «Olhos de Serpente» (Snake Eyes) de Abel Ferrara, Madonna faz o papel dela mesma: uma falsa atriz, falsa loira, que paga para estar num filme.
+# source = CETENFolha n=942 cad=Revista Folha sec=nd sem=94b
+# sent_id = CF942-2
+# id = 3985
+
+# text = É de longe sua melhor atuação no cinema.
+# source = CETENFolha n=942 cad=Revista Folha sec=nd sem=94b
+# sent_id = CF942-3
+# id = 3986
+
+# text = Ferrara põe o excelente Harvey Keitel para interpretar o seu papel: o do diretor que faz da falsa loira uma verdadeira atriz.
+# source = CETENFolha n=942 cad=Revista Folha sec=nd sem=94b
+# sent_id = CF942-4
+# id = 3987
+
+# text = «Olhos de Serpente» é o filme dentro do filme dentro do filme.
+# source = CETENFolha n=942 cad=Revista Folha sec=nd sem=94b
+# sent_id = CF942-5
+# id = 3988
+
+# text = Eddie (Harvey Keitel) dirige a história de um casal de ricos drogados em crise (Madonna e James Russo).
+# source = CETENFolha n=942 cad=Revista Folha sec=nd sem=94b
+# sent_id = CF942-6
+# id = 3989
+
+# text = Eddie também está em crise com sua mulher (interpretada pela mulher de Abel Ferrara) e não resiste à tentação da atriz, que paga para ele filmar (Madonna é produtora de «Olhos de Serpente»).
+# source = CETENFolha n=942 cad=Revista Folha sec=nd sem=94b &D
+# sent_id = CF942-7
+# id = 3990
+
+# text = Caso o tetracampeão seja o Brasil (seja feita a vossa vontade assim na Terra como nos gramados), confirma-se que os últimos serão os primeiros.
+# source = CETENFolha n=943 cad=Ilustrada sec=nd sem=94b &D
+# newdoc id = CF943
+# sent_id = CF943-1
+# id = 3991
+
+# text = Vi, num jogo quase inacreditável da Copa, o Eire jogar futebol muito melhor do que a Itália.
+# source = CETENFolha n=943 cad=Ilustrada sec=nd sem=94b
+# sent_id = CF943-2
+# id = 3992
+
+# text = Venceu por 1 a 0.
+# source = CETENFolha n=943 cad=Ilustrada sec=nd sem=94b
+# sent_id = CF943-3
+# id = 3993
+
+# text = Já bastava, para orgulho da Irlanda, que a Inglaterra sequer tivesse chegado à Copa.
+# source = CETENFolha n=943 cad=Ilustrada sec=nd sem=94b
+# sent_id = CF943-4
+# id = 3994
+
+# text = Mas é na Republica Dominicana que o cruzeiro atinge seu ponto alto.
+# source = CETENFolha n=944 cad=Turismo sec=soc sem=94a
+# newdoc id = CF944
+# sent_id = CF944-1
+# id = 3995
+
+# text = O navio ancora numa praia, Serena Cay, que se torna exclusiva dos 1.600 passageiros.
+# source = CETENFolha n=944 cad=Turismo sec=soc sem=94a
+# sent_id = CF944-2
+# id = 3996
+
+# text = Na areia há apenas espreguiçadeiras, coqueiros e barraquinhas de artesanato.
+# source = CETENFolha n=944 cad=Turismo sec=soc sem=94a
+# sent_id = CF944-3
+# id = 3997
+
+# text = O mar é cristalino.
+# source = CETENFolha n=944 cad=Turismo sec=soc sem=94a
+# sent_id = CF944-4
+# id = 3998
+
+# text = Quem quiser, vai em excursão até o resort local, Casa de Campo.
+# source = CETENFolha n=944 cad=Turismo sec=soc sem=94a
+# sent_id = CF944-5
+# id = 3999
+
+# text = Sem dizer que o seu clube dispensou, humilhantemente, o seu arqueiro Zubizarreta -- depois da derrota para o Milan, 0 a 4, na decisão da Copa da Europa.
+# source = CETENFolha n=945 cad=Esporte sec=des sem=94a
+# newdoc id = CF945
+# sent_id = CF945-1
+# id = 4000
+
+# text = Quando os jogadores souberam da investida de Clemente, o ala Goicoechea se aprestou a defender o seu patrono:
+# source = CETENFolha n=945 cad=Esporte sec=des sem=94a
+# sent_id = CF945-2
+# id = 4001
+
+# text = «Chegamos até aqui, claro, também graças a Cruyff».
+# source = CETENFolha n=945 cad=Esporte sec=des sem=94a
+# sent_id = CF945-3
+# id = 4002
+
+# text = Só Salinas discordou dessa posição.
+# source = CETENFolha n=945 cad=Esporte sec=des sem=94a
+# sent_id = CF945-4
+# id = 4003
+
+# text = Dos dez cestinhas da atual temporada, apenas um joga fora do garrafão.
+# source = CETENFolha n=946 cad=Caderno Especial sec=nd sem=94b
+# newdoc id = CF946
+# sent_id = CF946-1
+# id = 4004
+
+# text = Dos cinco primeiros artilheiros, quatro são superpivôs.
+# source = CETENFolha n=946 cad=Caderno Especial sec=nd sem=94b
+# sent_id = CF946-2
+# id = 4005
+
+# text = Todos eles estarão esta noite em Minneapolis.
+# source = CETENFolha n=946 cad=Caderno Especial sec=nd sem=94b
+# sent_id = CF946-3
+# id = 4006
+
+# text = Chance imperdível para aqueles que apreciam enterradas, tocos e a mais primitiva troca de porradas.
+# source = CETENFolha n=946 cad=Caderno Especial sec=nd sem=94b
+# sent_id = CF946-4
+# id = 4007
+
+# text = A NBA nem existia e o profissionalismo no esporte apenas engatinhava quando apareceu o primeiro gigante do basquete norte-americano.
+# source = CETENFolha n=946 cad=Caderno Especial sec=nd sem=94b
+# sent_id = CF946-5
+# id = 4008
+
+# text = Seu nome: George Mikan.
+# source = CETENFolha n=946 cad=Caderno Especial sec=nd sem=94b
+# sent_id = CF946-6
+# id = 4009
+
+# text = Sua virtude: 2,08 m.
+# source = CETENFolha n=946 cad=Caderno Especial sec=nd sem=94b
+# sent_id = CF946-7
+# id = 4010
+
+# text = Em torno do gabinete presidencial no Planalto ele quer os dois maiores colaboradores na campanha eleitoral: o amigo, empresário e secretário-geral do PSDB Sérgio Motta e o ex-reitor da Unicamp e coordenador do programa de governo Paulo Renato de Souza.
+# source = CETENFolha n=947 cad=Caderno Especial sec=nd sem=94a
+# newdoc id = CF947
+# sent_id = CF947-1
+# id = 4011
+
+# text = Cardoso diz que a frente para sua eleição foi formada exclusivamente em torno de um programa.
+# source = CETENFolha n=947 cad=Caderno Especial sec=nd sem=94a
+# sent_id = CF947-2
+# id = 4012
+
+# text = «Cantor tem vários; mas cantora é a Maria Carey»
+# source = CETENFolha n=948 cad=Revista Folha sec=nd sem=94b
+# newdoc id = CF948
+# sent_id = CF948-1
+# id = 4013
+
+# text = «Ator tem vários, mas atriz é a Irene Papas»
+# source = CETENFolha n=948 cad=Revista Folha sec=nd sem=94b
+# sent_id = CF948-3
+# id = 4014
+
+# text = Diretor de Cinema:
+# source = CETENFolha n=948 cad=Revista Folha sec=nd sem=94b
+# sent_id = CF948-4
+# id = 4015
+
+# text = «O número é mais alarmante se pensarmos que daria para abastecer toda a população brasileira por oito meses», diz Dalmo Rosalen, da Secretaria do Meio Ambiente.
+# source = CETENFolha n=949 cad=Agrofolha sec=agr sem=94b
+# newdoc id = CF949
+# sent_id = CF949-1
+# id = 4016
+
+# text = Há cidades que enfrentam programas de racionamento de água.
+# source = CETENFolha n=949 cad=Agrofolha sec=agr sem=94b
+# sent_id = CF949-2
+# id = 4017
+
+# text = Um exemplo é a bacia do Vale do Piracicaba (a 170 quilômetros a noroeste de São Paulo).
+# source = CETENFolha n=949 cad=Agrofolha sec=agr sem=94b
+# sent_id = CF949-3
+# id = 4018
+
+# text = Flach Hoje estão estabelecidas penas de prisão, mesmo que eventualmente não sejam cumpridas ou sejam convertidas em prestação de serviços à comunidade.
+# source = CETENFolha n=950 cad=Cotidiano sec=soc sem=94a
+# newdoc id = CF950
+# sent_id = CF950-1
+# id = 4019
+
+# text = Mas eu imagino que deveria se dotar, pelo menos o Judiciário, de medidas que possibilitassem a concessão do perdão judicial.
+# source = CETENFolha n=950 cad=Cotidiano sec=soc sem=94a
+# sent_id = CF950-2
+# id = 4020
+
+# text = Folha -- O senhor acha que o usuário é questão de saúde, de educação ou de polícia?
+# source = CETENFolha n=950 cad=Cotidiano sec=soc sem=94a
+# sent_id = CF950-3
+# id = 4021
+
+# text = Flach No terreno das idéias, eu priorizo como uma questão de educação e de saúde.
+# source = CETENFolha n=950 cad=Cotidiano sec=soc sem=94a
+# sent_id = CF950-4
+# id = 4022
+
+# text = Eu estou muito preocupado em estimular as atividades preventivas.
+# source = CETENFolha n=950 cad=Cotidiano sec=soc sem=94a
+# sent_id = CF950-5
+# id = 4023
+
+# text = Nossa preocupação é um projeto que estimule no jovem uma vida sem drogas, promovendo-se um comportamento construtivo.
+# source = CETENFolha n=950 cad=Cotidiano sec=soc sem=94a
+# sent_id = CF950-6
+# id = 4024
+
+# text = Tenista francesa elimina Arantxa em Nova York
+# source = CETENFolha n=951 cad=Esporte sec=des sem=94a
+# newdoc id = CF951
+# sent_id = CF951-1
+# id = 4025
+
+# text = Julie Halard causa a primeira surpresa do Masters do tênis feminino
+# source = CETENFolha n=951 cad=Esporte sec=des sem=94a
+# sent_id = CF951-2
+# id = 4026
+
+# text = A espanhola Arantxa Sanchez, tenista com mlehor desempenho nesta temporada, foi eliminada na primeira rodad do Virginia Slims Masters em Nova York, que reúne as 16 melhores jogadoras do ano.
+# source = CETENFolha n=951 cad=Esporte sec=des sem=94a &W
+# sent_id = CF951-4
+# id = 4027
+
+# text = Sanchez, nº 2 do ranking mundial, perdeu num jogo dramático para a francesa Julie Halard por 6/2, 1/6 e 7/6, com 7/2 no tie-break decisivo.
+# source = CETENFolha n=951 cad=Esporte sec=des sem=94a
+# sent_id = CF951-5
+# id = 4028
+
+# text = Na 22ª posição do ranking, Halard foi empurrada pelo público no Madison Square Garden.
+# source = CETENFolha n=951 cad=Esporte sec=des sem=94a
+# sent_id = CF951-6
+# id = 4029
+
+# text = Não se pense que esta ruptura modernizante passa pelo PT.
+# source = CETENFolha n=798 cad=Dinheiro sec=eco sem=94b
+# newdoc id = CF798
+# sent_id = CF798-1
+# id = 3355
+
+# text = O partido é um aglomerado heterogêneo, que só se mantém unido pela perspectiva de vitória de Lula.
+# source = CETENFolha n=798 cad=Dinheiro sec=eco sem=94b
+# sent_id = CF798-2
+# id = 3356
+
+# text = Teses modernas e sociais como o controle civil sobre o sistema de saúde esbarram em resistências enormes dos setores hegemônicos do PT, sob o argumento de que amarrariam a atuação do governo, logo agora que o partido se prepara para assumir o poder.
+# source = CETENFolha n=798 cad=Dinheiro sec=eco sem=94b
+# sent_id = CF798-3
+# id = 3357
+
+# text = Tampouco passa por FHC, representante da contemporização bem explicada, ou por Antonio Britto cujo voto, em favor da anistia total aos agricultores, semana passada, ressuscitou os piores prognósticos sobre seu estilo.
+# source = CETENFolha n=798 cad=Dinheiro sec=eco sem=94b
+# sent_id = CF798-4
+# id = 3358
+
+# text = O motorista teria perdido o controle do carro, batido em um Monza e em uma árvore e capotado na rua Enéas Luiz Carlos Barbante.
+# source = CETENFolha n=799 cad=Cotidiano sec=soc sem=94a
+# newdoc id = CF799
+# sent_id = CF799-1
+# id = 3359
+
+# text = Maria Elisa Flora Demarchi, 15, está internada em estado grave no Hospital do Mandaqui.
+# source = CETENFolha n=799 cad=Cotidiano sec=soc sem=94a
+# sent_id = CF799-2
+# id = 3360
+
+# text = «O boneco servirá para criar o que chamamos de 'efeito auréola' no motorista.
+# source = CETENFolha n=800 cad=Cotidiano sec=soc sem=94b
+# newdoc id = CF800
+# sent_id = CF800-1
+# id = 3361
+
+# text = Pesquisas comprovam que quando o motorista vê a fiscalização ele reduz a velocidade por pelo menos três quilômetros», diz Lehfeld.
+# source = CETENFolha n=800 cad=Cotidiano sec=soc sem=94b
+# sent_id = CF800-2
+# id = 3362
+
+# text = O boneco vai ser colocado em locais sem congestionamento.
+# source = CETENFolha n=800 cad=Cotidiano sec=soc sem=94b
+# sent_id = CF800-3
+# id = 3363
+
+# text = Vai «trabalhar» das 7h às 17h30, inclusive nos finais de semana.
+# source = CETENFolha n=800 cad=Cotidiano sec=soc sem=94b
+# sent_id = CF800-4
+# id = 3364
+
+# text = A permanência em cada cabine ainda não foi definida.
+# source = CETENFolha n=800 cad=Cotidiano sec=soc sem=94b
+# sent_id = CF800-5
+# id = 3365
+
+# text = Perry descreveu três fases para a operação: a entrada no Haiti e a conquista de todas as posições estratégicas (com duração de seis a horas a dois dias), a criação de «um ambiente seguro» (de três a seis meses) e a transferência do controle da situação para a ONU.
+# source = CETENFolha n=801 cad=Mundo sec=pol sem=94a
+# newdoc id = CF801
+# sent_id = CF801-1
+# id = 3366
+
+# text = O presidente Bill Clinton passou a maior parte do dia de ontem em reuniões com seus assessores militares e de segurança nacional na Casa Branca.
+# source = CETENFolha n=801 cad=Mundo sec=pol sem=94a
+# sent_id = CF801-2
+# id = 3367
+
+# text = Francis Bacon vira nome de bar e Lanterna estréia pista
+# source = CETENFolha n=802 cad=Cotidiano sec=soc sem=94b
+# newdoc id = CF802
+# sent_id = CF802-1
+# id = 3368
+
+# text = Artistas brasileiros expõem «covers» de telas do pintor
+# source = CETENFolha n=802 cad=Cotidiano sec=soc sem=94b
+# sent_id = CF802-2
+# id = 3369
+
+# text = Vila Madalena e Pinheiros ganharam novas opções noturnas nesta semana.
+# source = CETENFolha n=802 cad=Cotidiano sec=soc sem=94b
+# sent_id = CF802-4
+# id = 3370
+
+# text = O bar e restaurante Lanterna inaugurou na terça-feira um espaço para dançar.
+# source = CETENFolha n=802 cad=Cotidiano sec=soc sem=94b
+# sent_id = CF802-5
+# id = 3371
+
+# text = Agora o jardim entre a galeria e o salão do restaurante propriamente dito tem um bar com som dos DJs Bidi, Bartolo e Hori.
+# source = CETENFolha n=802 cad=Cotidiano sec=soc sem=94b
+# sent_id = CF802-6
+# id = 3372
+
+# text = Aposentado nu
+# source = CETENFolha n=803 cad=Cotidiano sec=soc sem=94a
+# newdoc id = CF803
+# sent_id = CF803-1
+# id = 3373
+
+# text = O trânsito nas avenidas Paulista e Brigadeiro Luís Antônio (zona central de São Paulo) parou no dia 9 de setembro de 86.
+# source = CETENFolha n=803 cad=Cotidiano sec=soc sem=94a
+# sent_id = CF803-2
+# id = 3374
+
+# text = O aposentado Eliseu Francisco de Lyra (na época com 44 anos), depois de discutir com o irmão, saiu do carro, subiu no capô, tirou as roupas e sapateou.
+# source = CETENFolha n=803 cad=Cotidiano sec=soc sem=94a
+# sent_id = CF803-3
+# id = 3375
+
+# text = A AI, organismo internacional com mais de 1,1 milhão de membros, divulgou o documento ontem em São Paulo.
+# source = CETENFolha n=804 cad=Brasil sec=pol sem=94a
+# newdoc id = CF804
+# sent_id = CF804-1
+# id = 3376
+
+# text = O relatório, referente ao ano de 1993, também destaca a impunidade dos acusados pelos massacres do Carandiru (outubro de 92), da Candelária (julho de 93) e de Vigário Geral (agosto de 93).
+# source = CETENFolha n=804 cad=Brasil sec=pol sem=94a
+# sent_id = CF804-2
+# id = 3377
+
+# text = O apelo pop do evento já está causando reações.
+# source = CETENFolha n=805 cad=Ilustrada sec=nd sem=94a
+# newdoc id = CF805
+# sent_id = CF805-1
+# id = 3378
+
+# text = Ohtake diz que até o compositor e cantor baiano Caetano Veloso manifestou desejo de assistir ao show de Nusrat, nesta segunda-feira, em São Paulo.
+# source = CETENFolha n=805 cad=Ilustrada sec=nd sem=94a
+# sent_id = CF805-2
+# id = 3379
+
+# text = «Um monte de artistas vai querer ver os concertos», diz Ohtake.
+# source = CETENFolha n=805 cad=Ilustrada sec=nd sem=94a
+# sent_id = CF805-3
+# id = 3380
+
+# text = O secretário espera a resposta do público.
+# source = CETENFolha n=805 cad=Ilustrada sec=nd sem=94a
+# sent_id = CF805-4
+# id = 3381
+
+# text = «Toda platéia de música erudita é tradicionalista», explica.
+# source = CETENFolha n=805 cad=Ilustrada sec=nd sem=94a
+# sent_id = CF805-5
+# id = 3382
+
+# text = «Em Campos do Jordão também.
+# source = CETENFolha n=805 cad=Ilustrada sec=nd sem=94a
+# sent_id = CF805-6
+# id = 3383
+
+# text = O público de lá é extremamente treinado em música do século 19.
+# source = CETENFolha n=805 cad=Ilustrada sec=nd sem=94a
+# sent_id = CF805-7
+# id = 3384
+
+# text = Se reagir é interessante porque mostrará que está vivo.»
+# source = CETENFolha n=805 cad=Ilustrada sec=nd sem=94a
+# sent_id = CF805-8
+# id = 3385
+
+# text = Para mim é muito estimulante oferecer uma idéia espacial para um trabalho que começou a partir de uma idéia musical.
+# source = CETENFolha n=806 cad=Ilustrada sec=nd sem=94a
+# newdoc id = CF806
+# sent_id = CF806-1
+# id = 3386
+
+# text = Basicamente, é o que tenho feito com os músicos com os quais trabalho.
+# source = CETENFolha n=806 cad=Ilustrada sec=nd sem=94a
+# sent_id = CF806-2
+# id = 3387
+
+# text = O que mudou talvez seja meu vocabulário, que está menos estruturado.
+# source = CETENFolha n=806 cad=Ilustrada sec=nd sem=94a
+# sent_id = CF806-3
+# id = 3388
+
+# text = A dinâmica, a maneira como os movimentos são construídos, hoje é diferente.
+# source = CETENFolha n=806 cad=Ilustrada sec=nd sem=94a
+# sent_id = CF806-4
+# id = 3389
+
+# text = O que evitar
+# source = CETENFolha n=807 cad=Empregos sec=eco sem=94b
+# newdoc id = CF807
+# sent_id = CF807-1
+# id = 3390
+
+# text = 1. Currículo com mais de três páginas.
+# source = CETENFolha n=807 cad=Empregos sec=eco sem=94b
+# sent_id = CF807-2
+# id = 3391
+
+# text = Desanima o leitor, que recebe dezenas deles por dia
+# source = CETENFolha n=807 cad=Empregos sec=eco sem=94b
+# sent_id = CF807-3
+# id = 3392
+
+# text = 2. Que o selecionador tenha que ler todo o currículo para descobrir o perfil do profissional.
+# source = CETENFolha n=807 cad=Empregos sec=eco sem=94b
+# sent_id = CF807-4
+# id = 3393
+
+# text = O crítico (é/deve ser), um insolente da razão?
+# source = CETENFolha n=808 cad=Mais! sec=nd sem=94b &D
+# newdoc id = CF808
+# sent_id = CF808-1
+# id = 3394
+
+# text = Um (mecenas) nobre que deifica o saber antes e mistifica o dar depois ou ele deve ser um iconoclasta, espalhar o que sabe enquanto o tempo faz das novidades fatos descartáveis.
+# source = CETENFolha n=808 cad=Mais! sec=nd sem=94b
+# sent_id = CF808-2
+# id = 3395
+
+# text = Será que já não nos basta a humilde compulsão passiva dos leitores que aceitam nos ler para serem informados?
+# source = CETENFolha n=808 cad=Mais! sec=nd sem=94b
+# sent_id = CF808-3
+# id = 3396
+
+# text = Mas o leitor também sabe se vingar com o desdém e a indiferença com que é capaz de folhear as páginas da sua busca.
+# source = CETENFolha n=808 cad=Mais! sec=nd sem=94b
+# sent_id = CF808-4
+# id = 3397
+
+# text = Um crítico de jornal cotidiano deve se conformar com o papel de narrador e seu destaque secundário ao simples gesto de uma página ser virada e ficar para trás.
+# source = CETENFolha n=808 cad=Mais! sec=nd sem=94b
+# sent_id = CF808-5
+# id = 3398
+
+# text = A notícia é um fato, não um exercício acadêmico.
+# source = CETENFolha n=808 cad=Mais! sec=nd sem=94b &E
+# sent_id = CF808-6
+# id = 3399
+
+# text = A dimensão do fato está na relatividade da sua importância para cada leitor e não no espaço narcísico que ocupa sob uma assinatura.
+# source = CETENFolha n=808 cad=Mais! sec=nd sem=94b &E
+# sent_id = CF808-7
+# id = 3400
+
+# text = Em Medicina, ganharam Richard Dart e Richard Gustafson, da Universidade de Arizona, por fracassarem ao tratar um paciente mordido por uma cascavel com choques elétricos aplicados no lábio durante cinco minutos.
+# source = CETENFolha n=809 cad=Brasil sec=pol sem=94a
+# newdoc id = CF809
+# sent_id = CF809-1
+# id = 3401
+
+# text = Em Física, ganhou a Agência Meteorológica Japonesa por um estudo de sete anos sobre a hipótese de terremotos serem causados por peixes rebolando suas caudas.
+# source = CETENFolha n=809 cad=Brasil sec=pol sem=94a
+# sent_id = CF809-2
+# id = 3402
+
+# text = Na madrugada de ontem, os prédios foram vigiados a distância por homens da Rota, que estavam sem farda.
+# source = CETENFolha n=810 cad=Cotidiano sec=soc sem=94b
+# newdoc id = CF810
+# sent_id = CF810-1
+# id = 3403
+
+# text = Segundo o coronel, eles viram o armamento da quadrilha ser retirado de um dos prédios em um Gol.
+# source = CETENFolha n=810 cad=Cotidiano sec=soc sem=94b
+# sent_id = CF810-2
+# id = 3404
+
+# text = Esse carro foi achado no início da tarde em Engenheiro Marsilac (zona sul).
+# source = CETENFolha n=810 cad=Cotidiano sec=soc sem=94b
+# sent_id = CF810-3
+# id = 3405
+
+# text = Com mandados de busca e apreensão, os homens da Rota invadiram os três apartamentos.
+# source = CETENFolha n=810 cad=Cotidiano sec=soc sem=94b
+# sent_id = CF810-4
+# id = 3406
+
+# text = Não houve tiroteio.
+# source = CETENFolha n=810 cad=Cotidiano sec=soc sem=94b
+# sent_id = CF810-5
+# id = 3407
+
+# text = De acordo com o coronel, a polícia descobriu a quadrilha através de uma denúncia anônima.
+# source = CETENFolha n=810 cad=Cotidiano sec=soc sem=94b
+# sent_id = CF810-6
+# id = 3408
+
+# text = Em 90, quatro membros do CV foram mortos após um tiroteio em Cidade Tiradentes
+# source = CETENFolha n=810 cad=Cotidiano sec=soc sem=94b
+# sent_id = CF810-7
+# id = 3409
+
+# text = Eduardo Lourenço -- Não se deve esperar uma intervenção que tenha efeitos imediatos como a dos políticos.
+# source = CETENFolha n=811 cad=Mais! sec=nd sem=94a
+# newdoc id = CF811
+# sent_id = CF811-1
+# id = 3410
+
+# text = Os escritores aqui reunidos pretendem alertar a comunidade internacional sobre os ataques sofridos pela liberdade de pensar e de escrever em vários países do mundo.
+# source = CETENFolha n=811 cad=Mais! sec=nd sem=94a
+# sent_id = CF811-2
+# id = 3411
+
+# text = Os exemplos mais célebres e trágicos são os de Rushdie e Nasreen.
+# source = CETENFolha n=811 cad=Mais! sec=nd sem=94a
+# sent_id = CF811-3
+# id = 3412
+
+# text = O nosso protesto é de ordem moral, temos a obrigação de defender uma das grandes tradições da nossa civilização, que é a da liberdade de expressão.
+# source = CETENFolha n=811 cad=Mais! sec=nd sem=94a
+# sent_id = CF811-4
+# id = 3413
+
+# text = José Saramago -- A contribuição vai depender do eco que o Parlamento possa ter na opinião pública.
+# source = CETENFolha n=811 cad=Mais! sec=nd sem=94a
+# sent_id = CF811-5
+# id = 3414
+
+# text = Podemos dizer coisas importantes, tomar grandes decisões, mas se não tiver repercussão...
+# source = CETENFolha n=811 cad=Mais! sec=nd sem=94a &E
+# sent_id = CF811-6
+# id = 3415
+
+# text = Tudo depende da capacidade que o Parlamento tiver de transmitir as suas idéias à imprensa, ao rádio e à televisão.
+# source = CETENFolha n=811 cad=Mais! sec=nd sem=94a
+# sent_id = CF811-7
+# id = 3416
+
+# text = Não sei se os jornalistas estão conscientes da grande responsabilidade que têm.
+# source = CETENFolha n=811 cad=Mais! sec=nd sem=94a
+# sent_id = CF811-8
+# id = 3417
+
+# text = Os seus 100 quilômetros já levaram este ano 200 mil toneladas de soja.
+# source = CETENFolha n=812 cad=Opinião sec=opi sem=94b
+# newdoc id = CF812
+# sent_id = CF812-1
+# id = 3418
+
+# text = Custo: US$ 8 por tonelada.
+# source = CETENFolha n=812 cad=Opinião sec=opi sem=94b
+# sent_id = CF812-2
+# id = 3419
+
+# text = No Sul, US$ 24!
+# source = CETENFolha n=812 cad=Opinião sec=opi sem=94b
+# sent_id = CF812-3
+# id = 3420
+
+# text = Por que não publicar que o PT fez um seminário no Nordeste sobre ela e concluiu pela necessidade de sua construção?
+# source = CETENFolha n=812 cad=Opinião sec=opi sem=94b
+# sent_id = CF812-4
+# id = 3421
+
+# text = Esta é uma obra do Brasil, transformadora da estrutura do país.
+# source = CETENFolha n=812 cad=Opinião sec=opi sem=94b
+# sent_id = CF812-5
+# id = 3422
+
+# text = Não comporta qualquer reserva, e bendito o país em que os homens públicos exigem dos candidatos a solução de problemas nacionais, minorar a fome, dando leite às crianças que se alimentam de lixo, e estradas para desenvolver o país.
+# source = CETENFolha n=812 cad=Opinião sec=opi sem=94b
+# sent_id = CF812-6
+# id = 3423
+
+# text = Edinho é o novo técnico do Flamengo
+# source = CETENFolha n=813 cad=Esporte sec=des sem=94a
+# newdoc id = CF813
+# sent_id = CF813-1
+# id = 3424
+
+# text = O ex-jogador assumiu o cargo ontem em substituição a Carlinhos, demitido após a derrota para o Bahia (0 a 1), anteontem.
+# source = CETENFolha n=813 cad=Esporte sec=des sem=94a
+# sent_id = CF813-2
+# id = 3425
+
+# text = «As torcidas partem para cima da PM a fim de que nos concentremos num só local.
+# source = CETENFolha n=813 cad=Esporte sec=des sem=94a
+# sent_id = CF813-3
+# id = 3426
+
+# text = Assim, se abre espaço na arquibancada para fumar maconha.»
+# source = CETENFolha n=813 cad=Esporte sec=des sem=94a
+# sent_id = CF813-4
+# id = 3427
+
+# text = I -- nos preços públicos e tarifas dos serviços públicos;
+# source = CETENFolha n=814 cad=Brasil sec=pol sem=94b
+# newdoc id = CF814
+# sent_id = CF814-1
+# id = 3428
+
+# text = II -- nas etiquetas e tabelas de preços;
+# source = CETENFolha n=814 cad=Brasil sec=pol sem=94b
+# sent_id = CF814-2
+# id = 3429
+
+# text = Entre os denunciados por corrupção passiva estão o procurador de Justiça aposentado Aldegy do Nascimento, 26 delegados, inspetores e peritos da Polícia Civil e Ary Chagas de Aguiar, assessor da promotora Lúcia Atalla.
+# source = CETENFolha n=815 cad=Cotidiano sec=soc sem=94a
+# newdoc id = CF815
+# sent_id = CF815-1
+# id = 3430
+
+# text = Os 38 nomes fazem parte de um aditamento à primeira denúncia feita pelo Ministério Público no escândalo do bicho, em junho.
+# source = CETENFolha n=815 cad=Cotidiano sec=soc sem=94a
+# sent_id = CF815-2
+# id = 3431
+
+# text = O pai de Romário foi sequestrado na segunda-feira à noite, no Rio.
+# source = CETENFolha n=816 cad=Esporte sec=des sem=94b
+# newdoc id = CF816
+# sent_id = CF816-1
+# id = 3432
+
+# text = Os sequestradores estariam exigindo US$ 7 milhões (cerca de CR$ 9,6 bilhões) para libertá-lo.
+# source = CETENFolha n=816 cad=Esporte sec=des sem=94b
+# sent_id = CF816-2
+# id = 3433
+
+# text = Abalado, o jogador ameaçou não disputar a Copa do Mundo, em junho e julho, nos EUA, caso o pai não seja libertado.
+# source = CETENFolha n=816 cad=Esporte sec=des sem=94b
+# sent_id = CF816-3
+# id = 3434
+
+# text = O sétimo filme de Spike Lee acerta nos figurinos e trejeitos da época e resgata preciosidades do soul negro dos anos 70.
+# source = CETENFolha n=817 cad=Ilustrada sec=nd sem=94b
+# newdoc id = CF817
+# sent_id = CF817-1
+# id = 3435
+
+# text = As músicas incluem The Jackson 5, Stevie Wonder, Jimi Hendrix, James Brown e outros 18 bons nomes.
+# source = CETENFolha n=817 cad=Ilustrada sec=nd sem=94b &L
+# sent_id = CF817-2
+# id = 3436
+
+# text = O problema é a história.
+# source = CETENFolha n=817 cad=Ilustrada sec=nd sem=94b
+# sent_id = CF817-3
+# id = 3437
+
+# text = Quase nada acontece.
+# source = CETENFolha n=817 cad=Ilustrada sec=nd sem=94b
+# sent_id = CF817-4
+# id = 3438
+
+# text = Há algumas brigas engraçadas entre irmãos, cenas de separação conjugal e uma morte.
+# source = CETENFolha n=817 cad=Ilustrada sec=nd sem=94b
+# sent_id = CF817-5
+# id = 3439
+
+# text = Em algumas passagens, há diálogos intermináveis e vazios.
+# source = CETENFolha n=817 cad=Ilustrada sec=nd sem=94b
+# sent_id = CF817-6
+# id = 3440
+
+# text = Durante o almoço familiar, por exemplo, fala-se muito sobre quase nada e ninguém mastiga.
+# source = CETENFolha n=817 cad=Ilustrada sec=nd sem=94b
+# sent_id = CF817-7
+# id = 3441
+
+# text = Soa forçado demais.
+# source = CETENFolha n=817 cad=Ilustrada sec=nd sem=94b
+# sent_id = CF817-8
+# id = 3442
+
+# text = Não se sabe ainda como Oosterbroek morreu.
+# source = CETENFolha n=818 cad=Mundo sec=pol sem=94b
+# newdoc id = CF818
+# sent_id = CF818-1
+# id = 3443
+
+# text = Seu corpo não tinha marcas de tiros.
+# source = CETENFolha n=818 cad=Mundo sec=pol sem=94b
+# sent_id = CF818-2
+# id = 3444
+
+# text = Aparentemente ele quebrou o pescoço quando tentava fugir do fogo cruzado.
+# source = CETENFolha n=818 cad=Mundo sec=pol sem=94b
+# sent_id = CF818-3
+# id = 3445
+
+# text = A polícia anunciou a libertação de seis homens que estavam trancados no porão de um prédio do CNA em Johannesburgo.
+# source = CETENFolha n=818 cad=Mundo sec=pol sem=94b
+# sent_id = CF818-4
+# id = 3446
+
+# text = Segundo o porta-voz da polícia, Dave Bruce, os seis foram torturados.
+# source = CETENFolha n=818 cad=Mundo sec=pol sem=94b
+# sent_id = CF818-5
+# id = 3447
+
+# text = O deputado Adroaldo Streck (PSDB-RS) ficou encarregado de confirmar com Britto o encontro.
+# source = CETENFolha n=819 cad=Brasil sec=pol sem=94a
+# newdoc id = CF819
+# sent_id = CF819-1
+# id = 3448
+
+# text = Britto já informou a Streck que é favorável, mas ficou de discutir a questão com o PMDB gaúcho.
+# source = CETENFolha n=819 cad=Brasil sec=pol sem=94a
+# sent_id = CF819-2
+# id = 3449
+
+# text = Camila viajava no colo de Dalva, na frente do veículo.
+# source = CETENFolha n=820 cad=Brasil sec=pol sem=94b
+# newdoc id = CF820
+# sent_id = CF820-1
+# id = 3450
+
+# text = O corpo de Camila foi lançado para fora do carro.
+# source = CETENFolha n=820 cad=Brasil sec=pol sem=94b
+# sent_id = CF820-2
+# id = 3451
+
+# text = A menina morreu na hora.
+# source = CETENFolha n=820 cad=Brasil sec=pol sem=94b
+# sent_id = CF820-3
+# id = 3452
+
+# text = Dalva seria submetida ontem a cirurgia no hospital de São Paulo.
+# source = CETENFolha n=820 cad=Brasil sec=pol sem=94b
+# sent_id = CF820-4
+# id = 3453
+
+# text = A famíla voltava para casa, em Americanópolis, depois de participar de casamento na Barra Funda e deu carona a amigos.
+# source = CETENFolha n=820 cad=Brasil sec=pol sem=94b
+# sent_id = CF820-5
+# id = 3454
+
+# text = Outras cinco pessoas ficaram feridas.
+# source = CETENFolha n=820 cad=Brasil sec=pol sem=94b
+# sent_id = CF820-6
+# id = 3455
+
+# text = Niemeyer -- É, foi em 1936.
+# source = CETENFolha n=821 cad=Mais! sec=nd sem=94b
+# newdoc id = CF821
+# sent_id = CF821-1
+# id = 3456
+
+# text = Folha -- o que o sr. pode dizer dele em termos pessoais?
+# source = CETENFolha n=821 cad=Mais! sec=nd sem=94b
+# sent_id = CF821-2
+# id = 3457
+
+# text = G. Love canta blues
+# source = CETENFolha n=822 cad=Ilustrada sec=nd sem=94a
+# newdoc id = CF822
+# sent_id = CF822-1
+# id = 3458
+
+# text = Jazz rap?
+# source = CETENFolha n=822 cad=Ilustrada sec=nd sem=94a
+# sent_id = CF822-2
+# id = 3459
+
+# text = Esqueça.
+# source = CETENFolha n=822 cad=Ilustrada sec=nd sem=94a
+# sent_id = CF822-3
+# id = 3460
+
+# text = Ou melhor, não esqueça porque ainda se faz muita coisa boa, mas deixe de querer ser bacana citando-o como a última tendência.
+# source = CETENFolha n=822 cad=Ilustrada sec=nd sem=94a
+# sent_id = CF822-4
+# id = 3461
+
+# text = Para aquele verniz atualizador, passe desde já a usar a expressão «blues rap».
+# source = CETENFolha n=822 cad=Ilustrada sec=nd sem=94a
+# sent_id = CF822-5
+# id = 3462
+
+# text = E, para um efeito extra, cite G. Love and Special Sauce.
+# source = CETENFolha n=822 cad=Ilustrada sec=nd sem=94a
+# sent_id = CF822-6
+# id = 3463
+
+# text = Seu álbum de estréia, lançado no último verão americano, causou pouco ou nenhum impacto na parada.
+# source = CETENFolha n=822 cad=Ilustrada sec=nd sem=94a
+# sent_id = CF822-7
+# id = 3464
+
+# text = Mas uma boa escavação nas seções de críticas de revistas de música importadas revela a verdadeira adoração que G. Love estimulou entre os jornalistas especializados.
+# source = CETENFolha n=822 cad=Ilustrada sec=nd sem=94a
+# sent_id = CF822-8
+# id = 3465
+
+# text = O secretário-geral da Presidência, Mauro Durante, também tem emprego garantido.
+# source = CETENFolha n=823 cad=Brasil sec=pol sem=94a
+# newdoc id = CF823
+# sent_id = CF823-1
+# id = 3466
+
+# text = Itamar quis encaixá-lo no Tribunal Superior do Trabalho, mas a OAB (Ordem dos Advogados do Brasil) não deixou.
+# source = CETENFolha n=823 cad=Brasil sec=pol sem=94a
+# sent_id = CF823-2
+# id = 3467
+
+# text = O presidente articulou, então, lobby certeiro em direção ao Sebrae (Serviço de Apoio à Pequena e Média Empresa) e ainda pediu a FHC que o ajudasse a pôr Durante na presidência da entidade.
+# source = CETENFolha n=823 cad=Brasil sec=pol sem=94a
+# sent_id = CF823-3
+# id = 3468
+
+# text = Esses dados fazem parte do livro «Conflitos no Campo Brasil 1993», lançado na ABI (Associação Brasileira de Imprensa), no Rio de Janeiro, pela CPT (Comissão Pastoral da Terra), órgão da Igreja.
+# source = CETENFolha n=824 cad=Brasil sec=pol sem=94b
+# newdoc id = CF824
+# sent_id = CF824-1
+# id = 3469
+
+# text = Constam do livro 15 quadros estatísticos relacionando os nomes das vítimas e os responsáveis por crimes ligados a conflitos de terra.
+# source = CETENFolha n=824 cad=Brasil sec=pol sem=94b
+# sent_id = CF824-2
+# id = 3470
+
+# text = As causas da violência no campo também são discutidas.
+# source = CETENFolha n=824 cad=Brasil sec=pol sem=94b
+# sent_id = CF824-3
+# id = 3471
+
+# text = O diretor executivo do FMI também enfatizou a necessidade da queda dos juros no Brasil para incentivar a volta de investimentos maciços nos setor produtivo.
+# source = CETENFolha n=825 cad=Brasil sec=pol sem=94a &W
+# newdoc id = CF825
+# sent_id = CF825-1
+# id = 3472
+
+# text = A uma pergunta sobre se a volta dos investimentos externos não dependeria do selo de aprovação do Plano Real através de um acordo formal entre o FMI e o Brasil, Camdessus disse que o que vai fazer a taxa de juros cair não é um acordo com o FMI, mas a credibilidade interna e externa do Plano Real.
+# source = CETENFolha n=825 cad=Brasil sec=pol sem=94a &E
+# sent_id = CF825-2
+# id = 3473
+
+# text = Flutuação dos juros agrada instituições
+# source = CETENFolha n=826 cad=Dinheiro sec=eco sem=94b
+# newdoc id = CF826
+# sent_id = CF826-1
+# id = 3474
+
+# text = Bancos e financeiras receberam bem a resolução 2.071 do Conselho Monetário Nacional.
+# source = CETENFolha n=826 cad=Dinheiro sec=eco sem=94b
+# sent_id = CF826-3
+# id = 3475
+
+# text = Baixada sexta-feira, ela cria a taxa de juro flutuante.
+# source = CETENFolha n=826 cad=Dinheiro sec=eco sem=94b
+# sent_id = CF826-4
+# id = 3476
+
+# text = Abre a perspectiva de aplicações por prazo mais longos.
+# source = CETENFolha n=826 cad=Dinheiro sec=eco sem=94b
+# sent_id = CF826-5
+# id = 3477
+
+# text = O juro flutante permite reavaliar periodicamente as taxas de juros das aplicações e empréstimos.
+# source = CETENFolha n=826 cad=Dinheiro sec=eco sem=94b &W
+# sent_id = CF826-6
+# id = 3478
+
+# text = Iniciativa de Moscou torna ataque improvável
+# source = CETENFolha n=828 cad=Mundo sec=pol sem=94b
+# newdoc id = CF828
+# sent_id = CF828-1
+# id = 3479
+
+# text = A intervenção diplomática russa foi decisiva para evitar o envolvimento ocidental na guerra civil na Bósnia.
+# source = CETENFolha n=828 cad=Mundo sec=pol sem=94b
+# sent_id = CF828-4
+# id = 3480
+
+# text = Ao se oferecer para intermediar o conflito, a Rússia deu aos seus aliados sérvios a possibilidade de uma retirada honrosa.
+# source = CETENFolha n=828 cad=Mundo sec=pol sem=94b
+# sent_id = CF828-5
+# id = 3481
+
+# text = Isso praticamente eliminou a ameaça de ataques aéreos da Otan.
+# source = CETENFolha n=828 cad=Mundo sec=pol sem=94b
+# sent_id = CF828-6
+# id = 3482
+
+# text = Essa é a avaliação do Instituto Internacional de Estudos Estratégicos de Londres (IIEE), um dos mais importantes centros de pesquisa militar do Ocidente.
+# source = CETENFolha n=828 cad=Mundo sec=pol sem=94b
+# sent_id = CF828-7
+# id = 3483
+
+# text = «Um ataque agora não faz mais sentido, desde que os sérvios continuem a recuar», disse à Folha o coronel Andrew Duncan, do IIEE.
+# source = CETENFolha n=828 cad=Mundo sec=pol sem=94b
+# sent_id = CF828-8
+# id = 3484
+
+# text = O espantoso é que fora da polícia também se viu o «mal» no incidente de Cavalera.
+# source = CETENFolha n=829 cad=Mais! sec=nd sem=94b
+# newdoc id = CF829
+# sent_id = CF829-1
+# id = 3485
+
+# text = O jornal carioca «O Globo» recolheu depoimentos sobre a «pisada» não confirmada nem pela polícia e explicada por Cavalera como um simples tropeço, normal na movimentação de palco, em seu depoimento na delegacia.
+# source = CETENFolha n=829 cad=Mais! sec=nd sem=94b
+# sent_id = CF829-2
+# id = 3486
+
+# text = Todos, contra ou a favor, partem do princípio de que aquele foi um gesto de «protesto».
+# source = CETENFolha n=829 cad=Mais! sec=nd sem=94b
+# sent_id = CF829-3
+# id = 3487
+
+# text = O dramaturgo Dias Gomes, que já teve problemas com a censura, se une aos fardados mais histéricos para decretar:
+# source = CETENFolha n=829 cad=Mais! sec=nd sem=94b
+# sent_id = CF829-4
+# id = 3488
+
+# text = «Foi um protesto moleque.
+# source = CETENFolha n=829 cad=Mais! sec=nd sem=94b
+# sent_id = CF829-5
+# id = 3489
+
+# text = Só poderia ter partido de uma cabeça de merda».
+# source = CETENFolha n=829 cad=Mais! sec=nd sem=94b
+# sent_id = CF829-6
+# id = 3490
+
+# text = Um psicanalista (sic), José Nazar, sugere, acreditem se quiser, nada mais nada menos do que linchamento como punição.
+# source = CETENFolha n=829 cad=Mais! sec=nd sem=94b
+# sent_id = CF829-7
+# id = 3491
+
+# text = O jurista Miguel Reale Jr. prefere um «pessedebismo» pedagógico, ao aprovar a atitude da polícia em detê-lo como exemplo para a juventude.
+# source = CETENFolha n=829 cad=Mais! sec=nd sem=94b
+# sent_id = CF829-8
+# id = 3492
+
+# text = A tumorectomia «garante sobrevida comparável e melhor qualidade de vida do que a mastectomia total», escreveu a chefe do novo estudo, Anna Lee-Feldstein.
+# source = CETENFolha n=830 cad=Brasil sec=pol sem=94b
+# newdoc id = CF830
+# sent_id = CF830-1
+# id = 3493
+
+# text = Cientistas da Universidade da Califórnia em Irvine (EUA) publicaram a pesquisa na última edição da revista da Associação Médica Norte-americana, («Jama»).
+# source = CETENFolha n=830 cad=Brasil sec=pol sem=94b
+# sent_id = CF830-2
+# id = 3494
+
+# text = Com isso, o Cruzeiro deve começar a partida com Michelli, Magno, Derlan, Marcus Vinícius e Anderson; Emiliano, Juliano e Anderson Leão; Ricardinho, Nílson e Herbert.
+# source = CETENFolha n=831 cad=Esporte sec=des sem=94b
+# newdoc id = CF831
+# sent_id = CF831-1
+# id = 3495
+
+# text = A equipe vem treinando junta há pouco tempo.
+# source = CETENFolha n=831 cad=Esporte sec=des sem=94b
+# sent_id = CF831-2
+# id = 3496
+
+# text = O atacante Nílson e meia Anderson Leão chegaram agora ao time e o ponta-direita Ricardinho, o meia Juliano e o zagueiro Derlan foram promovidos no final de 93.
+# source = CETENFolha n=831 cad=Esporte sec=des sem=94b
+# sent_id = CF831-3
+# id = 3497
+
+# text = Recém-promovido, Derlan, 17, já é um dos destaques do Cruzeiro por sua habilidade nas saídas da defesa para o ataque.
+# source = CETENFolha n=831 cad=Esporte sec=des sem=94b
+# sent_id = CF831-4
+# id = 3498
+
+# text = O jogador chegou no clube há dez meses e, em novembro, foi para a equipe de juniores.
+# source = CETENFolha n=831 cad=Esporte sec=des sem=94b
+# sent_id = CF831-5
+# id = 3499
+
+# text = Derlan espera um grande jogo hoje contra o Corinthians:
+# source = CETENFolha n=831 cad=Esporte sec=des sem=94b
+# sent_id = CF831-6
+# id = 3500
+
+# text = «Estamos muito motivados.
+# source = CETENFolha n=831 cad=Esporte sec=des sem=94b
+# sent_id = CF831-7
+# id = 3501
+
+# text = A casa vai estar cheia e nós vamos mostrar porque viemos disputar a Copa», afirma.
+# source = CETENFolha n=831 cad=Esporte sec=des sem=94b
+# sent_id = CF831-8
+# id = 3502
+
+# text = Para o futuro, o plano é continuar no Cruzeiro:
+# source = CETENFolha n=831 cad=Esporte sec=des sem=94b
+# sent_id = CF831-9
+# id = 3503
+
+# text = «Não quero subir muito agora e quebrar a cara depois.»
+# source = CETENFolha n=831 cad=Esporte sec=des sem=94b
+# sent_id = CF831-10
+# id = 3504
+
+# text = Como sua musa Iris gosta do tema, Silvio Santos vai agora todos os weekends ao teatro.
+# source = CETENFolha n=832 cad=Ilustrada sec=nd sem=94a
+# newdoc id = CF832
+# sent_id = CF832-1
+# id = 3505
+
+# text = Depois da peça de Leilah Assumpção, os dois foram juntinhos assitir a «Aluga-se Um Namorado».
+# source = CETENFolha n=832 cad=Ilustrada sec=nd sem=94a
+# sent_id = CF832-2
+# id = 3506
+
+# text = Amaram.
+# source = CETENFolha n=832 cad=Ilustrada sec=nd sem=94a
+# sent_id = CF832-3
+# id = 3507
+
+# text = Parágrafo 3º. -- Nos contratos celebrados ou convertidos em URV, em que haja cláusula de reajuste de valor por índice de preços ou por índice que reflita a variação ponderada dos custos dos insumos utilizados, o cálculo desses índices, para efeitos de reajuste, deverá ser nesta moeda até a emissão do real e, daí em diante, em real, observado o art. 38 da lei nº. 8.880 de 27.05.94.
+# source = CETENFolha n=833 cad=Dinheiro sec=eco sem=94a
+# newdoc id = CF833
+# sent_id = CF833-1
+# id = 3508
+
+# text = Parágrafo 4º. -- A Taxa Referencial -- TR -- somente poderá ser utilizada nas operações realizadas nos mercados financeiro, de valores mobiliários, de seguros, de previdência privada e de futuros.
+# source = CETENFolha n=833 cad=Dinheiro sec=eco sem=94a
+# sent_id = CF833-2
+# id = 3509
+
+# text = Aventure-se no Alasca a bordo de um trenó
+# source = CETENFolha n=834 cad=Turismo sec=soc sem=94b
+# newdoc id = CF834
+# sent_id = CF834-1
+# id = 3510
+
+# text = Viagem só é viável entre os meses de fevereiro e abril
+# source = CETENFolha n=834 cad=Turismo sec=soc sem=94b
+# sent_id = CF834-2
+# id = 3511
+
+# text = Do «Travel/The New York Times»
+# source = CETENFolha n=834 cad=Turismo sec=soc sem=94b
+# sent_id = CF834-4
+# id = 3512
+
+# text = A sensação que se tem quando se está andando num trenó puxado por cães é semelhante à do esqui aquático.
+# source = CETENFolha n=834 cad=Turismo sec=soc sem=94b
+# sent_id = CF834-5
+# id = 3513
+
+# text = Na minha primeira tentativa, fiz exatamente a mesma coisa que na primeira vez que pratiquei esqui aquático: caí e me soltei.
+# source = CETENFolha n=834 cad=Turismo sec=soc sem=94b
+# sent_id = CF834-6
+# id = 3514
+
+# text = Precisei cair mais algumas vezes até aprender a usar o breque.
+# source = CETENFolha n=834 cad=Turismo sec=soc sem=94b
+# sent_id = CF834-7
+# id = 3515
+
+# text = Além de dominar esta habilidade, as duas únicas coisas realmente necessárias para se viajar de trenó pelo Alasca eram estar em razoável boa forma física e ter mais de 13 anos de idade.
+# source = CETENFolha n=834 cad=Turismo sec=soc sem=94b
+# sent_id = CF834-8
+# id = 3516
+
+# text = Eu e meu marido, advogados de meia idade, apenas um pouco fora de forma, satisfazíamos essas condições.
+# source = CETENFolha n=834 cad=Turismo sec=soc sem=94b
+# sent_id = CF834-9
+# id = 3517
+
+# text = Todos os plínios costumam almoçar no Esplanada Grill, refeições de US$ 40, em média.
+# source = CETENFolha n=835 cad=Revista Folha sec=nd sem=94b
+# newdoc id = CF835
+# sent_id = CF835-1
+# id = 3518
+
+# text = Os motivos vão do «bom atendimento» à certeza de achar ali «pessoas como nós».
+# source = CETENFolha n=835 cad=Revista Folha sec=nd sem=94b
+# sent_id = CF835-2
+# id = 3519
+
+# text = E se encontram à noite no bar Cabral, embora não se conheçam.
+# source = CETENFolha n=835 cad=Revista Folha sec=nd sem=94b
+# sent_id = CF835-3
+# id = 3520
+
+# text = Não é necessário.
+# source = CETENFolha n=835 cad=Revista Folha sec=nd sem=94b
+# sent_id = CF835-4
+# id = 3521
+
+# text = Os plínios têm no Cabral, aberto no final de 1992 numa travessa escondida da avenida Cidade Jardim, sua meca.
+# source = CETENFolha n=835 cad=Revista Folha sec=nd sem=94b
+# sent_id = CF835-5
+# id = 3522
+
+# text = Luciano Huck, 22, um dos proprietários do bar, é o profeta da turma.
+# source = CETENFolha n=835 cad=Revista Folha sec=nd sem=94b
+# sent_id = CF835-6
+# id = 3523
+
+# text = Lá, os plínios fazem amigos, influenciam pessoas, revêem colegas, contam as novidades -- as últimas viagens para os Estados Unidos, quem comprou carro novo, quem «vai ter» que começar a trabalhar com o pai, os que ainda não conseguiram telefone celular.
+# source = CETENFolha n=835 cad=Revista Folha sec=nd sem=94b
+# sent_id = CF835-7
+# id = 3524
+
+# text = Pedem cerveja, tequila e batidas, num gasto médio de US$ 30 por noite, e falam mal dos mauricinhos que, como diz Rubinho Gimenes, são «cheios de querer ser».
+# source = CETENFolha n=835 cad=Revista Folha sec=nd sem=94b
+# sent_id = CF835-8
+# id = 3525
+
+# text = Eles não.
+# source = CETENFolha n=835 cad=Revista Folha sec=nd sem=94b
+# sent_id = CF835-9
+# id = 3526
+
+# text = Eles são.
+# source = CETENFolha n=835 cad=Revista Folha sec=nd sem=94b
+# sent_id = CF835-10
+# id = 3527
+
+# text = O jovem corretor de seguros Kiko Villela, 22, é.
+# source = CETENFolha n=835 cad=Revista Folha sec=nd sem=94b
+# sent_id = CF835-11
+# id = 3528
+
+# text = Cursando economia na Faap, Kiko espera ansioso o seu telefone celular, que «está para sair».
+# source = CETENFolha n=835 cad=Revista Folha sec=nd sem=94b
+# sent_id = CF835-12
+# id = 3529
+
+# text = «É imprescindível hoje em dia», regulamenta.
+# source = CETENFolha n=835 cad=Revista Folha sec=nd sem=94b
+# sent_id = CF835-13
+# id = 3530
+
+# text = O brinquedinho eletrônico tem uma função interessante no mundo dos plínios: substitui o antigo «torpedo», bilhete desferido entre jovens em bares.
+# source = CETENFolha n=835 cad=Revista Folha sec=nd sem=94b
+# sent_id = CF835-14
+# id = 3531
+
+# text = Em vez de mandar um papel pelo garçom com cantadas escritas, o plínio liga para a plínia de sua predileção e pronto -- está feito o contato imediato.
+# source = CETENFolha n=835 cad=Revista Folha sec=nd sem=94b
+# sent_id = CF835-15
+# id = 3532
+
+# text = Entretanto, há possibilidade de queda nas cotações externas nos próximos meses, em especial no segundo semestre, quando se verifica a colheita de arroz no hemisfério Norte.
+# source = CETENFolha n=836 cad=Caderno Especial sec=nd sem=94b
+# newdoc id = CF836
+# sent_id = CF836-1
+# id = 3533
+
+# text = A queda das cotações internacionais viabilizaria o ingresso do produto a preços mais baixos, fato que impediria maiores avanços das cotações internas.
+# source = CETENFolha n=836 cad=Caderno Especial sec=nd sem=94b
+# sent_id = CF836-2
+# id = 3534
+
+# text = Segundo a previsão da Conab, a produção nacional de arroz deve chegar a 10,6 milhões de toneladas de grãos.
+# source = CETENFolha n=836 cad=Caderno Especial sec=nd sem=94b
+# sent_id = CF836-3
+# id = 3535
+
+# text = No ano passado, o país colheu 9,5 milhões de toneladas.
+# source = CETENFolha n=836 cad=Caderno Especial sec=nd sem=94b
+# sent_id = CF836-4
+# id = 3536
+
+# text = Presidente da Yashica morre em São Paulo
+# source = CETENFolha n=837 cad=Cotidiano sec=soc sem=94a
+# newdoc id = CF837
+# sent_id = CF837-1
+# id = 3537
+
+# text = O diretor-presidente da Yashica do Brasil, Kazuo Tamura, 56, morreu em um acidente de carro ontem de manhã em São Paulo.
+# source = CETENFolha n=837 cad=Cotidiano sec=soc sem=94a
+# sent_id = CF837-3
+# id = 3538
+
+# text = Ele dirigia sozinho um Santana 90 em alta velocidade na avenida do Estado, no Cambuci (região central), quando, provavelmente, perdeu o controle do carro e bateu num poste.
+# source = CETENFolha n=837 cad=Cotidiano sec=soc sem=94a
+# sent_id = CF837-4
+# id = 3539
+
+# text = Isoladamente, os EUA e o Japão, por exemplo, praticaram alíquotas ainda menores 5,46% e 4,79%, respectivamente.
+# source = CETENFolha n=838 cad=Brasil sec=pol sem=94a
+# newdoc id = CF838
+# sent_id = CF838-1
+# id = 3540
+
+# text = O levantamento mostra que a Constituição de 1988 elevou de 15,27% para 20,53% a alíquota média sobre o consumo no Brasil em 1989.
+# source = CETENFolha n=838 cad=Brasil sec=pol sem=94a
+# sent_id = CF838-2
+# id = 3541
+
+# text = Ministro da Aeronáutica cita questão salarial
+# source = CETENFolha n=839 cad=Brasil sec=pol sem=94a
+# newdoc id = CF839
+# sent_id = CF839-1
+# id = 3542
+
+# text = O ministro da Aeronáutica, Lélio Viana Lôbo, aproveitou a comemoração do Dia do Soldado ontem para queixar-se das dificuldades salariais dos militares.
+# source = CETENFolha n=839 cad=Brasil sec=pol sem=94a
+# sent_id = CF839-3
+# id = 3543
+
+# text = «Vivemos ainda dias difíceis, num contexto econômico, social e político em que as necessidades básicas de nossas forças ( ...) têm sofrido severamente as agruras que toda nação atravessa», disse, em saudação enviada ao Exército.
+# source = CETENFolha n=839 cad=Brasil sec=pol sem=94a
+# sent_id = CF839-4
+# id = 3544
+
+# text = Brasil participa de coletânea em homenagem a Frank Zappa
+# source = CETENFolha n=840 cad=Folhateen sec=soc sem=94a
+# newdoc id = CF840
+# sent_id = CF840-1
+# id = 3545
+
+# text = Os fãs de Frank Zappa vão ter uma boa surpresa em janeiro.
+# source = CETENFolha n=840 cad=Folhateen sec=soc sem=94a
+# sent_id = CF840-4
+# id = 3546
+
+# text = O lançamento de um CD com uma coletânea de músicas de Zappa interpretadas por bandas cover dos Estados Unidos, Alemanha, Bélgica, Inglaterra, Holanda, Itália, Suécia e Brasil (com a banda The Central Scrutinizer).
+# source = CETENFolha n=840 cad=Folhateen sec=soc sem=94a &L
+# sent_id = CF840-5
+# id = 3547
+
+# text = A banda brasileira nasceu em 1990 para fazer uma homenagem a Zappa.
+# source = CETENFolha n=840 cad=Folhateen sec=soc sem=94a
+# sent_id = CF840-6
+# id = 3548
+
+# text = «Era um cara que sempre apostou no que acreditava.
+# source = CETENFolha n=840 cad=Folhateen sec=soc sem=94a
+# sent_id = CF840-7
+# id = 3549
+
+# text = Lutava contra a bestialidade das pessoas e sempre mostrou isso de uma forma bizarra», conta Mano Bap, 29, vocalista da The Central Scrutinizer.
+# source = CETENFolha n=840 cad=Folhateen sec=soc sem=94a
+# sent_id = CF840-8
+# id = 3550
+
+# text = Para o diretor de crédito da Febraban, Christoph Heinrich Von Beackedorff, «não há novos tomadores, só estão sendo rolados os empréstimos que estão vencendo».
+# source = CETENFolha n=841 cad=Dinheiro sec=eco sem=94a
+# newdoc id = CF841
+# sent_id = CF841-1
+# id = 3551
+
+# text = Ambos apontam o baixo volume de captação de recursos com a venda de CDBs aos investidores como o principal fator de insegurança dos bancos na definição dos custos dos empréstimos.
+# source = CETENFolha n=841 cad=Dinheiro sec=eco sem=94a
+# sent_id = CF841-2
+# id = 3552
+
+# text = Desse modo, apenas parte do fundo de viagem seria empregada na compra de «traveler cheques» ou cédulas.
+# source = CETENFolha n=842 cad=Turismo sec=soc sem=94a
+# newdoc id = CF842
+# sent_id = CF842-1
+# id = 3553
+
+# text = O restante ficaria em uma aplicação com aniversário coincidindo com o vencimento da fatura mensal do cartão.
+# source = CETENFolha n=842 cad=Turismo sec=soc sem=94a
+# sent_id = CF842-2
+# id = 3554
+
+# text = O caso passou a ser investigado porque pessoas que foram ao velório de Pereira teriam dito que o cadáver suava e teve sua pele arrepiada dentro do caixão.
+# source = CETENFolha n=843 cad=Cotidiano sec=soc sem=94a
+# newdoc id = CF843
+# sent_id = CF843-1
+# id = 3555
+
+# text = A família foi alertada mas não chamou nenhum médico e fez o enterro depois de dez horas de velório.
+# source = CETENFolha n=843 cad=Cotidiano sec=soc sem=94a
+# sent_id = CF843-2
+# id = 3556
+
+# text = No cinema, sorte do espectador que terá não uma, mas duas mostras internacionais: a Internacional de Cinema, que agora vai ser competitiva e tem Pedro Almodóvar e Quentin Tarantino entre os convidados, e a Banco Nacional de Cinema, que será mais que uma amostra do evento com sede no Rio, com um ciclo em homenagem ao rei do filme «B», Roger Corman, também presente.
+# source = CETENFolha n=844 cad=Ilustrada sec=nd sem=94a &D
+# newdoc id = CF844
+# sent_id = CF844-1
+# id = 3557
+
+# text = Shows há para todos os ouvidos.
+# source = CETENFolha n=844 cad=Ilustrada sec=nd sem=94a
+# sent_id = CF844-2
+# id = 3558
+
+# text = O 9º Free Jazz Festival ampliou seu leque e programou uma noite trepidante sob o comando do «godfather of soul» James Brown e cedeu espaço para a modernidade de Guru, US3 e dos Digable Planets.
+# source = CETENFolha n=844 cad=Ilustrada sec=nd sem=94a
+# sent_id = CF844-3
+# id = 3559
+
+# text = Fora do festival, o De La Soul é a atração mais promissora.
+# source = CETENFolha n=844 cad=Ilustrada sec=nd sem=94a
+# sent_id = CF844-4
+# id = 3560
+
+# text = «Como eles aumentaram 6,28% nas duas semanas, acertamos que eles iriam parar os aumentos.
+# source = CETENFolha n=845 cad=Dinheiro sec=eco sem=94a
+# newdoc id = CF845
+# sent_id = CF845-1
+# id = 3561
+
+# text = Vamos verificar o que houve com essas matérias-primas.»
+# source = CETENFolha n=845 cad=Dinheiro sec=eco sem=94a
+# sent_id = CF845-2
+# id = 3562
+
+# text = Dallari recebeu também a Associação Brasileira da Indústria de Máquinas.
+# source = CETENFolha n=845 cad=Dinheiro sec=eco sem=94a
+# sent_id = CF845-3
+# id = 3563
+
+# text = A entidade também se queixou de aumentos que variam de 5,5% a 11,5% no custo de alguns fundidos, forjados, aço plano e rolamentos.
+# source = CETENFolha n=845 cad=Dinheiro sec=eco sem=94a
+# sent_id = CF845-4
+# id = 3564
+
+# text = Foi ao final de um ano e três meses que o prefeito teve sua melhor avaliação.
+# source = CETENFolha n=846 cad=Cotidiano sec=soc sem=94a
+# newdoc id = CF846
+# sent_id = CF846-1
+# id = 3565
+
+# text = Recebeu 27% de ótimo e bom, 30% de ruim e péssimo e 42% de avaliação regular.
+# source = CETENFolha n=846 cad=Cotidiano sec=soc sem=94a
+# sent_id = CF846-2
+# id = 3566
+
+# text = Candidatura
+# source = CETENFolha n=846 cad=Cotidiano sec=soc sem=94a
+# sent_id = CF846-3
+# id = 3567
+
+# text = A boa performance de Maluf em março último coincidiu com a fase em que ele anunciava sua candidatura à presidência e investia em inaugurações de grandes obras, como o túnel do rio Pinheiros.
+# source = CETENFolha n=846 cad=Cotidiano sec=soc sem=94a
+# sent_id = CF846-4
+# id = 3568
+
+# text = Negócio gelado
+# source = CETENFolha n=847 cad=Dinheiro sec=eco sem=94a
+# newdoc id = CF847
+# sent_id = CF847-1
+# id = 3569
+
+# text = A Gelaguela maior fabricante nacional de sobremesas individuais geladas está investindo US$ 200 mil no sistema de franquias.
+# source = CETENFolha n=847 cad=Dinheiro sec=eco sem=94a
+# sent_id = CF847-2
+# id = 3570
+
+# text = A empresa, que faturou US$ 1 milhão em 93, vai inaugurar até setembro mais quatro unidades da Gelaguela Sobremesas.
+# source = CETENFolha n=847 cad=Dinheiro sec=eco sem=94a
+# sent_id = CF847-3
+# id = 3571
+
+# text = O objetivo é consolidar a marca.
+# source = CETENFolha n=847 cad=Dinheiro sec=eco sem=94a
+# sent_id = CF847-4
+# id = 3572
+
+# text = Esta taxa, no entanto, não reflete o que está acontecendo de fato com os preços nas últimas semanas.
+# source = CETENFolha n=848 cad=Dinheiro sec=eco sem=94a
+# newdoc id = CF848
+# sent_id = CF848-1
+# id = 3573
+
+# text = Isto porque os índices de inflação só captam totalmente as mudanças de preços 30 dias após o aumento.
+# source = CETENFolha n=848 cad=Dinheiro sec=eco sem=94a
+# sent_id = CF848-2
+# id = 3574
+
+# text = É sempre considerada a média de quatro semanas em relação às quatro anteriores.
+# source = CETENFolha n=848 cad=Dinheiro sec=eco sem=94a
+# sent_id = CF848-3
+# id = 3575
+
+# text = A partir de agora, a taxa deve sempre recuar.
+# source = CETENFolha n=848 cad=Dinheiro sec=eco sem=94a
+# sent_id = CF848-4
+# id = 3576
+
+# text = Os preços estiveram praticamente estáveis nas últimas semanas.
+# source = CETENFolha n=848 cad=Dinheiro sec=eco sem=94a
+# sent_id = CF848-5
+# id = 3577
+
+# text = Juarez Rizzieri, coordenador do Índice de Preços ao Consumidor da Fipe, prevê para agosto uma taxa entre 1% e 2%.
+# source = CETENFolha n=848 cad=Dinheiro sec=eco sem=94a
+# sent_id = CF848-6
+# id = 3578
+
+# text = Técnico não é enfermeiro
+# source = CETENFolha n=775 cad=Empregos sec=eco sem=94b
+# newdoc id = CF775
+# sent_id = CF775-1
+# id = 3253
+
+# text = Enfermeiro é uma designação válida apenas para quem concluiu o curso superior de enfermagem.
+# source = CETENFolha n=775 cad=Empregos sec=eco sem=94b
+# sent_id = CF775-3
+# id = 3254
+
+# text = Os outros profissionais da área são técnicos, auxiliares e atendentes.
+# source = CETENFolha n=775 cad=Empregos sec=eco sem=94b
+# sent_id = CF775-4
+# id = 3255
+
+# text = O técnico tem o segundo grau completo pode optar entre o curso técnico de enfermagem ou curso de formação de técnico.
+# source = CETENFolha n=775 cad=Empregos sec=eco sem=94b
+# sent_id = CF775-5
+# id = 3256
+
+# text = «Os limites da privatização são as necessidades do governo.
+# source = CETENFolha n=776 cad=Brasil sec=pol sem=94a
+# newdoc id = CF776
+# sent_id = CF776-1
+# id = 3257
+
+# text = Nada está excluído», afirmou Montoro Filho.
+# source = CETENFolha n=776 cad=Brasil sec=pol sem=94a
+# sent_id = CF776-2
+# id = 3258
+
+# text = Para ele, a privatização entende desde a venda de ativos públicos até ações de estatais.
+# source = CETENFolha n=776 cad=Brasil sec=pol sem=94a
+# sent_id = CF776-3
+# id = 3259
+
+# text = Disse que o governo vai vender «desde automóvel até participação acionária em empresas de energia elétrica».
+# source = CETENFolha n=776 cad=Brasil sec=pol sem=94a
+# sent_id = CF776-4
+# id = 3260
+
+# text = O dinheiro das vendas pode ser utilizado também para o pagamento da dívida do Banespa.
+# source = CETENFolha n=776 cad=Brasil sec=pol sem=94a
+# sent_id = CF776-5
+# id = 3261
+
+# text = E tudo, segundo a Jovem Pan, para fazer «proselitismo», para «as promessas de sempre».
+# source = CETENFolha n=777 cad=Caderno Especial sec=nd sem=94a
+# newdoc id = CF777
+# sent_id = CF777-1
+# id = 3262
+
+# text = Bola da vez
+# source = CETENFolha n=777 cad=Caderno Especial sec=nd sem=94a
+# sent_id = CF777-2
+# id = 3263
+
+# text = Fernando Henrique apareceu no rádio e na televisão dizendo que não existe nada contra o seu vice.
+# source = CETENFolha n=777 cad=Caderno Especial sec=nd sem=94a
+# sent_id = CF777-3
+# id = 3264
+
+# text = E que, portanto, nem pensa numa troca de Guilherme Palmeira.
+# source = CETENFolha n=777 cad=Caderno Especial sec=nd sem=94a
+# sent_id = CF777-4
+# id = 3265
+
+# text = Uma defesa bem parecida com aquela de Lula, no começo das denúncias contra José Paulo Bisol.
+# source = CETENFolha n=777 cad=Caderno Especial sec=nd sem=94a
+# sent_id = CF777-5
+# id = 3266
+
+# text = «Não tínhamos uma segurança exemplar, mas ela era suficiente para permitir o alvará de licença dos bombeiros», afirmou.
+# source = CETENFolha n=778 cad=Cotidiano sec=soc sem=94b
+# newdoc id = CF778
+# sent_id = CF778-1
+# id = 3267
+
+# text = Segundo ele, o alvará foi queimado, com tudo o que se perdeu.
+# source = CETENFolha n=778 cad=Cotidiano sec=soc sem=94b
+# sent_id = CF778-2
+# id = 3268
+
+# text = Taranto não soube dizer se os parentes das vítimas poderão pedir alguma indenização.
+# source = CETENFolha n=778 cad=Cotidiano sec=soc sem=94b
+# sent_id = CF778-3
+# id = 3269
+
+# text = Justiça impede exibição de desenho na TV
+# source = CETENFolha n=779 cad=Cotidiano sec=soc sem=94a
+# newdoc id = CF779
+# sent_id = CF779-1
+# id = 3270
+
+# text = A MTV não exibiu ontem o desenho animado «Beavis e Butt-Head» por determinação de liminar expedida pela Vara Central da Infância e Juventude, em São Paulo.
+# source = CETENFolha n=779 cad=Cotidiano sec=soc sem=94a
+# sent_id = CF779-3
+# id = 3271
+
+# text = Entre 20h e 20h30, horário em que o «cartoon» costuma ir ao ar, a emissora transmitiu uma sequência de videoclipes.
+# source = CETENFolha n=779 cad=Cotidiano sec=soc sem=94a
+# sent_id = CF779-4
+# id = 3272
+
+# text = Antes, informou sobre a proibição da Justiça num comunicado de 15 segundos.
+# source = CETENFolha n=779 cad=Cotidiano sec=soc sem=94a
+# sent_id = CF779-5
+# id = 3273
+
+# text = Os nativos ainda se utilizam de lanças primitivas para pescar nas rasas piscinas naturais repletas de polvos e peixes tropicais.
+# source = CETENFolha n=780 cad=Turismo sec=soc sem=94a
+# newdoc id = CF780
+# sent_id = CF780-1
+# id = 3274
+
+# text = Mas há a pesca comercial de atum controlada por norte-americanos de origem portuguesa, chineses de Taiwan e sul-coreanos em embarcações de 1,2 tonelada que valem até US$ 13 milhões.
+# source = CETENFolha n=780 cad=Turismo sec=soc sem=94a
+# sent_id = CF780-2
+# id = 3275
+
+# text = 'Astronautas' fazem autópsia nos EUA
+# source = CETENFolha n=781 cad=Mundo sec=pol sem=94b
+# newdoc id = CF781
+# sent_id = CF781-1
+# id = 3276
+
+# text = Patologistas de hospital de Riverside (Califórnia) tiveram que vestir roupas especiais para autopsiar corpo de uma mulher que teria químicos tóxicos no sangue, porque o cheiro os fez desmaiar.
+# source = CETENFolha n=781 cad=Mundo sec=pol sem=94b
+# sent_id = CF781-2
+# id = 3277
+
+# text = Cristou representa os clubes alemães do Bayern Leverkusen e Shalk-04.
+# source = CETENFolha n=782 cad=Esporte sec=des sem=94a
+# newdoc id = CF782
+# sent_id = CF782-1
+# id = 3278
+
+# text = O empresário disse que pretende ver também outros jogadores brasileiros, entre eles Cafu, do São Paulo, Mirandinha, do Paysandu, e Claudinho, da Ponte Preta.
+# source = CETENFolha n=782 cad=Esporte sec=des sem=94a
+# sent_id = CF782-2
+# id = 3279
+
+# text = O caso nasceu de uma «vendetta», obra e desgraça de um certo Francesco Farina, dono do Modena, um time rebaixado à 3ª divisão.
+# source = CETENFolha n=783 cad=Esporte sec=des sem=94a
+# newdoc id = CF783
+# sent_id = CF783-1
+# id = 3280
+
+# text = Farina tentou salvar o Modena na política e no tapetão.
+# source = CETENFolha n=783 cad=Esporte sec=des sem=94a
+# sent_id = CF783-2
+# id = 3281
+
+# text = Obviamente, não conseguiu.
+# source = CETENFolha n=783 cad=Esporte sec=des sem=94a
+# sent_id = CF783-3
+# id = 3282
+
+# text = Por isso, metralhou Antonio Matarrese, presidente da federação.
+# source = CETENFolha n=783 cad=Esporte sec=des sem=94a
+# sent_id = CF783-4
+# id = 3283
+
+# text = Farina acusou os clubes de sonegarem impostos com a cumplicidade da federação.
+# source = CETENFolha n=783 cad=Esporte sec=des sem=94a
+# sent_id = CF783-5
+# id = 3284
+
+# text = Para multiplicar o porte das suas denúncias, ele apresentou as suas perorações em dois sítios diferentes, às procuradorias de Roma e de Milão.
+# source = CETENFolha n=783 cad=Esporte sec=des sem=94a
+# sent_id = CF783-6
+# id = 3285
+
+# text = Muitas delas são inconsequentes, improváveis, sem documentação.
+# source = CETENFolha n=783 cad=Esporte sec=des sem=94a
+# sent_id = CF783-7
+# id = 3286
+
+# text = De todo modo, na Bota, à Justiça cabe a missão de investigar, antes de meramente julgar.
+# source = CETENFolha n=783 cad=Esporte sec=des sem=94a
+# sent_id = CF783-8
+# id = 3287
+
+# text = Gloria Attanasio, magistrada da capital, meramente decidiu o que a sua função lhe exigia, e enviou 250 detetives às sedes dos tais 34 clubes para, lá, coletarem os livros contábeis e os recibos correspondentes ao versamento dos impostos.
+# source = CETENFolha n=783 cad=Esporte sec=des sem=94a
+# sent_id = CF783-9
+# id = 3288
+
+# text = Para a construção do palco foram utilizadas 170 toneladas de ferro e alumínio.
+# source = CETENFolha n=784 cad=Ilustrada sec=nd sem=94a
+# newdoc id = CF784
+# sent_id = CF784-1
+# id = 3289
+
+# text = A quantidade de ferro daria para construir 180 carros iguais a um Santana.
+# source = CETENFolha n=784 cad=Ilustrada sec=nd sem=94a
+# sent_id = CF784-2
+# id = 3290
+
+# text = E o volume de alumínio daria para fazer 275 mil latas de refrigerante.
+# source = CETENFolha n=784 cad=Ilustrada sec=nd sem=94a
+# sent_id = CF784-3
+# id = 3291
+
+# text = O palco foi criado por Mark Fischer, responsável pela montagem do palco da última turnê dos Stones «Steel Wheels», do novo show do Pink Floyd e do espetáculo ZooTV do grupo irlandês U2.
+# source = CETENFolha n=784 cad=Ilustrada sec=nd sem=94a
+# sent_id = CF784-4
+# id = 3292
+
+# text = Apesar da popularidade, Chico de Miguel perdeu as duas últimas eleições para a Prefeitura de Itabaiana, que passou a ser controlada por políticos locais ligados ao governador João Alves.
+# source = CETENFolha n=785 cad=Brasil sec=pol sem=94b
+# newdoc id = CF785
+# sent_id = CF785-1
+# id = 3293
+
+# text = Ele atribui as derrotas ao Judiciário, acusado de auxiliar seus opositores.
+# source = CETENFolha n=785 cad=Brasil sec=pol sem=94b
+# sent_id = CF785-2
+# id = 3294
+
+# text = Não explica como, mas garante que não vai perder a próxima eleição em Itabaiana.
+# source = CETENFolha n=785 cad=Brasil sec=pol sem=94b
+# sent_id = CF785-3
+# id = 3295
+
+# text = O deputado afirma não ser um homem rico.
+# source = CETENFolha n=785 cad=Brasil sec=pol sem=94b
+# sent_id = CF785-4
+# id = 3296
+
+# text = «Hoje, tenho só uma fazenda e pouco mais de 500 cabeças de gado.
+# source = CETENFolha n=785 cad=Brasil sec=pol sem=94b
+# sent_id = CF785-5
+# id = 3297
+
+# text = Mas tudo que ganho reverto também em ajuda para o povo, que recebe remédios, feira e dinheiro quando está precisando.
+# source = CETENFolha n=785 cad=Brasil sec=pol sem=94b
+# sent_id = CF785-6
+# id = 3298
+
+# text = Nunca fui egoísta», afirma.
+# source = CETENFolha n=785 cad=Brasil sec=pol sem=94b
+# sent_id = CF785-7
+# id = 3299
+
+# text = Ontem, de seu locutor no horário eleitoral:
+# source = CETENFolha n=786 cad=Caderno Especial sec=nd sem=94a
+# newdoc id = CF786
+# sent_id = CF786-1
+# id = 3300
+
+# text = Outros institutos mostram números diferentes, mas não são divulgados pela televisão.
+# source = CETENFolha n=786 cad=Caderno Especial sec=nd sem=94a
+# sent_id = CF786-2
+# id = 3301
+
+# text = Bahia 2
+# source = CETENFolha n=787 cad=Cotidiano sec=soc sem=94b
+# newdoc id = CF787
+# sent_id = CF787-1
+# id = 3302
+
+# text = A Liga de Assistência e Recuperação, órgão ligado à Prefeitura de Salvador, está desenvolvendo um projeto para a confecção de brinquedos a partir de sucatas.
+# source = CETENFolha n=787 cad=Cotidiano sec=soc sem=94b
+# sent_id = CF787-2
+# id = 3303
+
+# text = Crianças de 11 a 14 anos vão aprender a transformar sucatas em brinquedos educativos.
+# source = CETENFolha n=787 cad=Cotidiano sec=soc sem=94b
+# sent_id = CF787-3
+# id = 3304
+
+# text = Paraíba 1
+# source = CETENFolha n=88 cad=Cotidiano sec=soc sem=94b
+# newdoc id = CF88
+# sent_id = CF88-1
+# id = 331
+
+# text = A Secretaria de Saúde da Paraíba informou que João Pessoa está entre as cinco capitais brasileiras que atingiram 90% de cobertura vacinal na última campanha de multivacinação, realizada em 90.
+# source = CETENFolha n=787 cad=Cotidiano sec=soc sem=94b
+# newdoc id = CF787
+# sent_id = CF787-5
+# id = 3306
+
+# text = Neste ano, a secretaria espera vacinar cerca de 480 mil crianças.
+# source = CETENFolha n=787 cad=Cotidiano sec=soc sem=94b
+# sent_id = CF787-6
+# id = 3307
+
+# text = Rússia veta documento sobre a Bósnia
+# source = CETENFolha n=788 cad=Mundo sec=pol sem=94a
+# newdoc id = CF788
+# sent_id = CF788-1
+# id = 3308
+
+# text = Moscou exige que conferência sobre segurança européia recompense a Sérvia por pressionar sérvios-bósnios
+# source = CETENFolha n=788 cad=Mundo sec=pol sem=94a
+# sent_id = CF788-2
+# id = 3309
+
+# text = A Rússia vetou documento da Conferência sobre Segurança e Cooperação na Europa sobre a ex-república iugoslava da Bósnia.
+# source = CETENFolha n=788 cad=Mundo sec=pol sem=94a
+# sent_id = CF788-4
+# id = 3310
+
+# text = O veto impediu a declaração que pedia aos sérvios da Bósnia que parassem ataques no encrave muçulmano de Bihac.
+# source = CETENFolha n=788 cad=Mundo sec=pol sem=94a
+# sent_id = CF788-5
+# id = 3311
+
+# text = A reunião terminou ontem em Budapeste.
+# source = CETENFolha n=788 cad=Mundo sec=pol sem=94a
+# sent_id = CF788-6
+# id = 3312
+
+# text = «Se o preço do ônibus for convertido pela tabela da montadora, o impacto será de 10% a 12% na tarifa», diz Dias.
+# source = CETENFolha n=789 cad=Dinheiro sec=eco sem=94b
+# newdoc id = CF789
+# sent_id = CF789-1
+# id = 3313
+
+# text = As tabelas das montadoras, segundo ele, estão 40% acima do preço de mercado.
+# source = CETENFolha n=789 cad=Dinheiro sec=eco sem=94b
+# sent_id = CF789-2
+# id = 3314
+
+# text = O Fórum já tem os preços máximos pagos no mercado.
+# source = CETENFolha n=789 cad=Dinheiro sec=eco sem=94b
+# sent_id = CF789-3
+# id = 3315
+
+# text = Ônibus leve, US$ 55 mil, para o pesado, US$ 70 mil.
+# source = CETENFolha n=789 cad=Dinheiro sec=eco sem=94b
+# sent_id = CF789-4
+# id = 3316
+
+# text = Antes do Mundial, a delegação brasileira participa dos Jogos da Amizade que têm início dia 23, na Rússia.
+# source = CETENFolha n=790 cad=Esporte sec=des sem=94a
+# newdoc id = CF790
+# sent_id = CF790-2
+# id = 3317
+

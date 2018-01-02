@@ -1,0 +1,2880 @@
+# sent_id = dev-s1
+# text = "Mijn basisniveau is flink omhoog gegaan."
+# orig_file_sentence 001#1
+
+# sent_id = dev-s2
+# text = De afgelopen week twijfelde ze nog of ze wel moest meedoen aan het NK.
+# orig_file_sentence 001#2
+
+# sent_id = dev-s3
+# text = Moeder Mien spoorde haar aan toch op te stappen.
+# orig_file_sentence 001#3
+
+# sent_id = dev-s4
+# text = Tot halverwege de koers had Van Alebeek moeite om zich volledig te concentreren op de wedstrijd.
+# orig_file_sentence 001#4
+
+# sent_id = dev-s5
+# text = "Mijn gedachten sprongen alle kanten op.
+# orig_file_sentence 001#5
+
+# sent_id = dev-s6
+# text = Om ongelukken te voorkomen heb ik mezelf gedwongen om me alleen nog met de koers bezig te houden. "
+# orig_file_sentence 001#6
+
+# sent_id = dev-s7
+# text = Veertig kilometer voor het einde ontstond een kopgroep met zes vrouwen.
+# orig_file_sentence 001#7
+
+# sent_id = dev-s8
+# text = Behalve Van Alebeek en haar ploeggenote Bertine Spijkerman was ook Saskia Kaagman uit de opleidingsploeg van Farm Frites meegesprongen.
+# orig_file_sentence 001#8
+
+# sent_id = dev-s9
+# text = Met venijnige demarrages matte de talentvolle Kaagman de concurrentie af.
+# orig_file_sentence 001#9
+
+# sent_id = dev-s10
+# text = Waarmee het pad voor de rappe Van Alebeek werd geëffend.
+# orig_file_sentence 001#10
+
+# sent_id = dev-s11
+# text = Met de finish in zicht sloegen de zenuwen toe.
+# orig_file_sentence 001#11
+
+# sent_id = dev-s12
+# text = Ze zocht contact met ploegleider Zijlaard die adviseerde te gokken op de sprint.
+# orig_file_sentence 001#12
+
+# sent_id = dev-s13
+# text = "Hij zei: vertrouw op jezelf.
+# orig_file_sentence 001#13
+
+# sent_id = dev-s14
+# text = Ik ben nogal een twijfelaar. "
+# orig_file_sentence 001#14
+
+# sent_id = dev-s15
+# text = Gelanceerd door Spijkerman trapte ze naar de titel.
+# orig_file_sentence 001#15
+
+# sent_id = dev-s16
+# text = Mooier kon niet, vond Van Moorsel.
+# orig_file_sentence 001#16
+
+# sent_id = dev-s17
+# text = "Dit verzin je niet.
+# orig_file_sentence 001#17
+
+# sent_id = dev-s18
+# text = Het lijkt wel een droom. "
+# orig_file_sentence 001#18
+
+# sent_id = dev-s19
+# text = Yevgeny Kafelnikov wist dat hij de favoriet was, in de derde-rondepartij tegen de Argentijn Guillermo Canas.
+# orig_file_sentence 001#19
+
+# sent_id = dev-s20
+# text = Die wetenschap deed hem verstijven.
+# orig_file_sentence 001#20
+
+# sent_id = dev-s21
+# text = Top-tienspeler of niet; hoe makkelijker iets lijkt, hoe moeilijker het vaak is.
+# orig_file_sentence 001#21
+
+# sent_id = dev-s22
+# text = "Ik wist dat mijn helft van het schema open ligt.
+# orig_file_sentence 001#22
+
+# sent_id = dev-s23
+# text = Die wetenschap deed me verliezen. "
+# orig_file_sentence 001#23
+
+# sent_id = dev-s24
+# text = De uitschakeling van de nummer zeven van de plaatsingslijst (3-6 6-1 6-3 7-6) was de grootste verrassing bij de mannen dit weekeinde op Wimbledon.
+# orig_file_sentence 001#24
+
+# sent_id = dev-s25
+# text = In het vrouwentoernooi struikelde de Franse krachtpatser Amelie Mauresmo onverwacht over de Thaise Tanasugarn.
+# orig_file_sentence 001#25
+
+# sent_id = dev-s26
+# text = Voor Canas betekende de zege op de mentaal onevenwichtige Rus, die in Londen nooit verder dan de kwartfinales reikte, een mooie meevaller.
+# orig_file_sentence 001#26
+
+# sent_id = dev-s27
+# text = Voor het eerst in 22 jaar bereikte een Argentijn de vierde ronde van Wimbledon.
+# orig_file_sentence 001#27
+
+# sent_id = dev-s28
+# text = Met een knipoog naar het gravel: "Dat hoort natuurlijk eigenlijk niet, een Zuid-Amerikaan zover op gras"
+# orig_file_sentence 001#28
+
+# sent_id = dev-s29
+# text = De baseliner speelde ter voorbereiding op het Grand Slam één grastoernooi.
+# orig_file_sentence 001#29
+
+# sent_id = dev-s30
+# text = In Rosmalen verloor hij pas in de finale van Hewitt.
+# orig_file_sentence 001#30
+
+# sent_id = dev-s31
+# text = Van meer dan twee grastoernooien op rij wordt hij te moe.
+# orig_file_sentence 001#31
+
+# sent_id = dev-s32
+# text = Het openingsstatement van zijn persconferentie was geen grap.
+# orig_file_sentence 001#32
+
+# sent_id = dev-s33
+# text = Gravelbijters kennen hun eigen logica.
+# orig_file_sentence 001#33
+
+# sent_id = dev-s34
+# text = De 24-jarige Canas kent een succesvol jaar.
+# orig_file_sentence 001#34
+
+# sent_id = dev-s35
+# text = De rechtshander uit Buenos Aires klom sinds januari 178 plaatsen naar de 49ste positie op de wereldranglijst.
+# orig_file_sentence 001#35
+
+# sent_id = dev-s36
+# text = "Vorig jaar ben ik voor het eerst geopereerd, aan mijn linkerpols.
+# orig_file_sentence 001#36
+
+# sent_id = dev-s37
+# text = Dat gaf me de tijd om eens na te denken over mijn instelling.
+# orig_file_sentence 001#37
+
+# sent_id = dev-s38
+# text = Ik besloot serieuzer te werk te gaan.
+# orig_file_sentence 001#38
+
+# sent_id = dev-s39
+# text = Met iedere winst groeide het vertrouwen.
+# orig_file_sentence 001#39
+
+# sent_id = dev-s40
+# text = Ik ben nu zo ver dat ik weet dat ik van iedereen kan winnen. "
+# orig_file_sentence 001#40
+
+# sent_id = dev-s41
+# text = Het Nederlands jeugdteam is roemloos, en uiteindelijk op ontluisterende wijze, uitgeschakeld op het wereldkampioenschap onder 20 jaar.
+# orig_file_sentence 001#41
+
+# sent_id = dev-s42
+# text = De Oranje-beloften legden het gisteravond zowel in fysiek als in technisch opzicht af tegen Egypte.
+# orig_file_sentence 001#42
+
+# sent_id = dev-s43
+# text = De Afrikanen boekten in de kwartfinale in Rosario een 2-1 zege, de Nederlanders dropen gefrustreerd en beschaamd af.
+# orig_file_sentence 001#43
+
+# sent_id = dev-s44
+# text = Oranje koesterde halverwege nog een (al onverdiende) voorsprong en na rust verloor het twee spelers met een rode kaart: Van der Vaart en, in de slotfase, Heitinga.
+# orig_file_sentence 001#44
+
+# sent_id = dev-s45
+# text = Bondscoach Van Gaal moest niet voor het eerst in het toernooi toezien hoe zijn ploeg op vele fronten werd afgetroefd.
+# orig_file_sentence 001#45
+
+# sent_id = dev-s46
+# text = In Cordoba treft Egypte woensdag Ghana, dat gisteravond zeer verrassend na verlenging won van Brazilië (2-1).
+# orig_file_sentence 001#46
+
+# sent_id = dev-s47
+# text = In de andere halve finale, in Buenos Aires, staan Argentinië en Paraguay tegenover elkaar.
+# orig_file_sentence 001#47
+
+# sent_id = dev-s48
+# text = De Argentijnen troefden gisteren Frankrijk af (3-1).
+# orig_file_sentence 001#48
+
+# sent_id = dev-s49
+# text = Saviola was bij de Zuid-Amerikanen met drie treffers de grote man.
+# orig_file_sentence 001#49
+
+# sent_id = dev-s50
+# text = Paraguay won met 1-0 van Tsjechië, door een doelpunt van Salcedo.
+# orig_file_sentence 001#50
+
+# sent_id = dev-s51
+# text = In Rosario trof Oranje gisteren een opponent die zich even moeizaam (met vier punten uit drie duels) door de eerste ronde had geworsteld.
+# orig_file_sentence 001#51
+
+# sent_id = dev-s52
+# text = Daarin verloor Egypte zelfs met 7-1 van Argentinië.
+# orig_file_sentence 001#52
+
+# sent_id = dev-s53
+# text = In de kwartfinale hadden de Egyptenaren echter redelijk overtuigend afgerekend met de Verenigde Staten (2-0).
+# orig_file_sentence 001#53
+
+# sent_id = dev-s54
+# text = Bondscoach Louis van Gaal stelde gisteren voor het eerst vier verdedigers op, waar hij tot dusverre met drie had volstaan.
+# orig_file_sentence 001#54
+
+# sent_id = dev-s55
+# text = De defensie werd danig beproefd door de dartele Egyptenaren.
+# orig_file_sentence 001#55
+
+# sent_id = dev-s56
+# text = Nederland kon er zelden een vloeiende aanval tegenover stellen.
+# orig_file_sentence 001#56
+
+# sent_id = dev-s57
+# text = Desondanks sloot het Nederlands team de eerste helft af met een 1-0 voorsprong, met dank bovenal aan de blunderende Egyptische doelman, die een kopbal van ajacied Van der Vaart losliet.
+# orig_file_sentence 001#57
+
+# sent_id = dev-s58
+# text = Het leek toen nog een beloning voor een van de weinige constante Nederlandse spelers in Argentinië, maar niet veel later nam het duel uitgerekend voor Van der Vaart een dramatische wending.
+# orig_file_sentence 001#58
+
+# sent_id = dev-s59
+# text = Na een kwartier in de tweede helft werd de ajacied uit het veld gestuurd door de Argentijnse scheidsrechter Martin.
+# orig_file_sentence 001#59
+
+# sent_id = dev-s60
+# text = Van der Vaart werd na een onbezonnen tackle met zijn tweede gele kaart bestraft.
+# orig_file_sentence 001#60
+
+# sent_id = dev-s61
+# text = De Argentijnse toeschouwers rouwden er niet om.
+# orig_file_sentence 001#61
+
+# sent_id = dev-s62
+# text = Oranje, topscorer in het kaarten-klassement, had zich tijdens het toernooi niet populair gemaakt.
+# orig_file_sentence 001#62
+
+# sent_id = dev-s63
+# text = De rode kaart was in een kort tijdsbestek de tweede tegenslag voor de Nederlandse talenten.
+# orig_file_sentence 001#63
+
+# sent_id = dev-s64
+# text = Egypte had, conform de werkelijke krachtsverhoudingen, al in de tweede minuut van de tweede helft toegeslagen.
+# orig_file_sentence 001#64
+
+# sent_id = dev-s65
+# text = Verdediger Amin passeerde doelman Coutinho van dichtbij (1-1), na een fout van invaller Van Dieren die door Van Gaal al voor rust was opgeroepen.
+# orig_file_sentence 001#65
+
+# sent_id = dev-s66
+# text = Daarmee toonde de coach dat het opnieuw niet naar zijn wens verliep.
+# orig_file_sentence 001#66
+
+# sent_id = dev-s67
+# text = Het aangeslagen Oranje deinsde, zoals al zo vaak tijdens dit jeugdtoernooi, terug voor een allerminst gerenommeerde tegenstander.
+# orig_file_sentence 001#67
+
+# sent_id = dev-s68
+# text = In de 68ste minuut namen de Egyptenaren een luid bejubelde en beslissende voorsprong.
+# orig_file_sentence 001#68
+
+# sent_id = dev-s69
+# text = El Yamani, die bij Standard Luik speelt, liet zich fêteren na een solo door de ontmantelde Nederlandse defensie (1-2).
+# orig_file_sentence 001#69
+
+# sent_id = dev-s70
+# text = De blonde Egyptenaar in Belgische dienst brak nog een paar keer gevaarlijk door.
+# orig_file_sentence 001#70
+
+# sent_id = dev-s71
+# text = Maar de meeste pijn deed het gedesillusioneerde Oranje zichzelf.
+# orig_file_sentence 001#71
+
+# sent_id = dev-s72
+# text = De ploeg beëindigde het toernooi zelfs met negen man, nadat in de slotfase ook aanvoerder Heitinga na een overtreding 'rood' zag.
+# orig_file_sentence 001#72
+
+# sent_id = dev-s73
+# text = Het was een publieke droom, het werd een persoonlijk drama.
+# orig_file_sentence 001#73
+
+# sent_id = dev-s74
+# text = Glinstering van goud maakte in luttele seconden plaats voor inktzwarte realiteit.
+# orig_file_sentence 001#74
+
+# sent_id = dev-s75
+# text = Zelden viel een lokale favoriet dieper.
+# orig_file_sentence 001#75
+
+# sent_id = dev-s76
+# text = En toch overheerste na afloop bij de betrokkenen nuchterheid en tevredenheid.
+# orig_file_sentence 001#76
+
+# sent_id = dev-s77
+# text = In nog geen dertig seconden verspeelde springruiter Wout-Jan van der Schans gistermiddag de Europese titel die lonkend op hem lag te wachten.
+# orig_file_sentence 001#77
+
+# sent_id = dev-s78
+# text = Weer was een driesprong hem en zijn hengst Corland te machtig.
+# orig_file_sentence 001#78
+
+# sent_id = dev-s79
+# text = Twee van de drie hindernissen verloren hun balken.
+# orig_file_sentence 001#79
+
+# sent_id = dev-s80
+# text = Daarna crashte hij ook nog eens op een muur en op een dubbele oxer aan het eind.
+# orig_file_sentence 001#80
+
+# sent_id = dev-s81
+# text = Zo kukelde hij van de eerste naar de negende plaats.
+# orig_file_sentence 001#81
+
+# sent_id = dev-s82
+# text = Droom over?
+# orig_file_sentence 001#82
+
+# sent_id = dev-s83
+# text = Van der Schans: "Ik wist dat het op die driesprong moeilijk zou worden.
+# orig_file_sentence 001#83
+
+# sent_id = dev-s84
+# text = Ik voelde dat hij twijfelde.
+# orig_file_sentence 001#84
+
+# sent_id = dev-s85
+# text = Na de eerste sprong was het moeilijk hem op zijn achterbenen te houden.
+# orig_file_sentence 001#85
+
+# sent_id = dev-s86
+# text = Als dan de tweede valt, is het heel moeilijk de derde erop te houden. "
+# orig_file_sentence 001#86
+
+# sent_id = dev-s87
+# text = Van der Schans hield zich kranig na dé teleurstelling in zijn hippische carrière.
+# orig_file_sentence 001#87
+
+# sent_id = dev-s88
+# text = Hij wilde van geen verwijt weten.
+# orig_file_sentence 001#88
+
+# sent_id = dev-s89
+# text = "Het paard heeft alles gegeven.
+# orig_file_sentence 001#89
+
+# sent_id = dev-s90
+# text = Dan krijgt -ie een fout en is -ie eruit.
+# orig_file_sentence 001#90
+
+# sent_id = dev-s91
+# text = Dat is jammer voor hem.
+# orig_file_sentence 001#91
+
+# sent_id = dev-s92
+# text = Het paard had meer verdiend. "
+# orig_file_sentence 001#92
+
+# sent_id = dev-s93
+# text = De droom was wellicht minder de droom van Van der Schans dan van het volk dat hem de Europese sjerp al had omgehangen.
+# orig_file_sentence 001#93
+
+# sent_id = dev-s94
+# text = Het volk, dat na het afhaken van Jan Tops en Jeroen Dubbeldam behoefte had aan een nieuwe held, zag hoe Van der Schans zich op de eerste plaats in de tussenklassering nestelde.
+# orig_file_sentence 001#94
+
+# sent_id = dev-s95
+# text = Het verschil was miniem, 0,07 punt op de Duitser Beerbaum, maar hanteerbaar.
+# orig_file_sentence 001#95
+
+# sent_id = dev-s96
+# text = Natuurlijk had iedereen Van der Schans de titel zo gegund.
+# orig_file_sentence 001#96
+
+# sent_id = dev-s97
+# text = De organisatie, die een nationale winnaar op een EK als extra kroon noteert.
+# orig_file_sentence 001#97
+
+# sent_id = dev-s98
+# text = De bezoekers die de ruiter wel naar de titel wilden toeklappen, beschaafd zoals het hoort bij paardensport.
+# orig_file_sentence 001#98
+
+# sent_id = dev-s99
+# text = Applaus voor een aankomend held waarvoor zelfs majesteit haarzelve naar Papendal was afgereisd.
+# orig_file_sentence 001#99
+
+# sent_id = dev-s100
+# text = Sport is het decor waarin dramatiek gedijt.
+# orig_file_sentence 001#100
+
+# sent_id = dev-s101
+# text = Hoe heroïsch was al het verhaal dat Van der Schans met een gebroken sleutelbeen aan het EK deelnam.
+# orig_file_sentence 002#1
+
+# sent_id = dev-s102
+# text = En hoe navrant werd het relaas toen Jan Tops retireerde na een blessure van zijn paard Roofs.
+# orig_file_sentence 002#2
+
+# sent_id = dev-s103
+# text = En hoe dramatisch was het dat de grote favoriet, olympisch kampioen Dubbeldam, met vormklachten afhaakte?
+# orig_file_sentence 002#3
+
+# sent_id = dev-s104
+# text = Het kwam gisteren neer op nog één rondje, een omloop van tien hindernissen, twaalf sprongen.
+# orig_file_sentence 002#4
+
+# sent_id = dev-s105
+# text = In de eerste manche had Van der Schans geen fouten gemaakt, net als Beerbaum en de Belg Philippaerts, zijn voornaamste concurrenten.
+# orig_file_sentence 002#5
+
+# sent_id = dev-s106
+# text = In de tweede manche handhaafden zij eveneens de nul, net als negen anderen, want echt selectief was dat parcours niet.
+# orig_file_sentence 002#6
+
+# sent_id = dev-s107
+# text = Toen verscheen Van der Schans, voor wie de Europese titel klaarlag, maar die vier springfouten maakte.
+# orig_file_sentence 002#7
+
+# sent_id = dev-s108
+# text = Vier!
+# orig_file_sentence 002#8
+
+# sent_id = dev-s109
+# text = Hoe zuur.
+# orig_file_sentence 002#9
+
+# sent_id = dev-s110
+# text = En hoe onthutst waren de reacties.
+# orig_file_sentence 002#10
+
+# sent_id = dev-s111
+# text = Want dat hij de tweestrijd met Beerbaum wel eens zou kunnen verliezen, was ingecalculeerd, maar niet op deze manier.
+# orig_file_sentence 002#11
+
+# sent_id = dev-s112
+# text = De held-die-geen-held-werd repte zich met Corland naar de stal, vermande zich en keerde terug naar het pandemonium bij de uitgang van de piste waar iedereen die maar iets van paardensport meent te weten een mening had over het echec.
+# orig_file_sentence 002#12
+
+# sent_id = dev-s113
+# text = Daar besloot hij wat misverstanden weg te werken.
+# orig_file_sentence 002#13
+
+# sent_id = dev-s114
+# text = Nee, het waren geen zenuwen geweest.
+# orig_file_sentence 002#14
+
+# sent_id = dev-s115
+# text = "Op het voorterrein ging het nog heel overtuigend.
+# orig_file_sentence 002#15
+
+# sent_id = dev-s116
+# text = Het voelde ook in het begin erg goed aan. "
+# orig_file_sentence 002#16
+
+# sent_id = dev-s117
+# text = En ja, hij was teleurgesteld, maar toch ook tevreden: "Vorige week zag het ernaar uit dat ik helemaal niet kon rijden en dan doe je tot het laatst toe mee.
+# orig_file_sentence 002#17
+
+# sent_id = dev-s118
+# text = Als je zo dichtbij bent, is de teleurstelling groot.
+# orig_file_sentence 002#18
+
+# sent_id = dev-s119
+# text = Maar ik kan ook terugzien op een toernooi, waarop ik lang heb meegedaan.
+# orig_file_sentence 002#19
+
+# sent_id = dev-s120
+# text = Het is moeilijk van Beerbaum te winnen, maar dat is me donderdag toch maar gelukt. "
+# orig_file_sentence 002#20
+
+# sent_id = dev-s121
+# text = De rijder die vooral voor het jachtparcours van donderdag in de ploeg was opgenomen, werd de redder van het EK.
+# orig_file_sentence 002#21
+
+# sent_id = dev-s122
+# text = Want zonder Tops, minus Dubbeldam en met Angelique Hoorn in een (verdienstelijke) bijrol hield hij de vlam der hoop lang brandende voor de natie.
+# orig_file_sentence 002#22
+
+# sent_id = dev-s123
+# text = "Ik vond donderdag al dat het toernooi voor mij geslaagd was.
+# orig_file_sentence 002#23
+
+# sent_id = dev-s124
+# text = Het is jammer dat ik op het eind zo ver wegzakte, maar ik ben echt wel tevreden. "
+# orig_file_sentence 002#24
+
+# sent_id = dev-s125
+# text = Ook bondscoach Bert Romp was content.
+# orig_file_sentence 002#25
+
+# sent_id = dev-s126
+# text = "Wat vandaag gebeurde, was de ontlading van iets wat al die dagen is opgekropt.
+# orig_file_sentence 002#26
+
+# sent_id = dev-s127
+# text = Niemand had verwacht dat Corland zo ver zou komen.
+# orig_file_sentence 002#27
+
+# sent_id = dev-s128
+# text = Daarvoor had ik hem ook niet geselecteerd. "
+# orig_file_sentence 002#28
+
+# sent_id = dev-s129
+# text = Romp bleef ondanks alles positief.
+# orig_file_sentence 002#29
+
+# sent_id = dev-s130
+# text = "Met een vierde plaats in de landenwedstrijd mogen we tevreden zijn.
+# orig_file_sentence 002#30
+
+# sent_id = dev-s131
+# text = Dat Roofs zich blesseerde, dat De Sjiem niet in vorm was, kun je niet voorzien.
+# orig_file_sentence 002#31
+
+# sent_id = dev-s132
+# text = Zij zijn de stabiele combinaties die ik intik voor 0 of 4.
+# orig_file_sentence 002#32
+
+# sent_id = dev-s133
+# text = De twee anderen stegen boven zichzelf uit.
+# orig_file_sentence 002#33
+
+# sent_id = dev-s134
+# text = Angelique Hoorn heeft laten zien dat ze kan presteren.
+# orig_file_sentence 002#34
+
+# sent_id = dev-s135
+# text = Van Wout-Jan wisten we dat hij een superjockey was.
+# orig_file_sentence 002#35
+
+# sent_id = dev-s136
+# text = Met wat meer geluk hadden we hier staan juichen.
+# orig_file_sentence 002#36
+
+# sent_id = dev-s137
+# text = Niemand valt iets te verwijten, iedereen heeft zijn best gedaan.
+# orig_file_sentence 002#37
+
+# sent_id = dev-s138
+# text = Nee, ik heb niets tegen Wout-Jan gezegd.
+# orig_file_sentence 002#38
+
+# sent_id = dev-s139
+# text = Daarvoor zijn geen woorden nodig. "
+# orig_file_sentence 002#39
+
+# sent_id = dev-s140
+# text = "De boel was niet in de hand te houden."
+# orig_file_sentence 002#40
+
+# sent_id = dev-s141
+# text = Theo de Rooij stond met zijn handen in de zakken.
+# orig_file_sentence 002#41
+
+# sent_id = dev-s142
+# text = Gelaten legde hij zich neer bij de ingecalculeerde nederlaag die zijn Rabo-ploeg op het NK had geleden.
+# orig_file_sentence 002#42
+
+# sent_id = dev-s143
+# text = Gegokt en verloren, luidde de conclusie.
+# orig_file_sentence 002#43
+
+# sent_id = dev-s144
+# text = De beste ploeg van de wereld stond met legen handen.
+# orig_file_sentence 002#44
+
+# sent_id = dev-s145
+# text = Op het vlakke parcours in Nijmegen slaagden de Rabo's er niet in de regie van start tot finish te bepalen.
+# orig_file_sentence 002#45
+
+# sent_id = dev-s146
+# text = In de chaotische en vermakelijke eindfase konden ze de gevreesde massasprint niet voorkomen.
+# orig_file_sentence 002#46
+
+# sent_id = dev-s147
+# text = Bij het ingaan van de laatste kilometers was het lot van de Rabo's in feite al bezegeld.
+# orig_file_sentence 002#47
+
+# sent_id = dev-s148
+# text = Het team ontbeert nu eenmaal een echte sprinter.
+# orig_file_sentence 002#48
+
+# sent_id = dev-s149
+# text = Een type als Jans Koerts.
+# orig_file_sentence 002#49
+
+# sent_id = dev-s150
+# text = Drie jaar nadat hij van Jan Raas zijn congé had gekregen, was diens wraak zoet.
+# orig_file_sentence 002#50
+
+# sent_id = dev-s151
+# text = Koerts reed in 1997 en 1998 in dienst van Rabo maar kon daar zijn faam niet waarmaken.
+# orig_file_sentence 002#51
+
+# sent_id = dev-s152
+# text = Hij zou ten onder zijn gegaan aan faalangst, waardoor hij zich te snel schikte in een rol als knecht.
+# orig_file_sentence 002#52
+
+# sent_id = dev-s153
+# text = "Mij is alleen verteld dat ik te weinig won.
+# orig_file_sentence 002#53
+
+# sent_id = dev-s154
+# text = Ik denk dat Jan Raas nu toch moet toegeven dat hij het verkeerd heeft gezien. "
+# orig_file_sentence 002#54
+
+# sent_id = dev-s155
+# text = Koerts schonk grinnikend nog een mineraalwatertje in.
+# orig_file_sentence 002#55
+
+# sent_id = dev-s156
+# text = "Raas had een goedkope knecht aan mij kunnen hebben, maar nu zal mijn prijs toch wat hoger liggen."
+# orig_file_sentence 002#56
+
+# sent_id = dev-s157
+# text = In de filosofie van de Rabobank past echter geen sprinter.
+# orig_file_sentence 002#57
+
+# sent_id = dev-s158
+# text = De ploeg kiest liever het offensief en die strategie heeft ze dit voorjaar geen windeieren gelegd.
+# orig_file_sentence 002#58
+
+# sent_id = dev-s159
+# text = Ook in de Tour moet dat tot successen leiden.
+# orig_file_sentence 002#59
+
+# sent_id = dev-s160
+# text = De aanvalsdrift openbaarde zich op het NK al direct na de start.
+# orig_file_sentence 002#60
+
+# sent_id = dev-s161
+# text = Erik Dekker, de personificatie van de vrijbuitersgeest binnen de Rabobank, nam als zo vaak het initiatief.
+# orig_file_sentence 002#61
+
+# sent_id = dev-s162
+# text = Het leidde tot een ontsnapping van veertien man, met vier Rabo's, onder wie ook Michael Boogerd.
+# orig_file_sentence 002#62
+
+# sent_id = dev-s163
+# text = De Rooij: "Het was een gok, zo vroeg al, een spelletje poker."
+# orig_file_sentence 002#63
+
+# sent_id = dev-s164
+# text = Een meesterzet, zo leek het, want de Bankgiroloterij-ploeg moest kilometerslang aan kop van het peloton sleuren om een hergroepering tot stand te brengen.
+# orig_file_sentence 002#64
+
+# sent_id = dev-s165
+# text = Dat lukte.
+# orig_file_sentence 002#65
+
+# sent_id = dev-s166
+# text = Daarna reed Karsten Kroon (Rabo) alleen voor het peloton uit, maar in de visie van Boogerd hadden meer ploeggenoten daarbij betrokken moeten zijn.
+# orig_file_sentence 002#66
+
+# sent_id = dev-s167
+# text = De concurrentie hield de eenzame Kroon immers binnen bereik.
+# orig_file_sentence 002#67
+
+# sent_id = dev-s168
+# text = Boogerd: "Ik denk dat veel jongens bij ons niet de goede benen hadden.
+# orig_file_sentence 002#68
+
+# sent_id = dev-s169
+# text = We hebben de koers hard gemaakt, maar niet hard genoeg. "
+# orig_file_sentence 002#69
+
+# sent_id = dev-s170
+# text = Boogerd zelf voelde na een korte rustperiode wel weer kruit in zijn kuiten.
+# orig_file_sentence 002#70
+
+# sent_id = dev-s171
+# text = Bij het ingaan van de finale maakte deel uit van een kopgroep van negen man.
+# orig_file_sentence 002#71
+
+# sent_id = dev-s172
+# text = Rabo was daarin weliswaar met vier man vertegenwoordigd, maar Vierhouten, Löwik en Groenendaal hadden het beste van zichzelf al gegeven.
+# orig_file_sentence 002#72
+
+# sent_id = dev-s173
+# text = Een 'rotsituatie' vond Boogerd, want verder reden vooral snelle mannen om hem heen: Koerts, Kemna en Van Dijk.
+# orig_file_sentence 002#73
+
+# sent_id = dev-s174
+# text = Steeds weer meldde Boogerd zich bij de ploegleiderswagen van De Rooij en dat amuseerde Koerts.
+# orig_file_sentence 002#74
+
+# sent_id = dev-s175
+# text = "Ik denk dat Theo van de zenuwen in zijn broek heeft geplast."
+# orig_file_sentence 002#75
+
+# sent_id = dev-s176
+# text = De Rooij gaf de Rabo-renners in het peloton uiteindelijk de opdracht het gat dicht te rijden.
+# orig_file_sentence 002#76
+
+# sent_id = dev-s177
+# text = Dat luidde een hectische finale in.
+# orig_file_sentence 002#77
+
+# sent_id = dev-s178
+# text = Plots stond het peloton in vuur en vlam.
+# orig_file_sentence 002#78
+
+# sent_id = dev-s179
+# text = Dekker probeerde het, maar ook Van Heeswijk, Van Bon en Voskamp kropen uit de schulp.
+# orig_file_sentence 002#79
+
+# sent_id = dev-s180
+# text = De Rooij wist toen dat het kalf verdronken was.
+# orig_file_sentence 002#80
+
+# sent_id = dev-s181
+# text = "De rest heeft vooral gewacht totdat wij uitgebloed waren."
+# orig_file_sentence 002#81
+
+# sent_id = dev-s182
+# text = Boogerd leek de pure sprinters nog even te verrassen toen hij in de laatste bocht tien meter voorsprong nam.
+# orig_file_sentence 002#82
+
+# sent_id = dev-s183
+# text = "Het duurde lang voordat ze over me heen kwamen."
+# orig_file_sentence 002#83
+
+# sent_id = dev-s184
+# text = Boogerd werd derde, Kemna tweede, maar Koerts was ongenaakbaar.
+# orig_file_sentence 002#84
+
+# sent_id = dev-s185
+# text = Hij had tijdens het sprinten zelfs nog even tijd om om te kijken.
+# orig_file_sentence 002#85
+
+# sent_id = dev-s186
+# text = Van Jeroen Blijlevens (24ste) ontwaarde hij alleen een schim in de achterhoede.
+# orig_file_sentence 002#86
+
+# sent_id = dev-s187
+# text = Koerts: "Ik heb erg naar dit NK toegeleefd.
+# orig_file_sentence 002#87
+
+# sent_id = dev-s188
+# text = Toen ik hoorde dat het in Berg en Dal was, dacht ik dat het voor mij veel te zwaar zou zijn.
+# orig_file_sentence 002#88
+
+# sent_id = dev-s189
+# text = Maar na een verkenning van het parcours veranderde ik van gedachten.
+# orig_file_sentence 002#89
+
+# sent_id = dev-s190
+# text = In de afgelopen twee weken heb ik 1200 kilometer getraind, heel veel achter een scooter om snelheid te krijgen. "
+# orig_file_sentence 002#90
+
+# sent_id = dev-s191
+# text = Koerts heeft hij lang moeten vechten voor een status als topsprinter, te lang werd hij beschouwd als een veredeld kermiscoureur.
+# orig_file_sentence 002#91
+
+# sent_id = dev-s192
+# text = Zijn carrière verliep uiterst grillig.
+# orig_file_sentence 002#92
+
+# sent_id = dev-s193
+# text = In de grote ploegen waarvoor hij in het verleden reed - PDM, Festina, Rabobank en FarmFrites - kon hij nooit echt tot de wereldtop doordringen.
+# orig_file_sentence 002#93
+
+# sent_id = dev-s194
+# text = Met een ritzege in de Vuelta vorig jaar veranderde dat.
+# orig_file_sentence 002#94
+
+# sent_id = dev-s195
+# text = Dit jaar rijdt hij voor het Amerikaanse Mercury-Viatel, maar dat avontuur zou na dit jaar ondanks een doorlopend contract wel eens kunnen eindigen.
+# orig_file_sentence 002#95
+
+# sent_id = dev-s196
+# text = Viatel trok zich onlangs terug als geldschieter.
+# orig_file_sentence 002#96
+
+# sent_id = dev-s197
+# text = De toekomst van het team is vaag, Koerts kijkt ondertussen al verder.
+# orig_file_sentence 002#97
+
+# sent_id = dev-s198
+# text = "Ze kunnen me niet eindeloos aan het lijntje houden.
+# orig_file_sentence 002#98
+
+# sent_id = dev-s199
+# text = Binnen twee weken wil ik duidelijkheid over mijn toekomst. "
+# orig_file_sentence 002#99
+
+# sent_id = dev-s200
+# text = Vandaag komt manager John Wordin naar Nederland om hem, en ploegleider Johan Lammerts, uitleg te verschaffen.
+# orig_file_sentence 002#100
+
+# sent_id = dev-s201
+# text = De Zuid Amerikaanse voetbalfederatie CSF heeft besloten de Copa America uit te stellen.
+# orig_file_sentence 003#1
+
+# sent_id = dev-s202
+# text = Het toernooi zou van 11 tot en met 29 juli in Colombia worden gehouden.
+# orig_file_sentence 003#2
+
+# sent_id = dev-s203
+# text = De Braziliaanse voetbalbond stelde zich donderdag kandidaat voor de organisatie van het toernooi.
+# orig_file_sentence 003#3
+
+# sent_id = dev-s204
+# text = In Colombia werd de situatie te onveilig geacht.
+# orig_file_sentence 003#4
+
+# sent_id = dev-s205
+# text = Op een vergadering in Buenos Aires werd zaterdag echter besloten het toernooi toch in Colombia te laten spelen, maar dan later -mogelijk in januari 2002.
+# orig_file_sentence 003#5
+
+# sent_id = dev-s206
+# text = De directe aanleiding voor de afgelasting van het toernooi, dat nooit eerder in Colombia is georganiseerd, was de ontvoering van de vice-voorzitter van de Colombiaanse voetbalbond, Hernan Mejia.
+# orig_file_sentence 003#6
+
+# sent_id = dev-s207
+# text = Hij werd 25 juni ontvoerd vlak bij Pereira, een van de beoogde speelsteden.
+# orig_file_sentence 003#7
+
+# sent_id = dev-s208
+# text = De ontvoering van Mejia -vermoedelijk door FARC-rebellen- was de laatste in een reeks van incidenten die in verband gebracht werden met de Copa America.
+# orig_file_sentence 003#8
+
+# sent_id = dev-s209
+# text = In mei ontploften bommen in de speelsteden Cali, Medellin, Pereira en Bogota.
+# orig_file_sentence 003#9
+
+# sent_id = dev-s210
+# text = Geluiden dat het toernooi naar Mexico zou worden verplaatst, werden steeds sterker.
+# orig_file_sentence 003#10
+
+# sent_id = dev-s211
+# text = Op 1 juni reisde de Colombiaanse president Pastrana naar de Paraguayaanse hoofdstad Asunción.
+# orig_file_sentence 003#11
+
+# sent_id = dev-s212
+# text = In een bijzondere vergadering van de CSF garandeerde hij een veilig toernooiverloop in Colombia.
+# orig_file_sentence 003#12
+
+# sent_id = dev-s213
+# text = Pastrana noemde het doorgaan van de Copa essentieel voor het Colombiaanse vredesproces.
+# orig_file_sentence 003#13
+
+# sent_id = dev-s214
+# text = "We gaan bommen vervangen door doelpunten", zei hij.
+# orig_file_sentence 003#14
+
+# sent_id = dev-s215
+# text = Maar de afgelopen week lukte het de CSF, die Colombia tot dan steunde, niet meer de gelederen gesloten te houden.
+# orig_file_sentence 003#15
+
+# sent_id = dev-s216
+# text = Met de ontvoering van Mejia was voor de voetbalbonden van Uruguay, Brazilië en Argentinië de grens overschreden.
+# orig_file_sentence 003#16
+
+# sent_id = dev-s217
+# text = Zij hebben een machtige positie binnen de CSF en zij wilden hun elftallen niet laten spelen in Colombia.
+# orig_file_sentence 003#17
+
+# sent_id = dev-s218
+# text = Brazilië probeerde het toernooi over te nemen.
+# orig_file_sentence 003#18
+
+# sent_id = dev-s219
+# text = Kort nadat CSF-voorzitter Leoz donderdag het besluit het toernooi te annuleren bekend had gemaakt, werd Mejia vrijgelaten door zijn ontvoerders.
+# orig_file_sentence 003#19
+
+# sent_id = dev-s220
+# text = Hij zou 'per ongeluk' ontvoerd zijn door de FARC-rebellen.
+# orig_file_sentence 003#20
+
+# sent_id = dev-s221
+# text = Toen die hoorden van het annuleren van de Copa, lieten ze hem terstond vrij.
+# orig_file_sentence 003#21
+
+# sent_id = dev-s222
+# text = Mejia werd terstond ingezet in een campagne om de Copa voor Colombia te redden.
+# orig_file_sentence 003#22
+
+# sent_id = dev-s223
+# text = De ironie wil dat FARC-woordvoerder Raul Reyes in april 2000 een akkoord had gesloten met de Colombiaanse regering om de Copa te respecteren.
+# orig_file_sentence 003#23
+
+# sent_id = dev-s224
+# text = De afgelopen week lieten de FARC op humanitaire gronden ruim 300 ontvoerde politie-agenten en militairen vrij om hun vredeswens te illustreren.
+# orig_file_sentence 003#24
+
+# sent_id = dev-s225
+# text = Zichtbaar geëmotioneerd en lijkbleek legde Mejia vrijdagavond in het bijzijn van president Pastrana een verklaring af voor de Colombiaanse televisie.
+# orig_file_sentence 003#25
+
+# sent_id = dev-s226
+# text = Pastrana verklaarde: "Als de Copa niet doorgaat, is dat een klap in ons gezicht.
+# orig_file_sentence 003#26
+
+# sent_id = dev-s227
+# text = Het zou een belediging zijn van onze gastvrijheid en waardigheid.
+# orig_file_sentence 003#27
+
+# sent_id = dev-s228
+# text = Het is koren op de molen van de terroristen.
+# orig_file_sentence 003#28
+
+# sent_id = dev-s229
+# text = Landen die ons niet steunen voor de Copa, hebben weinig op met ons vredesproces. "
+# orig_file_sentence 003#29
+
+# sent_id = dev-s230
+# text = Pastrana begon een politiek offensief om de Copa voor Colombia te behouden.
+# orig_file_sentence 003#30
+
+# sent_id = dev-s231
+# text = Hij belde persoonlijk met regeringsleiders van andere Zuid-Amerikaanse landen met het verzoek hun nationale voetbalbonden te overtuigen van het belang van het toernooi voor Colombia.
+# orig_file_sentence 003#31
+
+# sent_id = dev-s232
+# text = Venezuela, Ecuador, Paraguay, Chili en Bolivia steunden uiteindelijk de kanditatuur van Colombia tijdens de vergadering in Buenos Aires.
+# orig_file_sentence 003#32
+
+# sent_id = dev-s233
+# text = Uruguay, Brazilië, Peru
+# orig_file_sentence 003#33
+
+# sent_id = dev-s234
+# text = en Argentinie bleven echter tegen.
+# orig_file_sentence 003#34
+
+# sent_id = dev-s235
+# text = Het besluit van de CSF lijkt op een poging de kool en de geit te sparen.
+# orig_file_sentence 003#35
+
+# sent_id = dev-s236
+# text = In de Colombiaanse media is met teleurstelling gereageerd op het afgelasten van het titeltoernooi.
+# orig_file_sentence 003#36
+
+# sent_id = dev-s237
+# text = De krant El Tiempo schat de economische schade op 100 miljoen dollar.
+# orig_file_sentence 003#37
+
+# sent_id = dev-s238
+# text = In de buurt van het stadion Nemesio Camacho el Camping, waar 29 juli de finale zou worden gespeeld, is een groepje mannen en kinderen minivoetbal aan het spelen.
+# orig_file_sentence 003#38
+
+# sent_id = dev-s239
+# text = Carmen Bolivar houdt de tijd bij.
+# orig_file_sentence 003#39
+
+# sent_id = dev-s240
+# text = Ze vindt het onterecht dat de Copa niet doorgaat.
+# orig_file_sentence 003#40
+
+# sent_id = dev-s241
+# text = "Het was voor ons de kans om eens een ander Colombia te laten zien.
+# orig_file_sentence 003#41
+
+# sent_id = dev-s242
+# text = De buitenlandse pers is altijd negatief over ons.
+# orig_file_sentence 003#42
+
+# sent_id = dev-s243
+# text = En dat terwijl er hier ook heel veel goedwillende mensen wonen.
+# orig_file_sentence 003#43
+
+# sent_id = dev-s244
+# text = Kijk nou zelf, is het hier dan zo gevaarlijk?
+# orig_file_sentence 003#44
+
+# sent_id = dev-s245
+# text = Een paar weken voetbalfeest is net wat het land nodig heeft. "
+# orig_file_sentence 003#45
+
+# sent_id = dev-s246
+# text = Op de vraag of ze blij is dat het toernooi in januari doorgaat, antwoordt ze schouderophalend.
+# orig_file_sentence 003#46
+
+# sent_id = dev-s247
+# text = "We zitten dan midden in de verkiezingsstrijd.
+# orig_file_sentence 003#47
+
+# sent_id = dev-s248
+# text = Wie zegt dat het dan rustiger is? "
+# orig_file_sentence 003#48
+
+# sent_id = dev-s249
+# text = De gouden C aan haar halsketting herinnert aan een belofte.
+# orig_file_sentence 003#49
+
+# sent_id = dev-s250
+# text = Lindsay Davenport is vast van plan om meer te genieten van haar beroep.
+# orig_file_sentence 003#50
+
+# sent_id = dev-s251
+# text = "Ik ben aan een tweede carrière begonnen."
+# orig_file_sentence 003#51
+
+# sent_id = dev-s252
+# text = Zaterdag plaatste de meest onzichtbare vrouw van 1.89 meter zich zonder problemen voor de vierde ronde van Wimbledon.
+# orig_file_sentence 003#52
+
+# sent_id = dev-s253
+# text = De eerste echte test wacht vandaag, in de persoon van Jelena Dokic.
+# orig_file_sentence 003#53
+
+# sent_id = dev-s254
+# text = Dan zal blijken hoe effectief de nieuwe spelopvatting van Davenport is.
+# orig_file_sentence 003#54
+
+# sent_id = dev-s255
+# text = En of de balans tussen stress en ontspanning niet is doorgeslagen.
+# orig_file_sentence 003#55
+
+# sent_id = dev-s256
+# text = Angst om te verliezen kent de Amerikaanse in ieder geval niet meer.
+# orig_file_sentence 003#56
+
+# sent_id = dev-s257
+# text = Ze heeft het leed van het leven geproefd.
+# orig_file_sentence 003#57
+
+# sent_id = dev-s258
+# text = "Het is verbazingwekkend hoe verdriet in de privé-sfeer de dingen in perspectief zet.
+# orig_file_sentence 003#58
+
+# sent_id = dev-s259
+# text = Meer dan ooit voel ik het als een privilege om hier überhaupt op de baan te mogen staan. "
+# orig_file_sentence 003#59
+
+# sent_id = dev-s260
+# text = Wilde speculaties deden de voorbije maanden de ronde over het mogelijke pensioen van de voormalige nummer één.
+# orig_file_sentence 003#60
+
+# sent_id = dev-s261
+# text = Ze was maandenlang geblesseerd, maar dat was niet de reden.
+# orig_file_sentence 003#61
+
+# sent_id = dev-s262
+# text = Haar beste vriendin en voormalige dubbelpartner, Corina Morariu, werd getroffen door acute leukemie.
+# orig_file_sentence 003#62
+
+# sent_id = dev-s263
+# text = "Die eerste weken had ik heel veelmoeite met mijn motivatie.
+# orig_file_sentence 003#63
+
+# sent_id = dev-s264
+# text = Nu niet meer.
+# orig_file_sentence 003#64
+
+# sent_id = dev-s265
+# text = Juist niet meer. "
+# orig_file_sentence 003#65
+
+# sent_id = dev-s266
+# text = Eind maart protesteerde de rechterknie van Davenport, in de kwartfinales van Miami.
+# orig_file_sentence 003#66
+
+# sent_id = dev-s267
+# text = Het was een voorbode van slecht weer.
+# orig_file_sentence 003#67
+
+# sent_id = dev-s268
+# text = Daags voor Roland Garros kreeg ze een telefoontje van meneer Morariu.
+# orig_file_sentence 003#68
+
+# sent_id = dev-s269
+# text = "Toen heb ik gevoeld wat bangheid inhoudt."
+# orig_file_sentence 003#69
+
+# sent_id = dev-s270
+# text = Davenport vloog terug naar Amerika.
+# orig_file_sentence 003#70
+
+# sent_id = dev-s271
+# text = Voor het eerst sinds 1993 miste de consciëntieuze prof een Grand Slam.
+# orig_file_sentence 003#71
+
+# sent_id = dev-s272
+# text = Officieel omdat ze fysiek nog niet klaar was.
+# orig_file_sentence 003#72
+
+# sent_id = dev-s273
+# text = "Men dacht dat het mij allemaal niets meer kon schelen.
+# orig_file_sentence 003#73
+
+# sent_id = dev-s274
+# text = Dat was niet waar.
+# orig_file_sentence 003#74
+
+# sent_id = dev-s275
+# text = Wel was ik kwaad op mezelf voor het feit dat ik daarvoor zo had gebaald vanwege mijn knie. "
+# orig_file_sentence 003#75
+
+# sent_id = dev-s276
+# text = Terwijl Jennifer Capriati in Parijs haar tweede Slam van het jaar won, bracht Davenport de uren door in het ziekenhuis.
+# orig_file_sentence 003#76
+
+# sent_id = dev-s277
+# text = Het gaf haar de tijd om eens na te denken over haar drie veroverde Grand Slam-titels en de toekomst die nog voor haar ligt.
+# orig_file_sentence 003#77
+
+# sent_id = dev-s278
+# text = Soms zijn tennissters net mensen.
+# orig_file_sentence 003#78
+
+# sent_id = dev-s279
+# text = "Achteraf gezien was ik liever wat ouder geweest voor ik professional werd.
+# orig_file_sentence 003#79
+
+# sent_id = dev-s280
+# text = Ik was zestien.
+# orig_file_sentence 003#80
+
+# sent_id = dev-s281
+# text = Maar ja, wat voor keuze heb je?
+# orig_file_sentence 003#81
+
+# sent_id = dev-s282
+# text = Ik ben pas 25 jaar en toch heb ik al het gevoel in de slotfase van mijn carrière te zijn aanbeland.
+# orig_file_sentence 003#82
+
+# sent_id = dev-s283
+# text = Zo zijn de wetten van het vrouwentennis nou eenmaal. "
+# orig_file_sentence 003#83
+
+# sent_id = dev-s284
+# text = "Het is een moeilijke manier van leven, zeker voor een meisje.
+# orig_file_sentence 003#84
+
+# sent_id = dev-s285
+# text = Eenzaamheid en verveling liggen op de loer.
+# orig_file_sentence 003#85
+
+# sent_id = dev-s286
+# text = Je moet proberen het licht aan het einde van de tunnel te zien; de tunnel die naar je doel leidt.
+# orig_file_sentence 003#86
+
+# sent_id = dev-s287
+# text = Dat is lastig voor een achttienjarige.
+# orig_file_sentence 003#87
+
+# sent_id = dev-s288
+# text = Een normaal iemand hoeft het grotere geheel van zijn carrière pas jaren later te begrijpen. "
+# orig_file_sentence 003#88
+
+# sent_id = dev-s289
+# text = "Vlak nadat ik begon met reizen, kregen mijn ouders onderling problemen.
+# orig_file_sentence 003#89
+
+# sent_id = dev-s290
+# text = Jarenlang heb ik me daarover schuldig gevoeld.
+# orig_file_sentence 003#90
+
+# sent_id = dev-s291
+# text = Wat nou als ik was thuisgebleven?
+# orig_file_sentence 003#91
+
+# sent_id = dev-s292
+# text = Pas nu begrijp ik dat dat belachelijk is.
+# orig_file_sentence 003#92
+
+# sent_id = dev-s293
+# text = Iedereen moet z'n zaakjes op z'n eigen manier opknappen. "
+# orig_file_sentence 003#93
+
+# sent_id = dev-s294
+# text = "Voorlopig denk ik nog niet aan stoppen.
+# orig_file_sentence 003#94
+
+# sent_id = dev-s295
+# text = Mensen kunnen lachen en zeggen: waar heb je het over?
+# orig_file_sentence 003#95
+
+# sent_id = dev-s296
+# text = Je bent pas halverwege de twintig.
+# orig_file_sentence 003#96
+
+# sent_id = dev-s297
+# text = Maar zij weten niet waar wij ons al vanaf onze tienerjaren doorheen hebben moeten werken.
+# orig_file_sentence 003#97
+
+# sent_id = dev-s298
+# text = De druk en de aandacht en de blessures.
+# orig_file_sentence 003#98
+
+# sent_id = dev-s299
+# text = In een normale sport begint niemand op zo'n leeftijd. "
+# orig_file_sentence 003#99
+
+# sent_id = dev-s300
+# text = Davenport is meer nog dan voorheen de gewone in een abnormale wereld.
+# orig_file_sentence 003#100
+
+# sent_id = dev-s301
+# text = Haar coach was blij met alle speculaties: 'prima, nu zal de rest je nog meer onderschatten'.
+# orig_file_sentence 004#1
+
+# sent_id = dev-s302
+# text = Vrij van verwachtingen won ze ruim een week geleden bij haar rentree meteen het grastoernooi van Eastbourne.
+# orig_file_sentence 004#2
+
+# sent_id = dev-s303
+# text = De zusjes Williams praten op persconferenties 'als moeders' zoveel over hun schoothondjes, Hingis kickt op de glamour en Capriati, ja die ontspoorde al eens helemaal.
+# orig_file_sentence 004#3
+
+# sent_id = dev-s304
+# text = Net als Davenports tegenstandster van gisteren, Patty Schnyder.
+# orig_file_sentence 004#4
+
+# sent_id = dev-s305
+# text = De Wimbledon-winnares van 1999 e-mailt ondertussen iedere dag met Corina Morariu.
+# orig_file_sentence 004#5
+
+# sent_id = dev-s306
+# text = "Ik sta met beide benen op de grond.
+# orig_file_sentence 004#6
+
+# sent_id = dev-s307
+# text = Net als de rest van mijn familie.
+# orig_file_sentence 004#7
+
+# sent_id = dev-s308
+# text = Ik denk dat ik inmiddels een aardig beeld heb van wat deze baan inhoudt, en van wat de rest van het leven betekent. "
+# orig_file_sentence 004#8
+
+# sent_id = dev-s309
+# text = Eén deelneemster wordt uit haar congregatie gezet, een spreekster wacht vermoedelijk hetzelfde lot.
+# orig_file_sentence 004#9
+
+# sent_id = dev-s310
+# text = In Dublin was dit weekeinde een internationale bijeenkomst over vrouwelijk priesterschap.
+# orig_file_sentence 004#10
+
+# sent_id = dev-s311
+# text = De tijd is rijp, roept de folder van de eerste internationale bijeenkomst van Women's Ordination Worldwide (WOW).
+# orig_file_sentence 004#11
+
+# sent_id = dev-s312
+# text = Wie tegen vrouwenwijding is, doet aan vrouwenmisbruik, klonk het op de conferentie dit weekeinde in Dublin.
+# orig_file_sentence 004#12
+
+# sent_id = dev-s313
+# text = Maar het pleidooi vóór heeft de tijd niet mee.
+# orig_file_sentence 004#13
+
+# sent_id = dev-s314
+# text = De rk kerkleiding werkte het congres tegen: een non wordt wegens deelname na 42 jaar uit haar orde gezet.
+# orig_file_sentence 004#14
+
+# sent_id = dev-s315
+# text = Een priester is een man, geen vrouw.
+# orig_file_sentence 004#15
+
+# sent_id = dev-s316
+# text = Punt.
+# orig_file_sentence 004#16
+
+# sent_id = dev-s317
+# text = "Wanneer gaat u vrouwen wijden?" riep volgens overlevering een priester de paus toe tijdens zijn bezoek aan de Verenigde Staten.
+# orig_file_sentence 004#17
+
+# sent_id = dev-s318
+# text = Of het historisch is, valt te bezien, maar het antwoord van de heilige Vader was gevat: It's a long way to Tipperary.
+# orig_file_sentence 004#18
+
+# sent_id = dev-s319
+# text = De rk kerk reageert meestal minder ad rem op vragen in die richting, eerder verbeten.
+# orig_file_sentence 004#19
+
+# sent_id = dev-s320
+# text = Volgens WOW-woordvoerster Soline Vitanel moesten aangezochte sprekers onder druk afhaken, en zelfs de Wereldraad verbood een prominent vertegenwoordigster om mee te werken.
+# orig_file_sentence 004#20
+
+# sent_id = dev-s321
+# text = Myra Poole, een zuster van Notre Dame, verscheen toch, onder applaus -zij wordt nu, na 42 jaar, uit haar congregatie gezet.
+# orig_file_sentence 004#21
+
+# sent_id = dev-s322
+# text = De Noord-Ierse Nobelprijswinnaar M.C.Maguire opende de conferentie in het land van Tipperary.
+# orig_file_sentence 004#22
+
+# sent_id = dev-s323
+# text = Zelf heeft ze geen roeping tot het priesterambt, maar haar seksegenoten zou die kans wel geboden moeten worden.
+# orig_file_sentence 004#23
+
+# sent_id = dev-s324
+# text = Volgens Maguire komt dat er wel van.
+# orig_file_sentence 004#24
+
+# sent_id = dev-s325
+# text = De rk kerk kan het 'grievende geestelijk geweld tegen vrouwen', ja zelfs 'misbruik' toch niet volhouden.
+# orig_file_sentence 004#25
+
+# sent_id = dev-s326
+# text = Dat we bij 'priester' meteen aan 'man' denken, komt alleen door onze culturele bril.
+# orig_file_sentence 004#26
+
+# sent_id = dev-s327
+# text = En die kan af.
+# orig_file_sentence 004#27
+
+# sent_id = dev-s328
+# text = De WOW vierde dit weekeinde haar eerste lustrum.
+# orig_file_sentence 004#28
+
+# sent_id = dev-s329
+# text = De organisatie, een internationaal netwerk opgezet na de eerste Europese vrouwensynode in Oostenrijk (1996), wil het priesterambt vernieuwen, want mannen zijn niet méér gelijk dan vrouwen.
+# orig_file_sentence 004#29
+
+# sent_id = dev-s330
+# text = Daarmee keert de WOW zich niet alleen tegen de rk leer maar riskeert ook een flinke aanvaring met de moederkerk.
+# orig_file_sentence 004#30
+
+# sent_id = dev-s331
+# text = In het Vaticaanse geschrift Ad tuendam fidem (1998) kregen critici van het absolute pauselijke 'nee' tegen de vrouwelijke priester de wind van voren.
+# orig_file_sentence 004#31
+
+# sent_id = dev-s332
+# text = Tegenstanders zijn bijna ketters.
+# orig_file_sentence 004#32
+
+# sent_id = dev-s333
+# text = Pogingen om in Nederland te praten over vrouwenwijding stranden op rk onwil.
+# orig_file_sentence 004#33
+
+# sent_id = dev-s334
+# text = Vorige maand heeft de bisschop van Brugge, mgr. Robert Vangheluwe, het opgenomen voor de vrouwelijke diaken, maar voor het overige: Rome heeft gesproken, de zaak is gesloten.
+# orig_file_sentence 004#34
+
+# sent_id = dev-s335
+# text = Hardnekkig probeert WOW de zaak te heropenen.
+# orig_file_sentence 004#35
+
+# sent_id = dev-s336
+# text = Ze roept de paus in een resolutie op dat ook te doen.
+# orig_file_sentence 004#36
+
+# sent_id = dev-s337
+# text = Jaarlijks moet een gebedsdag het streven naar vrouwenwijding ondersteunen.
+# orig_file_sentence 004#37
+
+# sent_id = dev-s338
+# text = De benedictines Joan Chittister is de enige spreekster op het congres die wat te vrezen heeft van haar kerk; de anderen zijn niet of niet meer rk.
+# orig_file_sentence 004#38
+
+# sent_id = dev-s339
+# text = Boeddhistische vrouwen willen een wijding, Indiase wagen zich aan heilige dansen, jodinnen bestuderen de tora, zegt Chittister, alleen in de meest achterlijke en wettische culturen zijn vrouwen onzichtbaar, nauwelijks menselijk en minder begiftigd met de Geest.
+# orig_file_sentence 004#39
+
+# sent_id = dev-s340
+# text = Voor de non is de parallel met haar eigen rk kerk treffend en vraagt om niets minder dan een pijnlijke bekering, zoals ze ooit de slavernij afzwoer -op het gevaar af dat de pleitbezorgsters daarvoor de rekening gepresenteerd krijgen.
+# orig_file_sentence 004#40
+
+# sent_id = dev-s341
+# text = Chittister weet waarover ze het heeft, ze stak al eerder haar nek uit.
+# orig_file_sentence 004#41
+
+# sent_id = dev-s342
+# text = Dat leverde tot dusver alleen reprimandes op.
+# orig_file_sentence 004#42
+
+# sent_id = dev-s343
+# text = Dat wordt na dit weekeinde waarschijnlijk anders: ook zij is gedreigd met uitzetting uit de orde.
+# orig_file_sentence 004#43
+
+# sent_id = dev-s344
+# text = In totaal 135 medezusters hebben al gezegd dezelfde sancties te willen krijgen als Chittister.
+# orig_file_sentence 004#44
+
+# sent_id = dev-s345
+# text = De WOW pleit nu voor financiële steun aan religieuzen als Chittister en Poole die vanwege hun opvattingen over vrouwenwijding niet meer in hun levensonderhoud kunnen voorzien.
+# orig_file_sentence 004#45
+
+# sent_id = dev-s346
+# text = De uitgetreden priester J.Wijngaards, een van de drijvende krachten achter de conferentie, erkent dat vrouwenwijding hoofdzakelijk in Westerse hoofden opkomt, maar vraagt er toch internationale aandacht voor.
+# orig_file_sentence 004#46
+
+# sent_id = dev-s347
+# text = Volgens hem missen mannelijke priesters het charisma dat mensen aanspreekt; vrouwen hebben dat wel.
+# orig_file_sentence 004#47
+
+# sent_id = dev-s348
+# text = In India werken 80000 religieuzen, vaak onder de allerarmsten.
+# orig_file_sentence 004#48
+
+# sent_id = dev-s349
+# text = Gevraagd of ze niet wat anders aan hun hoofd hebben dan de luxe van disputen over vrouwenwijding, zei Wijngaards onlangs in Indiancurrent: "Word wakker!
+# orig_file_sentence 004#49
+
+# sent_id = dev-s350
+# text = Hoe kunnen ze armoede bestrijden als ze geen toegang hebben tot de macht?
+# orig_file_sentence 004#50
+
+# sent_id = dev-s351
+# text = Vorig jaar was ik weer in India en hoorde de frustraties; ze stuiten alleen op mannelijke onwil en middeleeuwse vooroordelen, niet op steekhoudende theologische argumenten. "
+# orig_file_sentence 004#51
+
+# sent_id = dev-s352
+# text = Daarmee heeft Wijngaards de gevoelige plek te pakken: het argument waarmee 'de kerk' nee zegt, is op zichzelf niet inhoudelijk.
+# orig_file_sentence 004#52
+
+# sent_id = dev-s353
+# text = In zijn lezing afgelopen zaterdag in Dublin ging hij in op de bezwaren.
+# orig_file_sentence 004#53
+
+# sent_id = dev-s354
+# text = Vrouwenwijding zou een gevolg zijn van de algemene strijd om gelijke rechten die ook in de kerk doordringt.
+# orig_file_sentence 004#54
+
+# sent_id = dev-s355
+# text = Wijngaards bestrijdt dat niet, maar zijn argument vóór ontleent hij aan iets anders: de doop, die alle gelovigen gelijkmaakt.
+# orig_file_sentence 004#55
+
+# sent_id = dev-s356
+# text = Daardoor krijgt iedereen deel aan Christus 'priesterschap, niet alleen de mannen.
+# orig_file_sentence 004#56
+
+# sent_id = dev-s357
+# text = Wijngaards wil het verzet tegen de vrouw in het priesterambt ontmantelen.
+# orig_file_sentence 004#57
+
+# sent_id = dev-s358
+# text = Hij vergelijkt het met de weerzin die zwarten plachten op te wekken.
+# orig_file_sentence 004#58
+
+# sent_id = dev-s359
+# text = Toen die tot de directe omgeving van blanken doordrongen, viel het vooroordeel in duigen.
+# orig_file_sentence 004#59
+
+# sent_id = dev-s360
+# text = "Als priesters zelfingenomen zeggen dat Jezus vrouwen uitsloot en dat ze daarom nooit gewijd zijn, is dat argument eenvoudig te slopen: vrouwen hebben in vroeger eeuwen wel degelijk een volledige diakenwijding ontvangen."
+# orig_file_sentence 004#60
+
+# sent_id = dev-s361
+# text = Nu al hebben vrouwen volgens het rk kerkelijk recht meer mogelijkheden dan ze plaatselijk benutten.
+# orig_file_sentence 004#61
+
+# sent_id = dev-s362
+# text = Zouden ze dat wel doen, dan is dat een volgende stap op weg naar vrouwenwijding.
+# orig_file_sentence 004#62
+
+# sent_id = dev-s363
+# text = Een 24-jarige technisch medewerker van de Achterhoekse popgroep Jovink en de Voederbietels is zaterdagavond in Borculo bij het opbouwen van de lichtinstallatie om het leven gekomen.
+# orig_file_sentence 004#63
+
+# sent_id = dev-s364
+# text = Het slachtoffer stond op vijf meter hoogte in een feesttent te werken toen hij naar beneden viel en op zijn hoofd terechtkwam.
+# orig_file_sentence 004#64
+
+# sent_id = dev-s365
+# text = Kort daarna overleed hij aan zijn verwondingen.
+# orig_file_sentence 004#65
+
+# sent_id = dev-s366
+# text = De groep besloot het optreden af te blazen.
+# orig_file_sentence 004#66
+
+# sent_id = dev-s367
+# text = De politie heeft in de nacht van zaterdag op zondag een 30-jarige Rotterdammer aangehouden op verdenking van betrokkenheid bij een dodelijke schietpartij in zijn woonplaats.
+# orig_file_sentence 004#67
+
+# sent_id = dev-s368
+# text = Bij de schotenwisseling op een kruising in Rotterdam-Zuid kwam rond 0.30 uur een 35-jarige Rotterdamse om het leven.
+# orig_file_sentence 004#68
+
+# sent_id = dev-s369
+# text = Een woordvoerster van de politie meldt dat de aangehouden man en het slachtoffer in het verleden een relatie met elkaar hebben gehad.
+# orig_file_sentence 004#69
+
+# sent_id = dev-s370
+# text = Het jaarlijkse benefietdiner in Amsterdam voor het Aidsfonds heeft dit jaar ongeveer 350000 gulden opgebracht.
+# orig_file_sentence 004#70
+
+# sent_id = dev-s371
+# text = De opbrengst gaat naar Stop Aids Now !, waarmee het Aidsfonds zich inzet voor mensen in ontwikkelingslanden met hiv of aids.
+# orig_file_sentence 004#71
+
+# sent_id = dev-s372
+# text = Van het geld worden onder meer projecten ondersteund voor de 13 miljoen aidswezen.
+# orig_file_sentence 004#72
+
+# sent_id = dev-s373
+# text = Twee grote Nederlandse tbs-instellingen willen zedendelinquenten over enige maanden op vrijwillige basis laten meewerken aan een onderzoek met een leugendetector.
+# orig_file_sentence 004#73
+
+# sent_id = dev-s374
+# text = Een woordvoerster van het ministerie van justitie heeft zaterdag gezegd dat het forensisch psychiatrisch centrum Veldzicht in Balkbrug en de dr. Henri Van der Hoeven-kliniek in Utrecht een experiment willen opzetten waarmee beter kan worden voorspeld of een zedendelinquent in de maatschappij kan terugkeren.
+# orig_file_sentence 004#74
+
+# sent_id = dev-s375
+# text = De test met de zogeheten polygraaf maakt deel uit van een promotie-onderzoek van psycholoog F. Buschman, hoofdbehandelaar van centrum Veldzicht.
+# orig_file_sentence 004#75
+
+# sent_id = dev-s376
+# text = Volgens de woordvoerster van justitie is het apparaat waarmee de tests moeten worden uitgevoerd een nieuwe versie van de wat oudere leugendetector.
+# orig_file_sentence 004#76
+
+# sent_id = dev-s377
+# text = "Het meet de bloeddruk van een ondervraagde, maar ook zijn hartslag en de mate van transpiratie."
+# orig_file_sentence 004#77
+
+# sent_id = dev-s378
+# text = Met het onderzoek naar de bruikbaarheid van de polygraaf hoopt onderzoeker Buschman beter te kunnen voorspellen in hoeverre een zedendelinquent na zijn tbs een maatschappelijk risico vormt door terug te vallen in zijn criminele gedrag.
+# orig_file_sentence 004#78
+
+# sent_id = dev-s379
+# text = Nu gaan meer dan een op de drie zedendelinquenten na hun (tbs-)behandeling opnieuw in de fout.
+# orig_file_sentence 004#79
+
+# sent_id = dev-s380
+# text = Twee meisjes van 9 en 10 jaar uit Amstelveen en Duiven zijn zaterdag op een camping in Markelo naar alle waarschijnlijkheid door koolmonoxidevergifiging omgekomen.
+# orig_file_sentence 004#80
+
+# sent_id = dev-s381
+# text = De twee vriendinnetjes bevonden zich in een doucheruimte bij een caravan.
+# orig_file_sentence 004#81
+
+# sent_id = dev-s382
+# text = De politie vermoedt dat de aanwezigheid van een geiser en onvoldoende ventilatie de meisjes fataal is geworden.
+# orig_file_sentence 004#82
+
+# sent_id = dev-s383
+# text = De vader van een van de meisjes zag door een raampje beide slacht;offertjes bewusteloos op de grond liggen en trapte de ruit in.
+# orig_file_sentence 004#83
+
+# sent_id = dev-s384
+# text = Campinggasten hebben nog geprobeerd te reanimeren, maar bij aankomst in het ziekenhuis bleken de meisjes te zijn overleden.
+# orig_file_sentence 004#84
+
+# sent_id = dev-s385
+# text = De technische recherche onderzoekt de zaak.
+# orig_file_sentence 004#85
+
+# sent_id = dev-s386
+# text = Bij een verkeersongeval op de A5 in Duitsland bij Otters Weihe, zijn zaterdagavond een hoogleraar (63) en een studente (23) van de Katholieke Universiteit Nijmegen (KUN) om het leven gekomen.
+# orig_file_sentence 004#86
+
+# sent_id = dev-s387
+# text = Drie andere inzittenden van het busje met in totaal negen personen raakten daarbij gewond, van wie één ernstig.
+# orig_file_sentence 004#87
+
+# sent_id = dev-s388
+# text = Volgens de politie van Karlsruhe sloeg het voertuig bij een inhaalmanoeuvre over de kop sloeg.
+# orig_file_sentence 004#88
+
+# sent_id = dev-s389
+# text = De omgekomen hoogleraar, die stuurde, en de studente werden uit het busje geslingerd.
+# orig_file_sentence 004#89
+
+# sent_id = dev-s390
+# text = Door blikseminslag bij een paardenconcours in Den Ham in Twente zijn zaterdag veertien mensen lichtgewond geraakt.
+# orig_file_sentence 004#90
+
+# sent_id = dev-s391
+# text = Het gaat om een aantal ruiters en publiek die in de openlucht aan de rand van de ring stonden.
+# orig_file_sentence 004#91
+
+# sent_id = dev-s392
+# text = Volgens een politiewoordvoerder gebeurde het incident tijdens hevig onweer.
+# orig_file_sentence 004#92
+
+# sent_id = dev-s393
+# text = De bliksem sloeg in op het middenterrein.
+# orig_file_sentence 004#93
+
+# sent_id = dev-s394
+# text = Sommigen werden door de klap tegen de grond geslagen, anderen kregen last van duizeligheid en hoofdpijn.
+# orig_file_sentence 004#94
+
+# sent_id = dev-s395
+# text = De slachtoffers werden door de EHBO en een arts opgevangen.
+# orig_file_sentence 004#95
+
+# sent_id = dev-s396
+# text = Iedereen kon daarna gewoon naar huis.
+# orig_file_sentence 004#96
+
+# sent_id = dev-s397
+# text = Een grote brand heeft in de nacht van zaterdag op zondag een miljoenenschade veroorzaakt bij het bedrijf 5MCompany in Almelo.
+# orig_file_sentence 004#97
+
+# sent_id = dev-s398
+# text = Een derde van het ongeveer één hectare grote bedrijfspand, waar fotobenodigheden werden gefabriceerd, werd verwoest.
+# orig_file_sentence 004#98
+
+# sent_id = dev-s399
+# text = De bewoners van zes huizen in de omgeving moesten op last van de autoriteiten hun woningen verlaten.
+# orig_file_sentence 004#99
+
+# sent_id = dev-s400
+# text = Vier woningen in Rotterdam-Zuid zijn in de nacht van zaterdag op zondag verwoest door een grote brand.
+# orig_file_sentence 004#100
+
+# sent_id = dev-s401
+# text = Volgens een woordvoerder van de politie raakte niemand gewond door de vlammen.
+# orig_file_sentence 005#1
+
+# sent_id = dev-s402
+# text = De journaliste en ex-televisie-omroepster Jeanne Roos is in de nacht van vrijdag op zaterdag overleden.
+# orig_file_sentence 005#2
+
+# sent_id = dev-s403
+# text = Jeanne Roos werkte ook als regisseur en speelde in de cabaretgroep Inktvis van het Parool, samen met haar vriendin Annie M.G. Schmidt.
+# orig_file_sentence 005#3
+
+# sent_id = dev-s404
+# text = Jeanne Roos is 84 jaar geworden, zo meldde het NOS-journaal gistermiddag.
+# orig_file_sentence 005#4
+
+# sent_id = dev-s405
+# text = In de jaren zestig en zeventig maakte Roos naam met een persoonlijk getinte human-interest-pagina.
+# orig_file_sentence 005#5
+
+# sent_id = dev-s406
+# text = Voor de toenmalige NTS werkte ze ook als de eerste omroepster.
+# orig_file_sentence 005#6
+
+# sent_id = dev-s407
+# text = In zijn woonplaats Utrecht is zaterdag op 82-jarige leeftijd Barend Schreuders overleden, voormalig gemeenteraadslid en statenlid in de provincie Utrecht voor de Communistische Partij van Nederland (CPN).
+# orig_file_sentence 005#7
+
+# sent_id = dev-s408
+# text = Schreuders vormde tientallen jaren het gezicht van de CPN in Utrecht.
+# orig_file_sentence 005#8
+
+# sent_id = dev-s409
+# text = Buiten zijn partij verwierf hij in brede kring aanzien als gemeentebestuurder.
+# orig_file_sentence 005#9
+
+# sent_id = dev-s410
+# text = Schreuders, van beroep verwarmingsmonteur, overleed na een langdurig ziekbed.
+# orig_file_sentence 005#10
+
+# sent_id = dev-s411
+# text = Zijn familie heeft het overlijden gistermiddag bekendgemaakt.
+# orig_file_sentence 005#11
+
+# sent_id = dev-s412
+# text = Mr. J.W. Weck wordt vanaf 17 september de nieuwe directeur-generaal Bestuursdienst bij het ministerie van binnenlandse zaken.
+# orig_file_sentence 005#12
+
+# sent_id = dev-s413
+# text = Weck is sinds januari 1999 directeur-generaal Telecommunicatie en Post bij het ministerie van verkeer en waterstaat.
+# orig_file_sentence 005#13
+
+# sent_id = dev-s414
+# text = Daarvoor was hij directeur-generaal Rijksluchtvaartdienst.
+# orig_file_sentence 005#14
+
+# sent_id = dev-s415
+# text = In die functie is hij februari 1999 een maand op non-actief gesteld.
+# orig_file_sentence 005#15
+
+# sent_id = dev-s416
+# text = Dit was op eigen verzoek tijdens de parlementaire enquête naar de Bijlmerramp.
+# orig_file_sentence 005#16
+
+# sent_id = dev-s417
+# text = Weck wordt de opvolger van dr. B. Plesch, die management-consultant in het bedrijfsleven is geworden.
+# orig_file_sentence 005#17
+
+# sent_id = dev-s418
+# text = De legendarische country-gitarist Chet Atkins is zaterdag op 77-jarige leeftijd overleden in zijn woonplaats Nashville.
+# orig_file_sentence 005#18
+
+# sent_id = dev-s419
+# text = Atkins was een van de pioniers van de Nashville Sound.
+# orig_file_sentence 005#19
+
+# sent_id = dev-s420
+# text = Hij leed al jaren aan kanker.
+# orig_file_sentence 005#20
+
+# sent_id = dev-s421
+# text = Atkins won meerdere Grammy's en werd in 1973 verkozen als lid van de Country Music Hall of Fame van Nashville.
+# orig_file_sentence 005#21
+
+# sent_id = dev-s422
+# text = Alleen de grootste countrysterren krijgen die onderscheiding.
+# orig_file_sentence 005#22
+
+# sent_id = dev-s423
+# text = Atkins, bijgenaamd 'Mr. Guitar' naar één van zijn albums, verkocht meer dan 1 miljoen platen.
+# orig_file_sentence 005#23
+
+# sent_id = dev-s424
+# text = Hij waagde zich aan meerdere stijlen, van rock and roll tot jazz, blues en flamenco.
+# orig_file_sentence 005#24
+
+# sent_id = dev-s425
+# text = Maar het was de countrymuziek waarmee hij doorbrak.
+# orig_file_sentence 005#25
+
+# sent_id = dev-s426
+# text = Chester Burton Atkins werd geboren op 20 juni 1924 in Luttrell (Tennessee) in een muzikale familie.
+# orig_file_sentence 005#26
+
+# sent_id = dev-s427
+# text = Hij werd geïnspireerd door zanger en gitarist Merle Travis en speelde als kind al gitaar.
+# orig_file_sentence 005#27
+
+# sent_id = dev-s428
+# text = Zijn eerste optreden gaf hij al jong.
+# orig_file_sentence 005#28
+
+# sent_id = dev-s429
+# text = Begonnen met 'Chet Atkins Gallopin Guitar' (1953) schreef hij meer dan honderd platen op zijn naam, waaronder 'Teensville' (1960), 'Chet Atkins Picks the Best' (1967), 'A Man and his Guitar' (1984) en 'Almost Alone' (1996).
+# orig_file_sentence 005#29
+
+# sent_id = dev-s430
+# text = Hij leverde ook bijdragen aan honderden opnames met andere artiesten.
+# orig_file_sentence 005#30
+
+# sent_id = dev-s431
+# text = Atkins, die beschikte over een unieke speelstijl, was decennialang zeer gewild als studiomuzikant.
+# orig_file_sentence 005#31
+
+# sent_id = dev-s432
+# text = Hij speelde mee op hits als 'Wake up little Susie' van The Everly Brothers.
+# orig_file_sentence 005#32
+
+# sent_id = dev-s433
+# text = Ook werkte hij onder anderen samen met Elvis Presley en Roy Orbison.
+# orig_file_sentence 005#33
+
+# sent_id = dev-s434
+# text = Het Britse amusementsconcern Gullane koopt Guiness World Records (GWR) van het drankenconcern Diageo voor 45,5 miljoen pond (circa 164 miljoen gulden).
+# orig_file_sentence 005#34
+
+# sent_id = dev-s435
+# text = Guiness World Records (GWR) verzamelt, keurmerkt en publiceert informatie over wereldrecords op alle denkbare terreinen.
+# orig_file_sentence 005#35
+
+# sent_id = dev-s436
+# text = Van de grootste legpuzzel tot het aantal door één vrouw gebaarde kinderen.
+# orig_file_sentence 005#36
+
+# sent_id = dev-s437
+# text = Het Guiness Book of World Records bereikt jaarlijks 70 miljoen consumenten in 82 landen en verschijnt in 24 talen.
+# orig_file_sentence 005#37
+
+# sent_id = dev-s438
+# text = Diageo, eigenaar van merken als Johnnie Walker en Smirnoff, is wereldmarktleider in sterke dranken.
+# orig_file_sentence 005#38
+
+# sent_id = dev-s439
+# text = Het Guinness Book past niet meer in de strategie van het concern.
+# orig_file_sentence 005#39
+
+# sent_id = dev-s440
+# text = Het elektronisch betalingsverkeer in onder meer winkels en benzinestations is zaterdag en zondag onderhevig geweest aan storingen.
+# orig_file_sentence 005#40
+
+# sent_id = dev-s441
+# text = Dit als gevolg van een mankement en onderhoud aan de computers van Interpay, de onderneming van de banken die de betalingen per pinpas verzorgt.
+# orig_file_sentence 005#41
+
+# sent_id = dev-s442
+# text = Interpay schat dat zaterdag 18000 mensen verspreid over het hele land door een storing zijn getroffen.
+# orig_file_sentence 005#42
+
+# sent_id = dev-s443
+# text = Zondag was het opnieuw raak.
+# orig_file_sentence 005#43
+
+# sent_id = dev-s444
+# text = Dit had te maken met regulier onderhoud aan de computers.
+# orig_file_sentence 005#44
+
+# sent_id = dev-s445
+# text = Hoeveel transacties hierdoor mislukten, weet Interpay niet.
+# orig_file_sentence 005#45
+
+# sent_id = dev-s446
+# text = Zowel zaterdag als zondag haperde het 'pinpasverkeer' gedurende enkele kwartieren, aldus de woordvoerster.
+# orig_file_sentence 005#46
+
+# sent_id = dev-s447
+# text = Topman Jack Welch van het Amerikaanse industriële concern General Electric (GE) verwerpt het aanbod van zijn collega van Honeywell om de beoogde fusie van de twee ondernemingen te redden.
+# orig_file_sentence 005#47
+
+# sent_id = dev-s448
+# text = De Europese Commissie verwerpt de fusie.
+# orig_file_sentence 005#48
+
+# sent_id = dev-s449
+# text = Die zou te machtig worden in Europa.
+# orig_file_sentence 005#49
+
+# sent_id = dev-s450
+# text = Met name in de luchtvaart voorziet de commissie een dominante positie voor het fusieconcern.
+# orig_file_sentence 005#50
+
+# sent_id = dev-s451
+# text = Honeywell bood GE aan dat dit concern minder hoeft te betalen voor Honeywell als het bepaalde onderdelen afstoot zoals de Europese Commissie graag wil.
+# orig_file_sentence 005#51
+
+# sent_id = dev-s452
+# text = GE-baas Welch vindt echter dat door het afstoten van die onderdelen de ratio achter de fusie is verdwenen.
+# orig_file_sentence 005#52
+
+# sent_id = dev-s453
+# text = Boeren in praktisch heel het land zijn van plan vandaag de ochtendspits lam te leggen.
+# orig_file_sentence 005#53
+
+# sent_id = dev-s454
+# text = Op de provincies Drenthe en Limburg na is overal iets georganiseerd, aldus boerenvoorman J. van 't Hof uit Sint-Annaland gistermiddag.
+# orig_file_sentence 005#54
+
+# sent_id = dev-s455
+# text = De boeren willen met de acties protesteren tegen het landbouwbeleid van minister Brinkhorst (Landbouw).
+# orig_file_sentence 005#55
+
+# sent_id = dev-s456
+# text = Volgens Van 't Hof is de sluiting van de veemarkten, waarvoor geen alternatief wordt geboden, de druppel die de emmer doet overlopen.
+# orig_file_sentence 005#56
+
+# sent_id = dev-s457
+# text = Van 't Hof wijst verder op de administratieve rompslomp waarmee boeren na de mond- en klauwzeercrisis worden geconfronteerd en de kosten van BSE-onderzoek.
+# orig_file_sentence 005#57
+
+# sent_id = dev-s458
+# text = Dat kost honderden tot duizenden guldens per ondernemer, stelt hij.
+# orig_file_sentence 005#58
+
+# sent_id = dev-s459
+# text = Wegblokkades zijn gepland op onder meer het knooppunt van de A1 en A50 bij Apeldoorn, de A28 over de IJsselburg bij Zwolle en de A12 bij de afslagen De Meern en Woerden.
+# orig_file_sentence 005#59
+
+# sent_id = dev-s460
+# text = In Zuid-West Nederland zijn er plannen om de A58 bij Wouw en Bergen op Zoom te blokkeren.
+# orig_file_sentence 005#60
+
+# sent_id = dev-s461
+# text = In Den Haag wordt een petitie aangeboden aan minister Brinkhorst.
+# orig_file_sentence 005#61
+
+# sent_id = dev-s462
+# text = Rond 700 betogers hebben gisteren in de Oostenrijkse stad Salzburg urenlang tegen globalisering gedemonstreerd.
+# orig_file_sentence 005#62
+
+# sent_id = dev-s463
+# text = Het kwam tot enkele schermutselingen met de politie, die vier mensen aanhield.
+# orig_file_sentence 005#63
+
+# sent_id = dev-s464
+# text = Zeker één agent raakte gewond.
+# orig_file_sentence 005#64
+
+# sent_id = dev-s465
+# text = De betogers protesteerden tegen 'de dienaren van de afgod globalisering'.
+# orig_file_sentence 005#65
+
+# sent_id = dev-s466
+# text = In Salzburg wordt tot dinsdag het 'Weltwirtschafsforum Osteuropa' gehouden.
+# orig_file_sentence 005#66
+
+# sent_id = dev-s467
+# text = Ongeveer 650 politici en zakenlieden uit Oostenrijk en landen in Midden- en Oost-Europa praten er over de economische ontwikkelingen in de regio en over de Europese integratie.
+# orig_file_sentence 005#67
+
+# sent_id = dev-s468
+# text = De Bulgaarse ex-koning Simeon II, wiens partij de verkiezingen van vorige maand won, meent dat hij geen keus heeft dan premier te worden.
+# orig_file_sentence 005#68
+
+# sent_id = dev-s469
+# text = Tegen de Spaanse krant El Pais zei hij dat "het volk erom vraagt".
+# orig_file_sentence 005#69
+
+# sent_id = dev-s470
+# text = Simeon, die tussen 1946 en 1996 in ballingschap verbleef, won de helft van de zetels in het Bulgaarse parlement.
+# orig_file_sentence 005#70
+
+# sent_id = dev-s471
+# text = De oud-chef van de Peruaanse geheime dienst Vladimiro Montesinos is in hongerstaking gegaan.
+# orig_file_sentence 005#71
+
+# sent_id = dev-s472
+# text = Hij eist dat hij van de militaire gevangenis in Callao wordt overgeplaatst naar een inrichting met een burgerregime.
+# orig_file_sentence 005#72
+
+# sent_id = dev-s473
+# text = Montesinos werd zaterdag in Venezuela gearresteerd en daarna uitgeleverd aan Peru.
+# orig_file_sentence 005#73
+
+# sent_id = dev-s474
+# text = In Macedonië zijn gisteren de gevechten tussen het leger en Albanese rebellen weer opgelaaid.
+# orig_file_sentence 005#74
+
+# sent_id = dev-s475
+# text = Daarbij is een Macedonische militair gedood.
+# orig_file_sentence 005#75
+
+# sent_id = dev-s476
+# text = Rebellen bestookten posities van het leger in de buurt van Tetovo in het noord-westen van Macedonië.
+# orig_file_sentence 005#76
+
+# sent_id = dev-s477
+# text = Er werd ook gevochten ten noorden van de hoofdstad Skopje, bij het dorp Radusa dat door etnisch-Albanese rebellen is ingenomen.
+# orig_file_sentence 005#77
+
+# sent_id = dev-s478
+# text = De linkse guerrillabeweging FARC heeft zaterdag 62 agenten en militairen vrijgelaten die jarenlang waren gegijzeld.
+# orig_file_sentence 005#78
+
+# sent_id = dev-s479
+# text = De vrijlating is het gevolg van een akkoord dat FARC en regering vorige maand sloten.
+# orig_file_sentence 005#79
+
+# sent_id = dev-s480
+# text = Elders hebben Colombiaanse soldaten 24 mensen bevrijd uit de handen van een andere groep linkse Colombiaanse rebellen, het ELN.
+# orig_file_sentence 005#80
+
+# sent_id = dev-s481
+# text = Dat ontvoert geregeld mensen voor losgeld, een van hun voornaamste inkomstenbronnen.
+# orig_file_sentence 005#81
+
+# sent_id = dev-s482
+# text = Meer dan 240 personen zijn in het noordoosten van de Democratische Republiek Congo vermoord wegens hekserij.
+# orig_file_sentence 005#82
+
+# sent_id = dev-s483
+# text = De heksenjacht begon twee weken geleden na geruchten over een heksenleger in de jungle.
+# orig_file_sentence 005#83
+
+# sent_id = dev-s484
+# text = In het dorp Yuku was op 15 juni de eerste moordpartij, waarna ook in andere dorpen mensen met messen om het leven werden gebracht.
+# orig_file_sentence 005#84
+
+# sent_id = dev-s485
+# text = Honderden mensen zijn naar buurland Oeganda gevlucht.
+# orig_file_sentence 005#85
+
+# sent_id = dev-s486
+# text = Oegandese troepen hebben in Congo bijna honderd mensen opgepakt die bij de moordpartijen betrokken zouden zijn geweest.
+# orig_file_sentence 005#86
+
+# sent_id = dev-s487
+# text = Hackers hebben de harde schijven van computers van de Argentijnse Dwaze Moeders vernietigd.
+# orig_file_sentence 005#87
+
+# sent_id = dev-s488
+# text = Daardoor zijn historische gegevens en e-mails verdwenen.
+# orig_file_sentence 005#88
+
+# sent_id = dev-s489
+# text = De Moeders van de Plaza de Mayo eisen de waarheid over het lot van zo'n 30000 mannen en vrouwen die verdwenen onder het Argentijnse militaire regime tussen 1976 en 1983.
+# orig_file_sentence 005#89
+
+# sent_id = dev-s490
+# text = Alsof het een weekend-uitje betrof, heeft de Amerikaanse vice-president Dick Cheney zaterdag 'even' een operatie ondergaan.
+# orig_file_sentence 005#90
+
+# sent_id = dev-s491
+# text = Hij wandelde met een cardioverter defibrillator in zijn borst een paar uur na de ingreep alweer het ziekenhuis uit.
+# orig_file_sentence 005#91
+
+# sent_id = dev-s492
+# text = De op één na machtigste man van de Verenigde Staten kampt al jaren met hartproblemen.
+# orig_file_sentence 005#92
+
+# sent_id = dev-s493
+# text = Hij onderging het afgelopen jaar al drie ingrepen.
+# orig_file_sentence 005#93
+
+# sent_id = dev-s494
+# text = De ingebrachte 'pacemaker-plus' dient zowel om de hartslag te vertragen als, wanneer nodig, te versnellen.
+# orig_file_sentence 005#94
+
+# sent_id = dev-s495
+# text = Een woordvoerster zei gisteren dat de 60-jarige Cheney vandaag gewoon van plan is aan het werk te gaan.
+# orig_file_sentence 005#95
+
+# sent_id = dev-s496
+# text = "Hij heeft er zin in"
+# orig_file_sentence 005#96
+
+# sent_id = dev-s497
+# text = De Noordierse premier David Trimble is gisterochtend afgetreden.
+# orig_file_sentence 005#97
+
+# sent_id = dev-s498
+# text = Hij maakte daarmee zijn dreigement waar, dat hij zou vertrekken als het Iers Republikeins Leger (Ira) vóór 1 juli niet zou beginnen met het inleveren van wapens.
+# orig_file_sentence 005#98
+
+# sent_id = dev-s499
+# text = Door het aftreden van de protestantse Trimble is er een politieke crisis ontstaan in de Britse provincie, waar na veel moeite een protestants-katholieke regering was gevormd.
+# orig_file_sentence 005#99
+
+# sent_id = dev-s500
+# text = Dat was het directe gevolg van het akkoord dat op Goede Vrijdag 1998 was gesloten, en waarvan ontwapening van de paramilitaire groepen een belangrijk onderdeel is.
+# orig_file_sentence 005#100
+
+# sent_id = dev-s501
+# text = Het Ira heeft zich daar niet aan gehouden, volgens zijn politieke tak, Sinn Fein, omdat zijn eisen voor terugtrekking van meer Britse troepen en beperking van protestantse politiemacht zijn genegeerd.
+# orig_file_sentence 006#1
+
+# sent_id = dev-s502
+# text = "Ik ben bereid om terug te komen", zei Trimble gisteren, "maar alleen als we de wapens voorgoed achter ons laten."
+# orig_file_sentence 006#2
+
+# sent_id = dev-s503
+# text = Volgens het Goede Vrijdag-akkoord heeft de regering zes weken om Trimble te vragen terug te komen óf hem te vervangen, anders komen er verkiezingen.
+# orig_file_sentence 006#3
+
+# sent_id = dev-s504
+# text = Sommige analisten menen dat Trimble erop gokt dat het IRA door zijn vertrek zo onder druk komt te staan dat de organisatie alsnog overstag gaat.
+# orig_file_sentence 006#4
+
+# sent_id = dev-s505
+# text = Bovendien hoopt hij de kritiek binnen zijn eigen achterban, de Ulster Unionisten, tot zwijgen te brengen dat hij zich niet hard genoeg opstelt tegenover het Ira.
+# orig_file_sentence 006#5
+
+# sent_id = dev-s506
+# text = Maar Sinn Fein, die deeluitmaakt van de regering, waarschuwt dat het Ira zich niet laat chanteren, en raadde de Ulster Unionisten aan een nieuwe leider aan te wijzen en voor een 'verstandiger en productievere aanpak' te kiezen.
+# orig_file_sentence 006#6
+
+# sent_id = dev-s507
+# text = Trimbles vertrek viel samen met het begin van het zogenoemde marsseizoen, waarbij protestantse groepen deels door katholieke wijken marcheren om vroegere overwinningen in onderlinge gevechten te herdenken.
+# orig_file_sentence 006#7
+
+# sent_id = dev-s508
+# text = Bij de eerste Oranjemars van het seizoen, in Belfast, bleven zaterdag incidenten uit.
+# orig_file_sentence 006#8
+
+# sent_id = dev-s509
+# text = In het verleden hebben de marsen jaarlijks gezorgd voor oplopende spanningen tussen protestanten en katholieken.
+# orig_file_sentence 006#9
+
+# sent_id = dev-s510
+# text = Israëlische vliegtuigen hebben gisteren een Syrische radarpost in de Libanese Bekaavallei vernietigd.
+# orig_file_sentence 006#10
+
+# sent_id = dev-s511
+# text = De actie was een vergelding voor een aanval vrijdag van de door Syrië gesteunde Libanese organisatie Hezbollah op een omstreden door Israël bezet stukje land.
+# orig_file_sentence 006#11
+
+# sent_id = dev-s512
+# text = Bij de Israëlische aanval raakten een Libanese en twee Syrische soldaten gewond, bij die van Hezbollah één Israëlische.
+# orig_file_sentence 006#12
+
+# sent_id = dev-s513
+# text = Hezbollah antwoordde onmiddellijk gisteren met een beschieting van de boerderijen van Sjaba, een hoekje land dat Israël vorig jaar niet ontruimde.
+# orig_file_sentence 006#13
+
+# sent_id = dev-s514
+# text = Een Israëlisch antwoord daarop kwam ook snel: het Libanese dorp Kfar Sjoeba werd onder vuur genomen.
+# orig_file_sentence 006#14
+
+# sent_id = dev-s515
+# text = Honderden mensen ontvluchtten hun huizen.
+# orig_file_sentence 006#15
+
+# sent_id = dev-s516
+# text = De Israëlische actie is onderdeel van het beleid om Syrië te laten betalen voor de aanvallen van de Hezbollah-strijders.
+# orig_file_sentence 006#16
+
+# sent_id = dev-s517
+# text = Hezbollah-leider Nasrallah waarschuwde gisteren dat 'Israël met vuur speelt', maar uit Damascus is nog geen reactie gekomen.
+# orig_file_sentence 006#17
+
+# sent_id = dev-s518
+# text = Na een soortgelijke Israëlische wraakaanval op een Syrische positie buiten Beiroet in april, liet de Syrische president Assad waarschuwende geluiden horen, maar ondernam geen actie.
+# orig_file_sentence 006#18
+
+# sent_id = dev-s519
+# text = De Israëlische defensieminister Ben-Eliezer rekent daar nu ook op.
+# orig_file_sentence 006#19
+
+# sent_id = dev-s520
+# text = "God zij dank zijn we omgeven door landen die het Midden-Oosten niet in een oorlog storten.
+# orig_file_sentence 006#20
+
+# sent_id = dev-s521
+# text = Syrië is er niet bij gebaat dat wel te doen. "
+# orig_file_sentence 006#21
+
+# sent_id = dev-s522
+# text = CAPO D'ORLANDO - Leontien Zijlaard-Van Moorsel heeft net als vorig jaar de proloog van de Ronde van Italië voor vrouwen gewonnen.
+# orig_file_sentence 006#22
+
+# sent_id = dev-s523
+# text = Ze reed de tijdrit over 5,5 kilometer in 7 minuten en 47 seconden.
+# orig_file_sentence 006#23
+
+# sent_id = dev-s524
+# text = De drievoudig olympisch kampioene hield de Amerikaanse Holden, wereldkampioene tijdrijden, achter zich.
+# orig_file_sentence 006#24
+
+# sent_id = dev-s525
+# text = Loek van Wely heeft zijn nationale schaaktitel geprolongeerd.
+# orig_file_sentence 006#25
+
+# sent_id = dev-s526
+# text = In de barrage over vier partijen versloeg hij Erik van den Doel met 3-0.
+# orig_file_sentence 006#26
+
+# sent_id = dev-s527
+# text = De barrage was noodzakelijk geworden, toen Van Wely en Van den Doel met 6,5 punten uit negen partijen op de eerste plaats waren uitgekomen.
+# orig_file_sentence 006#27
+
+# sent_id = dev-s528
+# text = Zeilster Carolijn Brouwer is sterk gestart bij het WK Europe in Vilamoura.
+# orig_file_sentence 006#28
+
+# sent_id = dev-s529
+# text = In lichte omstandigheden won de tweevoudige wereldkampioene de eerste race.
+# orig_file_sentence 006#29
+
+# sent_id = dev-s530
+# text = In de tweede race eindigde de olympische kandidate als tweede.
+# orig_file_sentence 006#30
+
+# sent_id = dev-s531
+# text = Min de Zille uit België zette, omgekeerd, dezelfde prestaties neer.
+# orig_file_sentence 006#31
+
+# sent_id = dev-s532
+# text = De Italiaanse bridgers hebben op Tenerife de Europese titel in de open klasse veroverd.
+# orig_file_sentence 006#32
+
+# sent_id = dev-s533
+# text = In de slotronde wonnen de Italianen met 16-14 van Turkije.
+# orig_file_sentence 006#33
+
+# sent_id = dev-s534
+# text = Noorwegen, dat IJsland met 24-6 versloeg, pakte het zilver.
+# orig_file_sentence 006#34
+
+# sent_id = dev-s535
+# text = Brons was voor Polen.
+# orig_file_sentence 006#35
+
+# sent_id = dev-s536
+# text = Nederland sloot het evenement als negende af en plaatste zich niet voor het WK.
+# orig_file_sentence 006#36
+
+# sent_id = dev-s537
+# text = Pieter van den Hoogenband krijgt bij de WK zwemmen in Fukuoka op de 50 meter vrije slag toch concurrentie van Mark Foster.
+# orig_file_sentence 006#37
+
+# sent_id = dev-s538
+# text = De Britse sprinter had zich niet gekwalificeerd op deze afstand, maar na een protest heeft keuzeheer Bill Sweetenham toch over zijn hart gestreken.
+# orig_file_sentence 006#38
+
+# sent_id = dev-s539
+# text = De Britse bond schrijft de wereldrecordhouder op dit nummer alsnog in voor de 50 vrij.
+# orig_file_sentence 006#39
+
+# sent_id = dev-s540
+# text = Het Nederlands cricketteam heeft de openingswedstrijd in de ICC Trophy, het WK voor B-landen, winnend afgesloten.
+# orig_file_sentence 006#40
+
+# sent_id = dev-s541
+# text = De Verenigde Arabische Emiraten werden met 90 runs verschil verslagen.
+# orig_file_sentence 006#41
+
+# sent_id = dev-s542
+# text = De tegenstander had halverwege nog de beste papieren en gooide Nederland uit voor slechts 144 runs.
+# orig_file_sentence 006#42
+
+# sent_id = dev-s543
+# text = Michael Schumacher heeft zijn leidende positie in de strijd om de wereldtitel in de Formule 1 verstevigd.
+# orig_file_sentence 006#43
+
+# sent_id = dev-s544
+# text = De Duitser zegevierde in de Grote Prijs van Frankrijk.
+# orig_file_sentence 006#44
+
+# sent_id = dev-s545
+# text = Hij verwees zijn broer Ralf en Rubens Barrichello naar de andere twee podiumplaatsen.
+# orig_file_sentence 006#45
+
+# sent_id = dev-s546
+# text = Jos Verstappen werd dertiende.
+# orig_file_sentence 006#46
+
+# sent_id = dev-s547
+# text = De eerste directe confrontatie van dit zomerseizoen tussen Patrick van Balkom en Troy Douglas eindigde in Stadskanaal in een dubbele zege voor Douglas.
+# orig_file_sentence 006#47
+
+# sent_id = dev-s548
+# text = De Hagenaar won bij de Nelli Cooman Games zowel de 100 als de 200 meter.
+# orig_file_sentence 006#48
+
+# sent_id = dev-s549
+# text = Met 10,37 om 10,54 was de voorsprong op de kortste afstand verhoudingsgewijs het grootst.
+# orig_file_sentence 006#49
+
+# sent_id = dev-s550
+# text = Interessanter was dat Douglas Van Balkom met 20,67 om 20,91 voorbleef op hun beider specialisme.
+# orig_file_sentence 006#50
+
+# sent_id = dev-s551
+# text = Onder leiding van Chiel Warners is de Nederlandse ploeg in het Oostenrijkse Ried gepromoveerd naar de superliga van de Europa Cup meerkamp.
+# orig_file_sentence 006#51
+
+# sent_id = dev-s552
+# text = Warners, Wassenaar en Valkenburg eindigden met 23.125 punten als tweede in de eerste liga achter Oostenrijk (23.654).
+# orig_file_sentence 006#52
+
+# sent_id = dev-s553
+# text = Individueel won Warners de tienkamp met 8206 punten, boven de richtprestatie voor de WK in Edmonton (8150).
+# orig_file_sentence 006#53
+
+# sent_id = dev-s554
+# text = Jean Paul de Bruijn is de nieuwe Europese kampioen bandstoten.
+# orig_file_sentence 006#54
+
+# sent_id = dev-s555
+# text = De Zeeuwse biljarter versloeg in de finale in Duisburg de Duitser Fabian Blondeel.
+# orig_file_sentence 006#55
+
+# sent_id = dev-s556
+# text = De Bruijn tikte de 150 caramboles in 26 beurten bijeen (moyenne 5,77).
+# orig_file_sentence 006#56
+
+# sent_id = dev-s557
+# text = De zwemverenigingen AZ&PC (Amersfoort) en DWK (Barneveld) hebben de handen ineen geslagen voor de vorming van een professionele ploeg.
+# orig_file_sentence 006#57
+
+# sent_id = dev-s558
+# text = Acht weken geleden zijn de besturen van beide clubs, mede toonaangevend in Nederland, in kleine kring gaan praten.
+# orig_file_sentence 006#58
+
+# sent_id = dev-s559
+# text = Donderdag worden de plannen gepresenteerd.
+# orig_file_sentence 006#59
+
+# sent_id = dev-s560
+# text = Het derde professionele zwemteam, na PSV en zeer onlangs Amsterdam, moet eind augustus aan de slag kunnen in het Amersfoortse Sportfondsenbad (50-meter).
+# orig_file_sentence 006#60
+
+# sent_id = dev-s561
+# text = De onderhandelingen met een hoofdsponsor zijn in een gevorderd stadium.
+# orig_file_sentence 006#61
+
+# sent_id = dev-s562
+# text = Het 'Veluwse zwemproject' kan op termijn plaats bieden aan zestien tot twintig gemotiveerde en getalenteerde zwemmers en zwemsters.
+# orig_file_sentence 006#62
+
+# sent_id = dev-s563
+# text = AZ&PC en DWK leveren momenteel acht internationals, maar zijn heel groot in de breedte.
+# orig_file_sentence 006#63
+
+# sent_id = dev-s564
+# text = Het Amersfoortse en Barneveldse initiatief is een logische en noodzakelijke stap om Nederland internationaal aan de top te houden.
+# orig_file_sentence 006#64
+
+# sent_id = dev-s565
+# text = PSV gaf al jaren geleden het voorbeeld met de Stichting Topzwemmen Zuid-Nederland en vervolgens het commerciële Philips-team rond Pieter van den Hoogenband en Inge de Bruijn.
+# orig_file_sentence 006#65
+
+# sent_id = dev-s566
+# text = In Amsterdam vond dat begin dit jaar navolging.
+# orig_file_sentence 006#66
+
+# sent_id = dev-s567
+# text = Cees Vervoorn en Hans Elzerman, oud-trainers van De Dolfijn, richtten met Michiel Bloem de Stichting Topzwemmen Amsterdam (STA) op.
+# orig_file_sentence 006#67
+
+# sent_id = dev-s568
+# text = En dan nu de combinatie AZ&PC-DWK.
+# orig_file_sentence 006#68
+
+# sent_id = dev-s569
+# text = Het Amersfoortse bestuurslid Johan Hoeksema vertelde dat Ad Roskam, de zwemcoördinator van de KNZB, hem na de jaarvergadering in april heeft gevraagd eens met DWK te gaan brainstormen.
+# orig_file_sentence 006#69
+
+# sent_id = dev-s570
+# text = Het plan komt niet uit de lucht vallen.
+# orig_file_sentence 006#70
+
+# sent_id = dev-s571
+# text = Eigenlijk viel het idee voor de blauwdruk al te beluisteren bij de nabeschouwing van de Olympische Spelen.
+# orig_file_sentence 006#71
+
+# sent_id = dev-s572
+# text = In Sydney viel op dat de leden van PSV presteerden, terwijl de geselecteerde AZ&PC'ers en DWK'ers tegenvielen.
+# orig_file_sentence 006#72
+
+# sent_id = dev-s573
+# text = De respectieve trainers Ad van de Ven en Mark Faber, die na vijf jaar met ingang van 1 september stopt in Barneveld en dus in de markt is voor een nieuwe baan, kregen het bij de NK in Eindhoven opnieuw niet voor elkaar de belangen van het individuele talent en de vereniging goed te scheiden.
+# orig_file_sentence 006#73
+
+# sent_id = dev-s574
+# text = Bondscoach Stefaan Obreno, Roskam en PSV-trainer Jacco Verhaeren spraken bij de Olympische Spelen onafhankelijk van elkaar hun verontrusting al uit over de gang van zaken en de smalle top.
+# orig_file_sentence 006#74
+
+# sent_id = dev-s575
+# text = Ze wezen op de juist gebleken aanpak van PSV en de noodzaak van vergelijkbare initiatieven.
+# orig_file_sentence 006#75
+
+# sent_id = dev-s576
+# text = In Amsterdam en nu Amersfoort/Barneveld is het zover.
+# orig_file_sentence 006#76
+
+# sent_id = dev-s577
+# text = Wellicht kan MNC Dordrecht, de fusieclub waaruit de nieuwe KNZB-voorzitter Erik van Heijningen is gerecruteerd, de vierde in de rij worden.
+# orig_file_sentence 006#77
+
+# sent_id = dev-s578
+# text = De Nederlandse honkbalploeg ligt in het World Port Tournament in Rotterdam op koers, richting finale.
+# orig_file_sentence 006#78
+
+# sent_id = dev-s579
+# text = Het leed tegen Cuba de eerste nederlaag onder bondscoach Eenhoorn (2-5), maar compenseerde dat verlies met een overwinning op Italië, 7-4.
+# orig_file_sentence 006#79
+
+# sent_id = dev-s580
+# text = Nederland staat halverwege de competitie op drie uit vier.
+# orig_file_sentence 006#80
+
+# sent_id = dev-s581
+# text = Italië en Nederland gisteren zondag voor de 100ste keer tegenover elkaar.
+# orig_file_sentence 006#81
+
+# sent_id = dev-s582
+# text = Oranje behaalde de 60ste overwinning.
+# orig_file_sentence 006#82
+
+# sent_id = dev-s583
+# text = Winnende werper werd Eelco Jansen.
+# orig_file_sentence 006#83
+
+# sent_id = dev-s584
+# text = Hij loste starter Patrick Beljaards na 5 2/3 innings af.
+# orig_file_sentence 006#84
+
+# sent_id = dev-s585
+# text = De 32-jarige pitcher speelde met pijnstillers.
+# orig_file_sentence 006#85
+
+# sent_id = dev-s586
+# text = Hij heeft een afspraak met de orthopeed.
+# orig_file_sentence 006#86
+
+# sent_id = dev-s587
+# text = De meniscus in de rechter knie is ingescheurd, het kraakbeen beschadigd.
+# orig_file_sentence 006#87
+
+# sent_id = dev-s588
+# text = Maar de operatie moet wachten, tot na het WK in november in Taiwan.
+# orig_file_sentence 006#88
+
+# sent_id = dev-s589
+# text = Jansen belichaamde de vechtersmentaliteit van zijn ploeg.
+# orig_file_sentence 006#89
+
+# sent_id = dev-s590
+# text = "Wij weten", aldus Jansen, "waar onze prioriteiten liggen: op het EK over drie weken in Bonn.
+# orig_file_sentence 006#90
+
+# sent_id = dev-s591
+# text = Maar dat wil niet zeggen dat we niet voor de overwinning zullen knokken.
+# orig_file_sentence 006#91
+
+# sent_id = dev-s592
+# text = Wij gaan altijd voor de winst.
+# orig_file_sentence 006#92
+
+# sent_id = dev-s593
+# text = Ook in dit toernooi waarin we wat meer uitproberen en wat vaker improviseren. "
+# orig_file_sentence 006#93
+
+# sent_id = dev-s594
+# text = Verdedigend stak Oranje tegen de Italianen uitstekend in elkaar maar ook aanvallend was Nederland met 14 honkslagen prima op dreef.
+# orig_file_sentence 006#94
+
+# sent_id = dev-s595
+# text = Ralph Milliard (3 uit 3), Dirk van 't Klooster (4 uit 5), Balentina (3 uit 5) namen er met zijn drieën tien voor hun rekening.
+# orig_file_sentence 006#95
+
+# sent_id = dev-s596
+# text = Het trio doorkruisde op 3-3 in de zevende slagbeurt een tactisch spelletje van de Italianen.
+# orig_file_sentence 006#96
+
+# sent_id = dev-s597
+# text = Jim Davenport, de 61-jarige Amerikaanse coach van de Italianen en opgevoed bij de San Francisco Giants, stuurde de linkshander Masin naar de heuvel met de opdracht Van 't Klooster uit te schakelen.
+# orig_file_sentence 006#97
+
+# sent_id = dev-s598
+# text = De missie faalde, de Rotterdammer bereikte het eerste honk met een klap in het middenveld.
+# orig_file_sentence 006#98
+
+# sent_id = dev-s599
+# text = Einde Masin die na één bal werd afgelost door Ginanneschi, die Milliard van de kussens moest houden.
+# orig_file_sentence 006#99
+
+# sent_id = dev-s600
+# text = De Antilliaan joeg zijn eerste worp voor een tweehonkslag het veld in.
+# orig_file_sentence 006#100
+
+# sent_id = dev-s601
+# text = Ginanneschi liet daarop de honken vol lopen door Isenia opzettelijk vier wijd te geven, waarna Palazzetti als vijfde werper het veld betrad.
+# orig_file_sentence 007#1
+
+# sent_id = dev-s602
+# text = De linkshander slaagde er evenmin in de Nederlandse aanval te beteugelen.
+# orig_file_sentence 007#2
+
+# sent_id = dev-s603
+# text = Gumbs en Balentina sloegen Van 't Klooster en Milliard over de thuisplaat (5-3).
+# orig_file_sentence 007#3
+
+# sent_id = dev-s604
+# text = In de daaropvolgende inning liet Van 't Klooster een driehonkslag van zijn houten knuppel vertrekken (6-3 door Jaarsma) waarop Milliard Van 't Klooster thuis sloeg (7-3).
+# orig_file_sentence 007#4
+
+# sent_id = dev-s605
+# text = "Dit was kwaliteit", sprak bondscoach Eenhoorn zuinig.
+# orig_file_sentence 007#5
+
+# sent_id = dev-s606
+# text = "Vakwerk.
+# orig_file_sentence 007#6
+
+# sent_id = dev-s607
+# text = Verdedigend en aanvallend. "
+# orig_file_sentence 007#7
+
+# sent_id = dev-s608
+# text = De Italianen produceerden 16 honkslagen maar scoorden slechts 4 keer.
+# orig_file_sentence 007#8
+
+# sent_id = dev-s609
+# text = "Omdat", wist Jansen.
+# orig_file_sentence 007#9
+
+# sent_id = dev-s610
+# text = "wij altijd scherp waren.
+# orig_file_sentence 007#10
+
+# sent_id = dev-s611
+# text = We gaven niets weg.
+# orig_file_sentence 007#11
+
+# sent_id = dev-s612
+# text = De Italianen moesten voor elk punt knokken.
+# orig_file_sentence 007#12
+
+# sent_id = dev-s613
+# text = We hebben geen fout gemaakt in het veld. "
+# orig_file_sentence 007#13
+
+# sent_id = dev-s614
+# text = Een dag eerder kleurde het stadion van Neptunus rood.
+# orig_file_sentence 007#14
+
+# sent_id = dev-s615
+# text = Het rood van Cuba.
+# orig_file_sentence 007#15
+
+# sent_id = dev-s616
+# text = De Cubanen behaalden de 22ste overwinning op Nederland in 23 wedstrijden.
+# orig_file_sentence 007#16
+
+# sent_id = dev-s617
+# text = De enige nederlaag dateerde van het olympisch toernooi in Sydney waar Oranje de honkbalwereld verraste met 4-2.
+# orig_file_sentence 007#17
+
+# sent_id = dev-s618
+# text = Cuba kwam zonder de sterren Kindelan, Linares, Mesa en Pacheco naar Rotterdam.
+# orig_file_sentence 007#18
+
+# sent_id = dev-s619
+# text = Het selecteerde slechts drie spelers van de olympische ploeg en completeerde de ploeg met zeven All Stars en jong talent.
+# orig_file_sentence 007#19
+
+# sent_id = dev-s620
+# text = De Cubanen vielen zaterdag op door agressief honklopen.
+# orig_file_sentence 007#20
+
+# sent_id = dev-s621
+# text = Nederland was kansloos.
+# orig_file_sentence 007#21
+
+# sent_id = dev-s622
+# text = Eenhoorn hield er rekening mee door vier internationaal onervaren werpers naar de heuvel te sturen.
+# orig_file_sentence 007#22
+
+# sent_id = dev-s623
+# text = Voor zijn eigen Jurgen van den Goorbergh-tribune voerde hij een show op met een zogeheten burn-out.
+# orig_file_sentence 007#23
+
+# sent_id = dev-s624
+# text = Hij liet de machine stilstaan en liet de achterband roken.
+# orig_file_sentence 007#24
+
+# sent_id = dev-s625
+# text = De fans reageerden uitzinnig.
+# orig_file_sentence 007#25
+
+# sent_id = dev-s626
+# text = De wereldmotorsportbond kan daar wel een straf voor geven.
+# orig_file_sentence 007#26
+
+# sent_id = dev-s627
+# text = Maar de negende plaats in de 500cc was voor Van den Goorbergh naar eigen zeggen het hoogst haalbare tijdens de TT van Assen en dat wilde hij vieren.
+# orig_file_sentence 007#27
+
+# sent_id = dev-s628
+# text = Na twee finaal mislukte trainingssessies kwam hij sterk voor de dag bij de TT.
+# orig_file_sentence 007#28
+
+# sent_id = dev-s629
+# text = De toeschouwers wisten de negende plaats op de juiste waarde in te schatten.
+# orig_file_sentence 007#29
+
+# sent_id = dev-s630
+# text = Een grote groep fans wilde zijn pitsbox bestormen.
+# orig_file_sentence 007#30
+
+# sent_id = dev-s631
+# text = De deuren gingen net op tijd dicht.
+# orig_file_sentence 007#31
+
+# sent_id = dev-s632
+# text = "Dat ik zo populair ben, vind ik grandioos, maar er zal maar een gek tussen zitten", lachte hij opgelucht.
+# orig_file_sentence 007#32
+
+# sent_id = dev-s633
+# text = "Ik wist: als het een regenrace wordt, haal ik het podium."
+# orig_file_sentence 007#33
+
+# sent_id = dev-s634
+# text = Maar 's middags om twee uur was het droog.
+# orig_file_sentence 007#34
+
+# sent_id = dev-s635
+# text = Weg podiumplaats.
+# orig_file_sentence 007#35
+
+# sent_id = dev-s636
+# text = Op een droog circuit komen de tekortkomingen van de motor duidelijk aan het licht.
+# orig_file_sentence 007#36
+
+# sent_id = dev-s637
+# text = De regen kwam te laat voor hem, na vijftien ronden pas.
+# orig_file_sentence 007#37
+
+# sent_id = dev-s638
+# text = Prompt was de race voorbij.
+# orig_file_sentence 007#38
+
+# sent_id = dev-s639
+# text = Op dat moment had hij een goede kans op een hogere klassering.
+# orig_file_sentence 007#39
+
+# sent_id = dev-s640
+# text = "We komen wel tekort, maar ik had nu een betere start in elk geval en had in de slotfase een aanval gepland op Ukawa, de nummer acht.
+# orig_file_sentence 007#40
+
+# sent_id = dev-s641
+# text = De top vijf was voor mij haalbaar. "
+# orig_file_sentence 007#41
+
+# sent_id = dev-s642
+# text = De strijd in de koningsklasse ging zoals verwacht tussen de Italiaanse kemphanen Rossi, Biaggi en Capirossi.
+# orig_file_sentence 007#42
+
+# sent_id = dev-s643
+# text = Zij demonstreerden opnieuw hun uitzonderlijke klasse.
+# orig_file_sentence 007#43
+
+# sent_id = dev-s644
+# text = Slechts Barros, de winnaar van vorig jaar, kwam bij hen in de buurt.
+# orig_file_sentence 007#44
+
+# sent_id = dev-s645
+# text = Hij lag aan kop in het begin, maar zag gaandeweg de race de Italiaanse duivels op de racebanen voorbij komen.
+# orig_file_sentence 007#45
+
+# sent_id = dev-s646
+# text = Rossi zette net de aanval in op Biaggi, toen de wedstrijdleiding afvlagde.
+# orig_file_sentence 007#46
+
+# sent_id = dev-s647
+# text = Hij had hetzelfde gevoel als zijn Nederlandse vriend.
+# orig_file_sentence 007#47
+
+# sent_id = dev-s648
+# text = "Maar ik heb in elk geval twintig punten, daardoor is het verschil met Biaggi in de WK-stand 21 punten", toonde leider Rossi zich tevreden.
+# orig_file_sentence 007#48
+
+# sent_id = dev-s649
+# text = Capirossi baalde.
+# orig_file_sentence 007#49
+
+# sent_id = dev-s650
+# text = Hij had de pole-position, net als vorig jaar, maar werd ook nu derde.
+# orig_file_sentence 007#50
+
+# sent_id = dev-s651
+# text = Nederland doet ook volgend jaar mee aan de World League.
+# orig_file_sentence 007#51
+
+# sent_id = dev-s652
+# text = De internationale volleybalfederatie had aan verlenging van het verblijf de voorwaarde gesteld dat de wedstrijden voldoende belangstelling moesten trekken.
+# orig_file_sentence 007#52
+
+# sent_id = dev-s653
+# text = Elk duel moest op televisie te zien zijn en bezocht worden door ten minste 4000 toeschouwers.
+# orig_file_sentence 007#53
+
+# sent_id = dev-s654
+# text = Als dat aantal niet werd gehaald, volgde een boete van 2000 dolar en mogelijk geen nieuwe uitnodiging voor het World League-seizoen 2002.
+# orig_file_sentence 007#54
+
+# sent_id = dev-s655
+# text = Hoewel accommodaties in Groningen en Amsterdam dit jaar in de voorronde aardig vol zaten - Eindhoven viel tegen - is het in Nederland altijd moeilijk zoveel liefhebbers te mobiliseren.
+# orig_file_sentence 007#55
+
+# sent_id = dev-s656
+# text = Bovendien is de keuzemogelijkheid aan sporthallen met die capaciteit beperkt.
+# orig_file_sentence 007#56
+
+# sent_id = dev-s657
+# text = Acosta zei in Katowice echter dat de acht finalisten van 2001, waaronder het verrassende Oranje, zich geen zorgen hoeven te maken voor volgend jaar.
+# orig_file_sentence 007#57
+
+# sent_id = dev-s658
+# text = De eindstrijd wordt gehouden in Brazilië.
+# orig_file_sentence 007#58
+
+# sent_id = dev-s659
+# text = Mochten de Zuid-Amerikanen niet aan de voorwaarden voor de organisatie kunnen voldoen, dan gaat de finale naar Spanje.
+# orig_file_sentence 007#59
+
+# sent_id = dev-s660
+# text = De Brazilianen wonnen de twaalfde editie van de World League.
+# orig_file_sentence 007#60
+
+# sent_id = dev-s661
+# text = In de finale van het evenement in Katowice had de Zuid-Amerikaanse ploeg geen enkele moeite met Italië.
+# orig_file_sentence 007#61
+
+# sent_id = dev-s662
+# text = Het werd 3-0 voor Brazilië tegen de titelverdediger.
+# orig_file_sentence 007#62
+
+# sent_id = dev-s663
+# text = De finale was geen spannende aangelegenheid.
+# orig_file_sentence 007#63
+
+# sent_id = dev-s664
+# text = Het in Polen nog ongeslagen Brazilië, in 1993 voor het eerst en laatst winnaar van de World League, was voor 12000 kijkers oppermachtig.
+# orig_file_sentence 007#64
+
+# sent_id = dev-s665
+# text = Met de snelle 3-0, onder aanvoering van Nalbert en Giba, werd de bonus van 1,25 miljoen gulden binnengehaald.
+# orig_file_sentence 007#65
+
+# sent_id = dev-s666
+# text = Brazilië haalde ook nog twee individuele prijzen binnen.
+# orig_file_sentence 007#66
+
+# sent_id = dev-s667
+# text = Andre Nascimento was de beste aanvaller van het toernooi, Gustavo Endres de beste blokker.
+# orig_file_sentence 007#67
+
+# sent_id = dev-s668
+# text = Voor Italië betekende de nederlaag een nieuwe deceptie.
+# orig_file_sentence 007#68
+
+# sent_id = dev-s669
+# text = Vorig jaar op de Olympische Spelen in Sydney vloog de ploeg er in de halve finales uit tegen de latere kampioen Joegoslavië.
+# orig_file_sentence 007#69
+
+# sent_id = dev-s670
+# text = De revanche volgde weliswaar in de halve eindstrijd in Katowice, maar het eindresultaat bleef opnieuw uit.
+# orig_file_sentence 007#70
+
+# sent_id = dev-s671
+# text = Zeven interlands, met drie nederlagen, drie gelijke spelen en slechts één overwinning.
+# orig_file_sentence 007#71
+
+# sent_id = dev-s672
+# text = De eerste tussenbalans van bondscoach Joost Bellaart bij het Nederlands mannenhockeyteam ziet er niet best uit.
+# orig_file_sentence 007#72
+
+# sent_id = dev-s673
+# text = "Nee, daar word ik zelf ook niet vrolijk van", bekende hij gistermiddag op het veld van HCKZ in Den Haag.
+# orig_file_sentence 007#73
+
+# sent_id = dev-s674
+# text = Voor het oefendrieluik met Pakistan zette Bellaart hoog in.
+# orig_file_sentence 007#74
+
+# sent_id = dev-s675
+# text = Hij rekende op drie overwinningen.
+# orig_file_sentence 007#75
+
+# sent_id = dev-s676
+# text = Na de 2-2 donderdag in Drachten, verloor Nederland zaterdag pijnlijk met 0-3 en eindigde de afsluitende wedstrijd gistermiddag opnieuw in 2-2.
+# orig_file_sentence 007#76
+
+# sent_id = dev-s677
+# text = "De oefenserie tegen Pakistan was een zware bevalling", beaamde Bellaart, die begin dit jaar Maurits Hendriks opvolgde.
+# orig_file_sentence 007#77
+
+# sent_id = dev-s678
+# text = "Het is heel anders gelopen dan ik dacht.
+# orig_file_sentence 007#78
+
+# sent_id = dev-s679
+# text = We hebben na het olympisch goud bij Sydney 2000 kennelijk toch een achterstand opgelopen op de andere toplanden.
+# orig_file_sentence 007#79
+
+# sent_id = dev-s680
+# text = De oplossing ligt in trainen, trainen en nog eens trainen.
+# orig_file_sentence 007#80
+
+# sent_id = dev-s681
+# text = Er moet heel wat gebeuren om onze ambities en onze potenties bij de komende Champions Trophy in november in Lahore waar te maken. "
+# orig_file_sentence 007#81
+
+# sent_id = dev-s682
+# text = Bellaart weigerde zich te verschuilen achter allerlei excuses.
+# orig_file_sentence 007#82
+
+# sent_id = dev-s683
+# text = Maar de voormalige coach van HCKZ noemde wel tal van oorzaken op voor de smadelijke prestatiereeks van Oranje onder zijn leiding: het zeer behoudende spel van Pakistan, de vormcrisis van een groot aantal vermoeide internationals, de haperende strafcorner en het inpassen van een aantal nieuwe spelers na het afscheid van Veen, Brinkman, Van Pelt en Jansen.
+# orig_file_sentence 007#83
+
+# sent_id = dev-s684
+# text = Feit is dat Bellaart van het vernieuwde en verjonge team nog geen swingende eenheid heeft gemaakt.
+# orig_file_sentence 007#84
+
+# sent_id = dev-s685
+# text = "Toch hebben we in potentie de beste aanval van de wereld", hield hij stug vol.
+# orig_file_sentence 007#85
+
+# sent_id = dev-s686
+# text = "Misschien is Pakistan momenteel wel veel sterker dat we allemaal denken."
+# orig_file_sentence 007#86
+
+# sent_id = dev-s687
+# text = Bellaart wil na de zomerstop 'uren maken' met zijn selectie.
+# orig_file_sentence 007#87
+
+# sent_id = dev-s688
+# text = Het nieuwe concept, met spelmaker De Nooijer kort achter spits Eikelboom en aanvoerder Delmee terug in de verdediging, staat nu alweer ter discussie.
+# orig_file_sentence 007#88
+
+# sent_id = dev-s689
+# text = Delmee: "Misschien moeten we wel toe naar een tactiek met twee spelsystemen.
+# orig_file_sentence 007#89
+
+# sent_id = dev-s690
+# text = Ik speel zelf heel graag op het middenveld, maar ik kies toch voor het concept dat het beste bij dit team past.
+# orig_file_sentence 007#90
+
+# sent_id = dev-s691
+# text = Op papier ziet de nieuwe speelwijze er goed uit, maar tegen zeer verdedigende ploegen, zoals nu Pakistan, komt het er nog niet uit.
+# orig_file_sentence 007#91
+
+# sent_id = dev-s692
+# text = Dan vallen er achter De Nooijer grote gaten op het middenveld en worden we verdedigend overlopen. "
+# orig_file_sentence 007#92
+
+# sent_id = dev-s693
+# text = Ronduit bedroevend was de uitvoering van de strafcorner in het eerste halfjaar van Bellaart.
+# orig_file_sentence 007#93
+
+# sent_id = dev-s694
+# text = Door een langdurige blessure bij specialist Lomans en fysieke ongemakken bij tweede man Taekema zat er totaal geen vaart, ritme en scherpte in de korte hoekslag van Oranje, van oudsher een belangrijk wapen van het Nederlands team.
+# orig_file_sentence 007#94
+
+# sent_id = dev-s695
+# text = Bij het vierlandentoernooi in Hamburg scoorde de brigade van Bellaart slechts twee keer uit zestien strafcorners.
+# orig_file_sentence 007#95
+
+# sent_id = dev-s696
+# text = Tijdens de oefenreeks tegen Pakistan was het percentage al niet veel beter.
+# orig_file_sentence 007#96
+
+# sent_id = dev-s697
+# text = Zaterdag faalde Oranje liefst dertien keer, gisteren vielen beide treffers (van De Nooijer en Taekema) vanaf de cirkel uit tien pogingen.
+# orig_file_sentence 007#97
+
+# sent_id = dev-s698
+# text = "Mede daardoor was de derde wedstrijd de best van onze kant", vond Bellaart.
+# orig_file_sentence 007#98
+
+# sent_id = dev-s699
+# text = Heerenveen heeft de eerste wedstrijd uit de intertoto-competitie tegen het Letse Liepajas Metalurgs met 3-2 verloren.
+# orig_file_sentence 007#99
+
+# sent_id = dev-s700
+# text = Heerenveen kende een goede start.
+# orig_file_sentence 007#100
+
+# sent_id = dev-s701
+# text = Al na zes minuten vuurde Denneboom een voltreffer af.
+# orig_file_sentence 008#1
+
+# sent_id = dev-s702
+# text = In de 45ste minuut maakte Tatartsjoek de gelijkmaker.
+# orig_file_sentence 008#2
+
+# sent_id = dev-s703
+# text = De tweede helft leverde de meest vreemde, maar ook spectaculaire acties op.
+# orig_file_sentence 008#3
+
+# sent_id = dev-s704
+# text = Heerenveen zette opnieuw verdienstelijk in.
+# orig_file_sentence 008#4
+
+# sent_id = dev-s705
+# text = Lurling was in de 51ste minuut succesvol.
+# orig_file_sentence 008#5
+
+# sent_id = dev-s706
+# text = Ook die voorsprong werd uit handen gegeven.
+# orig_file_sentence 008#6
+
+# sent_id = dev-s707
+# text = Katasonov scoorde tweemaal en maakte de blamage voor Hereenveen compleet.
+# orig_file_sentence 008#7
+
+# sent_id = dev-s708
+# text = Volgende week is de return in het Abe Lenstra-stadion.
+# orig_file_sentence 008#8
+
+# sent_id = dev-s709
+# text = De voetbalselectie van Tibet heeft zijn eerste interlandwedstrijd verloren.
+# orig_file_sentence 008#9
+
+# sent_id = dev-s710
+# text = De spelers uit de Himalaya moesten bij de première in Kopenhagen hun meerdere in Groenland erkennen: 1-4.
+# orig_file_sentence 008#10
+
+# sent_id = dev-s711
+# text = Het resultaat zal overigens niet officieel in de boeken komen.
+# orig_file_sentence 008#11
+
+# sent_id = dev-s712
+# text = Beide landen zijn niet bij de Fifa aangesloten.
+# orig_file_sentence 008#12
+
+# sent_id = dev-s713
+# text = Met Shinji Ono lijkt Feyenoord een goede slag te hebben geslagen.
+# orig_file_sentence 008#13
+
+# sent_id = dev-s714
+# text = De Japanse international was de opvallendste speler in de interland tegen Paraguay, in het kader van de Kirin Cup.
+# orig_file_sentence 008#14
+
+# sent_id = dev-s715
+# text = Ono bereidde beide treffers van Yanasigawa voor.
+# orig_file_sentence 008#15
+
+# sent_id = dev-s716
+# text = Japan won het duel met 2-0.
+# orig_file_sentence 008#16
+
+# sent_id = dev-s717
+# text = Ono komt in de zomer naar Rotterdam.
+# orig_file_sentence 008#17
+
+# sent_id = dev-s718
+# text = De middenvelder drukte zijn stempel op het duel tegen Paraguay.
+# orig_file_sentence 008#18
+
+# sent_id = dev-s719
+# text = De politie in Sint Petersburg heeft bij voetbalrellen tweehonderd supporters gearresteerd.
+# orig_file_sentence 008#19
+
+# sent_id = dev-s720
+# text = Een politiecommissaris heeft dat tegenover Russische media gemeld.
+# orig_file_sentence 008#20
+
