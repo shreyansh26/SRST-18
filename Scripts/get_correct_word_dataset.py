@@ -2,6 +2,7 @@ import os
 import pickle
 import string
 import nltk
+import re
 
 DATASET_PATH = '../dataset/T1-input/train/en-ud-train.conll'
 SENTENCES_PATH = '../dataset/Sentences/train/en-ud-train_sentences.txt'
@@ -14,17 +15,38 @@ with open(DATASET_PATH) as f:
 lemmatised_words = []
 words = []
 pos_tag = []
+tags = []
+lemma_tags = []
+
+def has_numbers(input_str):
+	return bool(re.search('\d', input_str))
 
 for line in data_f:
 	if line != '\n':
-		words.append(line.split('\t')[1])
+		a = line.split('\t')[3]
+		b = line.split('\t')[4]
+		w = line.split('\t')[1]
+		if a=='PUNCT' or a=='NUM':
+			continue
+		if b=='NNP' or b.startswith('PRP'):
+			continue
+		if has_numbers(w):
+			continue
+		words.append(w.lower())
+		tags.append(b)
 	else:
+		words.append('\n')
+		tags.append('\n')
 		lemmatised_words.append(words)
+		lemma_tags.append(tags)
+		tags = []
 		words = []
 
-print(lemmatised_words[0])
+print(lemmatised_words[6])
 with open('lemmatised_words.pkl', 'wb') as f:
 	pickle.dump(lemmatised_words, f)
+with open('lemma_tags.pkl', 'wb') as f:
+	pickle.dump(lemma_tags, f)
 
 ### Process Senetences file ###
 with open(SENTENCES_PATH) as f:
@@ -48,9 +70,14 @@ for sent in sentences:
 	sent2 = sent.translate(translator)
 	sent_split = sent2.split()
 	tagged = nltk.pos_tag(sent_split)
+	for i in range(len(tagged)):
+		tagged[i] = list(tagged[i])
+		tagged[i][0] = tagged[i][0].lower()
+		tagged[i] = tuple(tagged[i])
+	tagged.append((('\n', '\n')))
 	temp.extend(tagged)
 	actual_words.append(temp)
 
-print(actual_words[0])
+print(actual_words[6])
 with open('actual_words.pkl', 'wb') as f:
  	pickle.dump(actual_words, f)
