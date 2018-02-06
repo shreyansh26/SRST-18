@@ -43,9 +43,9 @@ for line in data_f:
 		words = []
 
 print(lemmatised_words[6])
-with open('lemmatised_words.pkl', 'wb') as f:
+with open('pretrain/lemmatised_words.pkl', 'wb') as f:
 	pickle.dump(lemmatised_words, f)
-with open('lemma_tags.pkl', 'wb') as f:
+with open('pretrain/lemma_tags.pkl', 'wb') as f:
 	pickle.dump(lemma_tags, f)
 
 ### Process Senetences file ###
@@ -79,5 +79,5 @@ for sent in sentences:
 	actual_words.append(temp)
 
 print(actual_words[6])
-with open('actual_words.pkl', 'wb') as f:
+with open('pretrain/actual_words.pkl', 'wb') as f:
  	pickle.dump(actual_words, f)

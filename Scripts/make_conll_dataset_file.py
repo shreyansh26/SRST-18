@@ -1,7 +1,7 @@
 import os
 import pickle
 
-with open('lemma_words_map.pkl', 'rb') as f:
+with open('pretrain/lemma_words_map.pkl', 'rb') as f:
 	lemma_words_map = pickle.load(f)
 
 print(len(lemma_words_map))
