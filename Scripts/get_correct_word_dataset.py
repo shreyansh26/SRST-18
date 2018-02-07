@@ -4,8 +4,8 @@ import string
 import nltk
 import re
 
-DATASET_PATH = '../dataset/T1-input/train/en-ud-train.conll'
-SENTENCES_PATH = '../dataset/Sentences/train/en-ud-train_sentences.txt'
+DATASET_PATH = '../dataset/T1-input/dev/en-ud-dev.conll'
+SENTENCES_PATH = '../dataset/Sentences/dev/en-ud-dev_sentences.txt'
 translator = str.maketrans(string.punctuation, ' '*len(string.punctuation))
 
 ### Process Dataset file ###
@@ -43,9 +43,9 @@ for line in data_f:
 		words = []
 
 print(lemmatised_words[6])
-with open('pretrain/lemmatised_words.pkl', 'wb') as f:
+with open('pretrain/dev_lemmatised_words.pkl', 'wb') as f:
 	pickle.dump(lemmatised_words, f)
-with open('pretrain/lemma_tags.pkl', 'wb') as f:
+with open('pretrain/dev_lemma_tags.pkl', 'wb') as f:
 	pickle.dump(lemma_tags, f)
 
 ### Process Senetences file ###
@@ -79,5 +79,5 @@ for sent in sentences:
 	actual_words.append(temp)
 
 print(actual_words[6])
-with open('pretrain/actual_words.pkl', 'wb') as f:
+with open('pretrain/dev_actual_words.pkl', 'wb') as f:
  	pickle.dump(actual_words, f)

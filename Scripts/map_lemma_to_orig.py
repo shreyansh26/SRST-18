@@ -18,13 +18,13 @@ def get_wordnet_pos(treebank_tag):
     else:
         return None # for easy if-statement 
 
-with open('pretrain/lemmatised_words.pkl', 'rb') as f:
+with open('pretrain/dev_lemmatised_words.pkl', 'rb') as f:
 	lemmatised_words = pickle.load(f)
 
-with open('pretrain/actual_words.pkl', 'rb') as f:
+with open('pretrain/dev_actual_words.pkl', 'rb') as f:
 	actual_words = pickle.load(f)
 
-with open('pretrain/lemma_tags.pkl', 'rb') as f:
+with open('pretrain/dev_lemma_tags.pkl', 'rb') as f:
 	lemma_tags = pickle.load(f)
 
 lemmatised_words = lemmatised_words[:-1]
@@ -72,5 +72,5 @@ for i in range(len(actual_words)):
 				else:
 					pass
 				
-with open('pretrain/lemma_words_map.pkl', 'wb') as f:
+with open('pretrain/dev_lemma_words_map.pkl', 'wb') as f:
 	pickle.dump(lemma_words_map, f)

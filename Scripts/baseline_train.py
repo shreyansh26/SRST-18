@@ -158,7 +158,7 @@ def main(argv):
             quit()
     
     allprules, allsrules = {}, {}
-    lines = [line.strip() for line in codecs.open(PATH + 'en-train', "r", encoding="utf-8")]
+    lines = [line.strip() for line in codecs.open(PATH + 'en-train-complete.txt', "r", encoding="utf-8")]
 
     # First, test if language is predominantly suffixing or prefixing
     # If prefixing, work with reversed strings

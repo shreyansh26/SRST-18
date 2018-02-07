@@ -176,13 +176,13 @@ def main(argv):
         suffbias = pickle.load(f)
 
     # Run eval on dev
-    devlines = [line.strip() for line in codecs.open(PATH + 'en-dev', "r", encoding="utf-8")]
+    devlines = [line.strip() for line in codecs.open(PATH + 'en-dev-complete.txt', "r", encoding="utf-8")]
     
     numcorrect = 0
     numguesses = 0
 
     if OUTPUT:
-        outfile = codecs.open(PATH + "en-out", "w", encoding="utf-8")
+        outfile = codecs.open(PATH + "en-out-complete", "w", encoding="utf-8")
     
     for l in devlines:
         lemma, correct, msd, = l.split(u'\t')
