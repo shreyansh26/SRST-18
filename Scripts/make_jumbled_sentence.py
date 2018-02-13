@@ -2,6 +2,10 @@ from __future__ import print_function
 import pickle
 import sys, codecs, os, string, getopt
 from functools import wraps
+import re
+
+def has_num(inputString):
+    return bool(re.search(r'\d', inputString))
 
 def hamming(s,t):
     return sum(1 for x,y in zip(s,t) if x != y)    
@@ -160,8 +164,6 @@ def main(argv):
             print(" -o         create output files with guesses (and don't just evaluate)")           
             quit()
     
-    runningavg, numiter = 0.0, 0
-    
     ## Load model
     with open('models/allsrules.pkl', 'rb') as f:
         allsrules = pickle.load(f)
@@ -176,37 +178,36 @@ def main(argv):
         suffbias = pickle.load(f)
 
     # Run eval on dev
-    devlines = [line.strip() for line in codecs.open(PATH + 'en-train-complete.txt', "r", encoding="utf-8")]
-    
-    numcorrect = 0
-    numguesses = 0
+    devlines = [line.strip() for line in codecs.open(PATH + 'unimorph_tags2.txt', "r", encoding="utf-8")]
 
     if OUTPUT:
-        outfile = codecs.open(PATH + "en-out-complete", "w", encoding="utf-8")
-    
+        outfile = codecs.open(PATH + "jumbled_sentence", "w", encoding="utf-8")
+
+    sentence = []
+
     for l in devlines:
-        lemma, correct, msd, = l.split(u'\t')
-        lemmaorig = lemma
-        if prefbias > suffbias:
-            lemma = lemma[::-1]
-        outform = apply_best_rule(lemma, msd, allprules, allsrules)
-        if prefbias > suffbias:
-            outform = outform[::-1]
-        if outform == correct:
-            numcorrect += 1
-        numguesses += 1
-        if OUTPUT:
-            outfile.write(lemmaorig + "\t" + outform + "\t" + msd + "\n")
+        #print(l)
+        if not l.strip():
+            outfile.write(' '.join(sentence))
+            outfile.write('\n')
+            sentence = []
+            continue
+        else:
+            lemma, msd, pos_tag = l.split(u'\t')
+            lemmaorig = lemma
+            if prefbias > suffbias:
+                lemma = lemma[::-1]
+            if pos_tag in ['PRON', 'PUNCT', 'PROPN'] or has_num(lemma):
+                outform = lemma
+            else:
+                outform = apply_best_rule(lemma, msd, allprules, allsrules)
+                if prefbias > suffbias:
+                    outform = outform[::-1]
+            sentence.append(outform)
 
     if OUTPUT:
-        outfile.close()
-             
-    runningavg += numcorrect/float(numguesses)
-    numiter += 1                    
-    
-    print("en" + ": " + str(str(numcorrect/float(numguesses)))[0:7])
-    print("Average:", str(runningavg/float(numiter)))
-    print("------------------------------------\n")
+        outfile.close()                   
+    print("----------------DONE--------------------\n")
 
 if __name__ == "__main__":
     main(sys.argv)
