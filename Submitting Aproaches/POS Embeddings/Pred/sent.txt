@@ -1,0 +1,8634 @@
+# sent_id = 1
+# text = Nalapat M.D.
+
+# sent_id = 2
+# text = years Two .
+
+# sent_id = 3
+# text = acd ] -
+
+# sent_id = 4
+# text = That ’s fine .
+
+# sent_id = 5
+# text = please Fistfights . ,
+
+# sent_id = 6
+# text = yeah ... " things " ,
+
+# sent_id = 7
+# text = Maitra Ramtanu
+
+# sent_id = 8
+# text = Deteriorating security
+
+# sent_id = 9
+# text = lapses Intelligence
+
+# sent_id = 10
+# text = LTTE running arms -
+
+# sent_id = 11
+# text = Steady buildup
+
+# sent_id = 12
+# text = decades For .
+
+# sent_id = 13
+# text = institutionally But ?
+
+# sent_id = 14
+# text = Never mind .
+
+# sent_id = 15
+# text = Question Mark
+
+# sent_id = 16
+# text = it That 's .
+
+# sent_id = 17
+# text = Tollis Michele
+
+# sent_id = 18
+# text = question A :
+
+# sent_id = 19
+# text = by exmearden
+
+# sent_id = 20
+# text = Security Homeland
+
+# sent_id = 21
+# text = familiar Sound ?
+
+# sent_id = 22
+# text = Kaminski Vince
+
+# sent_id = 23
+# text = Dear Vince
+
+# sent_id = 24
+# text = Kind regards .
+
+# sent_id = 25
+# text = Please advise .
+
+# sent_id = 26
+# text = news Good .
+
+# sent_id = 27
+# text = John -
+
+# sent_id = 28
+# text = John -
+
+# sent_id = 29
+# text = cares ? Who ? ? ? ? ?
+
+# sent_id = 30
+# text = really not ...
+
+# sent_id = 31
+# text = really not ...
+
+# sent_id = 32
+# text = yet Not .
+
+# sent_id = 33
+# text = Proposition Original :
+
+# sent_id = 34
+# text = $ signing 5,000
+
+# sent_id = 35
+# text = Proposal Revised :
+
+# sent_id = 36
+# text = $ signing 5,000
+
+# sent_id = 37
+# text = Sonya City
+
+# sent_id = 38
+# text = Enron WHO :
+
+# sent_id = 39
+# text = Sooners rule .
+
+# sent_id = 40
+# text = 1663 - CD 3
+
+# sent_id = 41
+# text = Sushi tonight ?
+
+# sent_id = 42
+# text = Jordan Mike
+
+# sent_id = 43
+# text = 14:14 26/09/2000
+
+# sent_id = 44
+# text = Dasovich Jeff
+
+# sent_id = 45
+# text = Dasovich Jeff
+
+# sent_id = 46
+# text = below See .
+
+# sent_id = 47
+# text = Rice Erin
+
+# sent_id = 48
+# text = er -
+
+# sent_id = 49
+# text = Votaw Courtney
+
+# sent_id = 50
+# text = you Thank .
+
+# sent_id = 51
+# text = Hey Cester ,
+
+# sent_id = 52
+# text = Kaminski Vince
+
+# sent_id = 53
+# text = regards Best ,
+
+# sent_id = 54
+# text = Nesbitt Dale
+
+# sent_id = 55
+# text = Vince sold !
+
+# sent_id = 56
+# text = correction A .
+
+# sent_id = 57
+# text = Shackleton Sara
+
+# sent_id = 58
+# text = Bailey Susan
+
+# sent_id = 59
+# text = Shackleton Sara
+
+# sent_id = 60
+# text = Please advise .
+
+# sent_id = 61
+# text = Shackleton Sara
+
+# sent_id = 62
+# text = Shackleton Sara
+
+# sent_id = 63
+# text = Shackleton Sara
+
+# sent_id = 64
+# text = Shackleton Sara
+
+# sent_id = 65
+# text = looks fine
+
+# sent_id = 66
+# text = Shackleton Sara
+
+# sent_id = 67
+# text = NOTICE+++++ + CONFIDENTIALITY + + + + +
+
+# sent_id = 68
+# text = You Thank
+
+# sent_id = 69
+# text = Mann Kay
+
+# sent_id = 70
+# text = you Thank ,
+
+# sent_id = 71
+# text = Leigh Lorie
+
+# sent_id = 72
+# text = Mann Kay
+
+# sent_id = 73
+# text = Mann Kay
+
+# sent_id = 74
+# text = - redvepco.doc
+
+# sent_id = 75
+# text = SAMPLE.DOC -
+
+# sent_id = 76
+# text = you Thank ,
+
+# sent_id = 77
+# text = Mann Kay
+
+# sent_id = 78
+# text = afternoon Good ,
+
+# sent_id = 79
+# text = Hello Janice :
+
+# sent_id = 80
+# text = Hi -
+
+# sent_id = 81
+# text = Ken Dear ,
+
+# sent_id = 82
+# text = thanks Many ,
+
+# sent_id = 83
+# text = Garten Jeff
+
+# sent_id = 84
+# text = Kitty Thanks . ,
+
+# sent_id = 85
+# text = Fleming Rosalee
+
+# sent_id = 86
+# text = Grusendorf Kent
+
+# sent_id = 87
+# text = you Thank .
+
+# sent_id = 88
+# text = silver Almost .
+
+# sent_id = 89
+# text = hoorah Hooray ! ,
+
+# sent_id = 90
+# text = Just jealous .
+
+# sent_id = 91
+# text = happening What 's ?
+
+# sent_id = 92
+# text = Hey guys ,
+
+# sent_id = 93
+# text = Ernie Hey .
+
+# sent_id = 94
+# text = Hi Chris ,
+
+# sent_id = 95
+# text = Simien Ernie
+
+# sent_id = 96
+# text = Hi Mary ,
+
+# sent_id = 97
+# text = Hi Mary ,
+
+# sent_id = 98
+# text = Penman Gregg
+
+# sent_id = 99
+# text = Kay -
+
+# sent_id = 100
+# text = Mann Kay
+
+# sent_id = 101
+# text = Hello -
+
+# sent_id = 102
+# text = Penman Gregg
+
+# sent_id = 103
+# text = Kay -
+
+# sent_id = 104
+# text = Mann Kay
+
+# sent_id = 105
+# text = Mann Kay
+
+# sent_id = 106
+# text = Hello -
+
+# sent_id = 107
+# text = Penman Gregg
+
+# sent_id = 108
+# text = Kay -
+
+# sent_id = 109
+# text = ya Love .
+
+# sent_id = 110
+# text = Receipt Return
+
+# sent_id = 111
+# text = Patel Adnan
+
+# sent_id = 112
+# text = Sage Richard
+
+# sent_id = 113
+# text = O'Connell Denis
+
+# sent_id = 114
+# text = Tana -
+
+# sent_id = 115
+# text = Joe Susan , ,
+
+# sent_id = 116
+# text = you Thank ,
+
+# sent_id = 117
+# text = Hey girlie ,
+
+# sent_id = 118
+# text = care Take ,
+
+# sent_id = 119
+# text = Noble Ted
+
+# sent_id = 120
+# text = girl Smart .
+
+# sent_id = 121
+# text = Noble Ted
+
+# sent_id = 122
+# text = Little -Mary
+
+# sent_id = 123
+# text = Bowen Bob
+
+# sent_id = 124
+# text = you Thank
+
+# sent_id = 125
+# text = background Further :
+
+# sent_id = 126
+# text = Pacheco Leonardo
+
+# sent_id = 127
+# text = Plan Current :
+
+# sent_id = 128
+# text = x33907 Marie
+
+# sent_id = 129
+# text = Again congratulations . ,
+
+# sent_id = 130
+# text = Take care
+
+# sent_id = 131
+# text = x33907 Marie
+
+# sent_id = 132
+# text = Hi Liz : ,
+
+# sent_id = 133
+# text = Marquez Ms. :
+
+# sent_id = 134
+# text = Marquez Ms. :
+
+# sent_id = 135
+# text = Marie -
+
+# sent_id = 136
+# text = Snyder Patty
+
+# sent_id = 137
+# text = Hi Marie
+
+# sent_id = 138
+# text = x33907 Marie
+
+# sent_id = 139
+# text = Hi everyone ,
+
+# sent_id = 140
+# text = Karim John , ,
+
+# sent_id = 141
+# text = Hi everyone ,
+
+# sent_id = 142
+# text = Karim John , ,
+
+# sent_id = 143
+# text = Hi John ,
+
+# sent_id = 144
+# text = you Thank ,
+
+# sent_id = 145
+# text = Buis Angie
+
+# sent_id = 146
+# text = ld2d-#69366 1.DOC - -
+
+# sent_id = 147
+# text = ld2d-#69345 1.DOC - -
+
+# sent_id = 148
+# text = ld2d-#69397 1.DOC - -
+
+# sent_id = 149
+# text = ld2d-#69396 1.DOC - -
+
+# sent_id = 150
+# text = ld2d-#69377 1.XLS - -
+
+# sent_id = 151
+# text = ld2d-#69381 1.DOC - -
+
+# sent_id = 152
+# text = ld2d-#69366 1.DOC - -
+
+# sent_id = 153
+# text = ld2d-#69336 1.XLS - -
+
+# sent_id = 154
+# text = ld2d-#69334 1.DOC - -
+
+# sent_id = 155
+# text = ld2d-#69345 1.DOC - -
+
+# sent_id = 156
+# text = Severin Borenstein
+
+# sent_id = 157
+# text = Forster David
+
+# sent_id = 158
+# text = Dear Justin
+
+# sent_id = 159
+# text = Day Jonathan
+
+# sent_id = 160
+# text = Goddard Paul
+
+# sent_id = 161
+# text = 11:35 08/03/2000
+
+# sent_id = 162
+# text = Forster David
+
+# sent_id = 163
+# text = 01:50 08/03/2000
+
+# sent_id = 164
+# text = e.g. EnronEAuction . :
+
+# sent_id = 165
+# text = Harris Molly
+
+# sent_id = 166
+# text = thanks Much .
+
+# sent_id = 167
+# text = Kuykendall Tori
+
+# sent_id = 168
+# text = ETA_revision0307.doc -
+
+# sent_id = 169
+# text = Harris Molly
+
+# sent_id = 170
+# text = Harris Molly
+
+# sent_id = 171
+# text = Harris Molly
+
+# sent_id = 172
+# text = Jordan Mike
+
+# sent_id = 173
+# text = Jordan Mike
+
+# sent_id = 174
+# text = 03/04/2001 16:29
+
+# sent_id = 175
+# text = Jordan Mike
+
+# sent_id = 176
+# text = 18:20 21/03/2001
+
+# sent_id = 177
+# text = Harris Dr. :
+
+# sent_id = 178
+# text = Rogers Ben
+
+# sent_id = 179
+# text = Ronn Professor :
+
+# sent_id = 180
+# text = Rogers Ben
+
+# sent_id = 181
+# text = Titman Professor :
+
+# sent_id = 182
+# text = Rogers Ben
+
+# sent_id = 183
+# text = Centilli James
+
+# sent_id = 184
+# text = Scott Susan
+
+# sent_id = 185
+# text = pls print .
+
+# sent_id = 186
+# text = you Thank !
+
+# sent_id = 187
+# text = LAGESSE DENISE
+
+# sent_id = 188
+# text = Fossum Drew
+
+# sent_id = 189
+# text = LAGESSE DENISE
+
+# sent_id = 190
+# text = LAGESSE DENISE
+
+# sent_id = 191
+# text = Fossum Drew
+
+# sent_id = 192
+# text = LAGESSE DENISE
+
+# sent_id = 193
+# text = Evan --
+
+# sent_id = 194
+# text = Hotel Information :
+
+# sent_id = 195
+# text = Jim Thanks .
+
+# sent_id = 196
+# text = Linda Dear ,
+
+# sent_id = 197
+# text = thanks Many .
+
+# sent_id = 198
+# text = Jean Thanks ,
+
+# sent_id = 199
+# text = Kaminski Vince
+
+# sent_id = 200
+# text = Khan Nasim
+
+# sent_id = 201
+# text = Committee Executive :
+
+# sent_id = 202
+# text = Cindy 6197 - 713/853
+
+# sent_id = 203
+# text = news Good .
+
+# sent_id = 204
+# text = Hello Bill ! ,
+
+# sent_id = 205
+# text = you Thank ,
+
+# sent_id = 206
+# text = Dorsey Bill .
+
+# sent_id = 207
+# text = Schott Samuel
+
+# sent_id = 208
+# text = Attn : GCP_London .
+
+# sent_id = 209
+# text = Please respond .
+
+# sent_id = 210
+# text = Rgds Best .
+
+# sent_id = 211
+# text = Harry -
+
+# sent_id = 212
+# text = Type Product :
+
+# sent_id = 213
+# text = Period Reference :
+
+# sent_id = 214
+# text = select PROGRAMS
+
+# sent_id = 215
+# text = Bill -
+
+# sent_id = 216
+# text = Jones Tana
+
+# sent_id = 217
+# text = Schott Samuel
+
+# sent_id = 218
+# text = Rgds Best .
+
+# sent_id = 219
+# text = Rgds Best .
+
+# sent_id = 220
+# text = Schott Samuel
+
+# sent_id = 221
+# text = Attn : GCP_London .
+
+# sent_id = 222
+# text = Please respond .
+
+# sent_id = 223
+# text = Rgds Best .
+
+# sent_id = 224
+# text = Doc -
+
+# sent_id = 225
+# text = 11:30 - PST 10:30
+
+# sent_id = 226
+# text = Passcode 4153030 :
+
+# sent_id = 227
+# text = Best regards
+
+# sent_id = 228
+# text = Munk Tobias
+
+# sent_id = 229
+# text = Arya Sunjay
+
+# sent_id = 230
+# text = Buck Gary
+
+# sent_id = 231
+# text = Booth Khymberly
+
+# sent_id = 232
+# text = Seleznov Ryan
+
+# sent_id = 233
+# text = Brown Mecole
+
+# sent_id = 234
+# text = O'Rourke Tim
+
+# sent_id = 235
+# text = Cashion Tana
+
+# sent_id = 236
+# text = Walton Sheila
+
+# sent_id = 237
+# text = Fincher Wendy
+
+# sent_id = 238
+# text = Knudsen Sheila
+
+# sent_id = 239
+# text = Phillips Karen
+
+# sent_id = 240
+# text = Davies Neil
+
+# sent_id = 241
+# text = Ryan Noel
+
+# sent_id = 242
+# text = Skinner Cindy
+
+# sent_id = 243
+# text = Funkhouser Shanna
+
+# sent_id = 244
+# text = regards Kind ,
+
+# sent_id = 245
+# text = Karen x54667 .
+
+# sent_id = 246
+# text = Per -
+
+# sent_id = 247
+# text = you Thank
+
+# sent_id = 248
+# text = Ya'll Hi ,
+
+# sent_id = 249
+# text = Try this .
+
+# sent_id = 250
+# text = k bob
+
+# sent_id = 251
+# text = Shackleton Sara
+
+# sent_id = 252
+# text = Please advise .
+
+# sent_id = 253
+# text = you Thank .
+
+# sent_id = 254
+# text = enro2.doc Em - -
+
+# sent_id = 255
+# text = good Looks .
+
+# sent_id = 256
+# text = Please advise .
+
+# sent_id = 257
+# text = Moore Janice
+
+# sent_id = 258
+# text = below see .
+
+# sent_id = 259
+# text = Hi back !
+
+# sent_id = 260
+# text = Atlanta N.O. ? ?
+
+# sent_id = 261
+# text = Petersburg St. ?
+
+# sent_id = 262
+# text = Quick Robert
+
+# sent_id = 263
+# text = Shackleton Sara
+
+# sent_id = 264
+# text = you Thank ,
+
+# sent_id = 265
+# text = JBennett@GMSSR.com > JMB <
+
+# sent_id = 266
+# text = you Thank .
+
+# sent_id = 267
+# text = points Few :
+
+# sent_id = 268
+# text = Dasovich Jeff
+
+# sent_id = 269
+# text = points Few :
+
+# sent_id = 270
+# text = job Nice .
+
+# sent_id = 271
+# text = Kingerski Harry
+
+# sent_id = 272
+# text = Jeff -
+
+# sent_id = 273
+# text = Leach Doug
+
+# sent_id = 274
+# text = print please
+
+# sent_id = 275
+# text = Hoog David
+
+# sent_id = 276
+# text = print please
+
+# sent_id = 277
+# text = ENRONR~1.DOC -
+
+# sent_id = 278
+# text = What happened ?
+
+# sent_id = 279
+# text = aye Pretty . strange ...
+
+# sent_id = 280
+# text = Giovannini Jana
+
+# sent_id = 281
+# text = Giovannini Jana
+
+# sent_id = 282
+# text = you Thank ,
+
+# sent_id = 283
+# text = Gonzales Eric
+
+# sent_id = 284
+# text = 00:20 25/01/2001
+
+# sent_id = 285
+# text = Castano@EES Marianne
+
+# sent_id = 286
+# text = Carol -
+
+# sent_id = 287
+# text = Lemell Phyllis
+
+# sent_id = 288
+# text = fax Will .
+
+# sent_id = 289
+# text = fax Will .
+
+# sent_id = 290
+# text = fax Will .
+
+# sent_id = 291
+# text = Carol -
+
+# sent_id = 292
+# text = Kim 3098 - - 853 713
+
+# sent_id = 293
+# text = Kim Thanks . ,
+
+# sent_id = 294
+# text = Kim 3098 - - 853 713
+
+# sent_id = 295
+# text = X33098 Kim
+
+# sent_id = 296
+# text = Yes thanks . ,
+
+# sent_id = 297
+# text = Kim Thanks . ,
+
+# sent_id = 298
+# text = Buchanan John
+
+# sent_id = 299
+# text = thoughts Any ?
+
+# sent_id = 300
+# text = 's discuss Let .
+
+# sent_id = 301
+# text = good Sounds .
+
+# sent_id = 302
+# text = Rance@ENRON Susan
+
+# sent_id = 303
+# text = Looks good
+
+# sent_id = 304
+# text = Anyone else ?
+
+# sent_id = 305
+# text = Blaine@ENRON_DEVELOPMENT Michelle
+
+# sent_id = 306
+# text = Montgomery@ENRON Russell
+
+# sent_id = 307
+# text = Russ - 5297 3
+
+# sent_id = 308
+# text = Hi Rich ,
+
+# sent_id = 309
+# text = C.DTF -
+
+# sent_id = 310
+# text = Marshall Cheryl
+
+# sent_id = 311
+# text = Marshall Cheryl
+
+# sent_id = 312
+# text = you Thank .
+
+# sent_id = 313
+# text = Gerry > -
+
+# sent_id = 314
+# text = Thanks Richard . ,
+
+# sent_id = 315
+# text = Palmer@ENRON Mark
+
+# sent_id = 316
+# text = Hello Energyphiles :
+
+# sent_id = 317
+# text = you Fuck .
+
+# sent_id = 318
+# text = shit Tough .
+
+# sent_id = 319
+# text = November 2005
+
+# sent_id = 320
+# text = wealth Independent ?
+
+# sent_id = 321
+# text = Innovative Products
+
+# sent_id = 322
+# text = Compensation Revolutionary
+
+# sent_id = 323
+# text = Email > " : Dharmadeva"<dharmad...@gmail.com
+
+# sent_id = 324
+# text = Hi All !
+
+# sent_id = 325
+# text = The Benefits
+
+# sent_id = 326
+# text = longevity Increases .
+
+# sent_id = 327
+# text = Removes wrinkles .
+
+# sent_id = 328
+# text = lethargy Removes .
+
+# sent_id = 329
+# text = Cures insomnia .
+
+# sent_id = 330
+# text = hysteria Cures .
+
+# sent_id = 331
+# text = The Dance
+
+# sent_id = 332
+# text = The Ideation
+
+# sent_id = 333
+# text = Pittsburgh -
+
+# sent_id = 334
+# text = Computers Apple
+
+# sent_id = 335
+# text = Packard Hewlett
+
+# sent_id = 336
+# text = Notes Lotus ) (
+
+# sent_id = 337
+# text = Hi all ,
+
+# sent_id = 338
+# text = Feb 2005
+
+# sent_id = 339
+# text = More humane ?
+
+# sent_id = 340
+# text = Solidarity In ,
+
+# sent_id = 341
+# text = ----- ---------------------------------------------------------------------------
+
+# sent_id = 342
+# text = ----- ---------------------------------------------------------------------------
+
+# sent_id = 343
+# text = Email > " : Peanutjake"<peanutjak...@usa.com
+
+# sent_id = 344
+# text = misc.consumers Groups :
+
+# sent_id = 345
+# text = Katrina Blogging
+
+# sent_id = 346
+# text = dead ' Hundreds '
+
+# sent_id = 347
+# text = Hello ga , yheggy -
+
+# sent_id = 348
+# text = Release Press
+
+# sent_id = 349
+# text = nasa funding
+
+# sent_id = 350
+# text = Steve Best . ,
+
+# sent_id = 351
+# text = bridges ? ? and ?
+
+# sent_id = 352
+# text = 19/11/2004 ) : Filed (
+
+# sent_id = 353
+# text = Email dharmad...@gmail.com :
+
+# sent_id = 354
+# text = righter"<righ...@sonic.net > Email " :
+
+# sent_id = 355
+# text = Hi there ,
+
+# sent_id = 356
+# text = I will .
+
+# sent_id = 357
+# text = Job Travis
+
+# sent_id = 358
+# text = It easy 's .
+
+# sent_id = 359
+# text = It legal 's .
+
+# sent_id = 360
+# text = PLEASE NOTE :
+
+# sent_id = 361
+# text = STEP ONE :
+
+# sent_id = 362
+# text = THREE STEP :
+
+# sent_id = 363
+# text = STEP TWO :
+
+# sent_id = 364
+# text = THREE STEP :
+
+# sent_id = 365
+# text = STEP FOUR :
+
+# sent_id = 366
+# text = You done 're .
+
+# sent_id = 367
+# text = THAT ! IT 'S !
+
+# sent_id = 368
+# text = Best Wishes
+
+# sent_id = 369
+# text = mail sciencem...@upi.com E : -
+
+# sent_id = 370
+# text = sciencem...@upi.com mail E -
+
+# sent_id = 371
+# text = Nottingham , --Mac
+
+# sent_id = 372
+# text = Kent , --David
+
+# sent_id = 373
+# text = Download 1 K
+
+# sent_id = 374
+# text = ] [
+
+# sent_id = 375
+# text = ] [
+
+# sent_id = 376
+# text = Alcala 1561 ) , (
+
+# sent_id = 377
+# text = Lodge Wisteria
+
+# sent_id = 378
+# text = Art Neuendorffer
+
+# sent_id = 379
+# text = Ambitious warrior
+
+# sent_id = 380
+# text = tsar Employment
+
+# sent_id = 381
+# text = Second endorsements party -
+
+# sent_id = 382
+# text = psychology Equine
+
+# sent_id = 383
+# text = Cheap hookers
+
+# sent_id = 384
+# text = i 33 m .
+
+# sent_id = 385
+# text = what or ?
+
+# sent_id = 386
+# text = idea good ?
+
+# sent_id = 387
+# text = LOL Callum
+
+# sent_id = 388
+# text = iguzwhat lol
+
+# sent_id = 389
+# text = people thanks
+
+# sent_id = 390
+# text = Peels 4 :
+
+# sent_id = 391
+# text = Peels 2 :
+
+# sent_id = 392
+# text = Fish - O Filet - -
+
+# sent_id = 393
+# text = yeaa and ...
+
+# sent_id = 394
+# text = application petsmart ?
+
+# sent_id = 395
+# text = thanks Many .
+
+# sent_id = 396
+# text = thanks d
+
+# sent_id = 397
+# text = fun Have !
+
+# sent_id = 398
+# text = CHILL OUT !
+
+# sent_id = 399
+# text = luck good !
+
+# sent_id = 400
+# text = 2372 666 - Tel 312 -
+
+# sent_id = 401
+# text = Us Email
+
+# sent_id = 402
+# text = Happy Hour
+
+# sent_id = 403
+# text = $ appetizers 4
+
+# sent_id = 404
+# text = $ wine 4
+
+# sent_id = 405
+# text = n't worry Do .
+
+# sent_id = 406
+# text = Falls Iguazu
+
+# sent_id = 407
+# text = 100 SCAM % .
+
+# sent_id = 408
+# text = B Jim
+
+# sent_id = 409
+# text = Please ? help !
+
+# sent_id = 410
+# text = test drug ?
+
+# sent_id = 411
+# text = test blood ?
+
+# sent_id = 412
+# text = Type Feather .
+
+# sent_id = 413
+# text = wishes Best ,
+
+# sent_id = 414
+# text = example For :
+
+# sent_id = 415
+# text = luck Good !
+
+# sent_id = 416
+# text = luck Good !
+
+# sent_id = 417
+# text = luck Good !
+
+# sent_id = 418
+# text = luck Good !
+
+# sent_id = 419
+# text = suggestions Any ?
+
+# sent_id = 420
+# text = B Jim
+
+# sent_id = 421
+# text = Hey guys .
+
+# sent_id = 422
+# text = Advice Need ? !
+
+# sent_id = 423
+# text = Good luck
+
+# sent_id = 424
+# text = food -better
+
+# sent_id = 425
+# text = teens -more
+
+# sent_id = 426
+# text = Caribbean Royal .
+
+# sent_id = 427
+# text = Thanks :)
+
+# sent_id = 428
+# text = luck Good .
+
+# sent_id = 429
+# text = you Thank !
+
+# sent_id = 430
+# text = fun have .
+
+# sent_id = 431
+# text = Bland food .
+
+# sent_id = 432
+# text = SPICES NO !
+
+# sent_id = 433
+# text = B @Ryan ,
+
+# sent_id = 434
+# text = So thanks . ,
+
+# sent_id = 435
+# text = luck good !
+
+# sent_id = 436
+# text = What happened ?
+
+# sent_id = 437
+# text = Hi there ,
+
+# sent_id = 438
+# text = luck Good !
+
+# sent_id = 439
+# text = Doc Great
+
+# sent_id = 440
+# text = How rare !
+
+# sent_id = 441
+# text = Well done .
+
+# sent_id = 442
+# text = Doctor Great !
+
+# sent_id = 443
+# text = happy customer
+
+# sent_id = 444
+# text = pricing Affordable .
+
+# sent_id = 445
+# text = responses Friendly .
+
+# sent_id = 446
+# text = Highly ! recommended !
+
+# sent_id = 447
+# text = Mark Thanks .
+
+# sent_id = 448
+# text = Great pub
+
+# sent_id = 449
+# text = Surgeon Great
+
+# sent_id = 450
+# text = Pilates Pure ! !
+
+# sent_id = 451
+# text = recommended Thoroughly
+
+# sent_id = 452
+# text = Definitely recommend !
+
+# sent_id = 453
+# text = service Great .
+
+# sent_id = 454
+# text = Not organised .
+
+# sent_id = 455
+# text = help Great !
+
+# sent_id = 456
+# text = Good location
+
+# sent_id = 457
+# text = Highly recommended .
+
+# sent_id = 458
+# text = Very professional .
+
+# sent_id = 459
+# text = rate Reasonable .
+
+# sent_id = 460
+# text = Vancouver Suzanne ,
+
+# sent_id = 461
+# text = Accomodating Very
+
+# sent_id = 462
+# text = Physiotherapists Excellent !
+
+# sent_id = 463
+# text = guys Thanks !
+
+# sent_id = 464
+# text = YOU ! THANK !
+
+# sent_id = 465
+# text = no Oh ! !
+
+# sent_id = 466
+# text = Recommend Highly
+
+# sent_id = 467
+# text = The BEST
+
+# sent_id = 468
+# text = Real pros
+
+# sent_id = 469
+# text = way No .
+
+# sent_id = 470
+# text = Furnace repair
+
+# sent_id = 471
+# text = They Suck
+
+# sent_id = 472
+# text = Skylight repair
+
+# sent_id = 473
+# text = Australia Danny ) (
+
+# sent_id = 474
+# text = SERVICE ! HORRIBLE ! !
+
+# sent_id = 475
+# text = good Overall stuff . -
+
+# sent_id = 476
+# text = staff Great .
+
+# sent_id = 477
+# text = Very ! helpful ! ! !
+
+# sent_id = 478
+# text = Garage Con
+
+# sent_id = 479
+# text = Rude service
+
+# sent_id = 480
+# text = Yes Manson . ,
+
+# sent_id = 481
+# text = Nowheresville Aka .
+
+# sent_id = 482
+# text = poor Consistantly
+
+# sent_id = 483
+# text = FANTASTIC ! STORE ! !
+
+# sent_id = 484
+# text = Recommended Highly
+
+# sent_id = 485
+# text = Great Barber
+
+# sent_id = 486
+# text = Experience Amazing !
+
+# sent_id = 487
+# text = AMAZINGLY YUMMY !
+
+# sent_id = 488
+# text = TRY ! MUST ! !
+
+# sent_id = 489
+# text = Luv always ..
+
+# sent_id = 490
+# text = Wonderful Experience
+
+# sent_id = 491
+# text = Liquidweb.com Rocks ! ! !
+
+# sent_id = 492
+# text = Terrible ! service ! !
+
+# sent_id = 493
+# text = lube ! junkie ?
+
+# sent_id = 494
+# text = Recommend Highly
+
+# sent_id = 495
+# text = Shady Dr.
+
+# sent_id = 496
+# text = Poor Experience
+
+# sent_id = 497
+# text = Cheveux Thanks !
+
+# sent_id = 498
+# text = Service Horrible !
+
+# sent_id = 499
+# text = Arrangements Superb
+
+# sent_id = 500
+# text = Haven Smokers
+
+# sent_id = 501
+# text = Wow really ? ,
+
+# sent_id = 502
+# text = Excellent service
+
+# sent_id = 503
+# text = Service Fantastic !
+
+# sent_id = 504
+# text = Gillies Pam
+
+# sent_id = 505
+# text = joke No !
+
+# sent_id = 506
+# text = They refused .
+
+# sent_id = 507
+# text = again Never
+
+# sent_id = 508
+# text = Perfect Practice
+
+# sent_id = 509
+# text = Job Great
+
+# sent_id = 510
+# text = Poor service
+
+# sent_id = 511
+# text = Issues Billing ...
+
+# sent_id = 512
+# text = me Believe .
+
+# sent_id = 513
+# text = GO DON'T !
+
+# sent_id = 514
+# text = n't go Do !
+
+# sent_id = 515
+# text = highly recommended .
+
+# sent_id = 516
+# text = Local Shop !
+
+# sent_id = 517
+# text = you Thank !
+
+# sent_id = 518
+# text = Theft Identity
+
+# sent_id = 519
+# text = Grissom Alan
+
+# sent_id = 520
+# text = Room ok .
+
+# sent_id = 521
+# text = Saratoga Unlike .
+
+# sent_id = 522
+# text = Well Done !
+
+# sent_id = 523
+# text = May 2009 . ,
+
+# sent_id = 524
+# text = Terrible Service
+
+# sent_id = 525
+# text = Nightmare Absolute !
+
+# sent_id = 526
+# text = AWAY STAY !
+
+# sent_id = 527
+# text = right ? Sketchy ,
+
+# sent_id = 528
+# text = I waited .
+
+# sent_id = 529
+# text = waited And .
+
+# sent_id = 530
+# text = Service Poor
+
+# sent_id = 531
+# text = Granger Ferguson Karla -
+
+# sent_id = 532
+# text = AWAY ! STAY ! !
+
+# sent_id = 533
+# text = tub No .
+
+# sent_id = 534
+# text = parking Free .
+
+# sent_id = 535
+# text = SERVICE AWFUL !
+
+# sent_id = 536
+# text = So what happened ?
+
+# sent_id = 537
+# text = November 1999 , 5
+
+# sent_id = 538
+# text = CNN -- WASHINGTON ) (
+
+# sent_id = 539
+# text = By Cole Juan
+
+# sent_id = 540
+# text = By Devraj Ranjit
+
+# sent_id = 541
+# text = DELHI NEW -
+
+# sent_id = 542
+# text = Times 28/10/2004 Washington
+
+# sent_id = 543
+# text = La. PONCHATOULA -- ,
+
+# sent_id = 544
+# text = it going Keep .
+
+# sent_id = 545
+# text = I totally agree !
+
+# sent_id = 546
+# text = Pakistan Link 16/10/2004
+
+# sent_id = 547
+# text = He drinking was .
+
+# sent_id = 548
+# text = reporting WADE GOODWYN :
+
+# sent_id = 549
+# text = individually do . Some ,
+
+# sent_id = 550
+# text = The Story Raw
+
+# sent_id = 551
+# text = i Hmmmmmm agree . ,
+
+# sent_id = 552
+# text = hmmmm indeed . So ,
+
+# sent_id = 553
+# text = Weil Simone -
+
+# sent_id = 554
+# text = Executive Orders = -
+
+# sent_id = 555
+# text = It headlines creates .
+
+# sent_id = 556
+# text = It spectacular is .
+
+# sent_id = 557
+# text = It frightening is .
+
+# sent_id = 558
+# text = They people kill .
+
+# sent_id = 559
+# text = It ruthless is .
+
+# sent_id = 560
+# text = They know would .
+
+# sent_id = 561
+# text = Euro only inflation
+
+# sent_id = 562
+# text = Cindy David and ,
+
+# sent_id = 563
+# text = a lot Thanks .
+
+# sent_id = 564
+# text = a lot Thanks .
+
+# sent_id = 565
+# text = Appreciate idea the .
+
+# sent_id = 566
+# text = i completely agree .
+
+# sent_id = 567
+# text = i completely agree .
+
+# sent_id = 568
+# text = $ Current 47,500 Salary :
+
+# sent_id = 569
+# text = Specialist Group Job :
+
+# sent_id = 570
+# text = Salary 65k Base
+
+# sent_id = 571
+# text = Agreement 1 Year
+
+# sent_id = 572
+# text = Salary 55k Base :
+
+# sent_id = 573
+# text = 1 agreement Year
+
+# sent_id = 574
+# text = 05:17 PM 07/30/2001
+
+# sent_id = 575
+# text = you concur Do ?
+
+# sent_id = 576
+# text = easy . - 4
+
+# sent_id = 577
+# text = easy . - 4
+
+# sent_id = 578
+# text = easy . - 4
+
+# sent_id = 579
+# text = as 1307 Same .
+
+# sent_id = 580
+# text = easy . - 4
+
+# sent_id = 581
+# text = you concur Do ?
+
+# sent_id = 582
+# text = a Actually lot . ,
+
+# sent_id = 583
+# text = only colorful Bonnard ) (
+
+# sent_id = 584
+# text = 09:14 AM 01/19/2001
+
+# sent_id = 585
+# text = 07:55 AM 01/19/01
+
+# sent_id = 586
+# text = 07:24 AM 01/19/2001
+
+# sent_id = 587
+# text = 07:24 AM 01/19/2001
+
+# sent_id = 588
+# text = 04:18 PM 09/20/2000
+
+# sent_id = 589
+# text = of course Figures . ,
+
+# sent_id = 590
+# text = asking Thanks for .
+
+# sent_id = 591
+# text = Remarkably explanation clear .
+
+# sent_id = 592
+# text = FYI below . see ,
+
+# sent_id = 593
+# text = your Poll workers co . -
+
+# sent_id = 594
+# text = Hawker 6721 Jai 974 -
+
+# sent_id = 595
+# text = you there See !
+
+# sent_id = 596
+# text = Sally / Fernley
+
+# sent_id = 597
+# text = 01:04 PM 11/10/2000
+
+# sent_id = 598
+# text = 12:33 PM 11/10/2000
+
+# sent_id = 599
+# text = 12:21 PM 11/10/2000
+
+# sent_id = 600
+# text = 11:08 AM 11/10/2000
+
+# sent_id = 601
+# text = Kean J Steven
+
+# sent_id = 602
+# text = 11:35 AM 11/09/2000
+
+# sent_id = 603
+# text = 11:02 AM 11/08/2000
+
+# sent_id = 604
+# text = Steve- and Mark
+
+# sent_id = 605
+# text = 05:59 PM 11/10/2000
+
+# sent_id = 606
+# text = 411507 # Pin :
+
+# sent_id = 607
+# text = it on 's tonight
+
+# sent_id = 608
+# text = attached spreadsheet See .
+
+# sent_id = 609
+# text = Tholt M. ] Jane , [
+
+# sent_id = 610
+# text = me cool by !
+
+# sent_id = 611
+# text = The Team eThink
+
+# sent_id = 612
+# text = 10:46 AM 03/02/2001
+
+# sent_id = 613
+# text = 08:23 AM 02/27/2001
+
+# sent_id = 614
+# text = Bailey S. Susan
+
+# sent_id = 615
+# text = 01:35 PM 03/01/2001
+
+# sent_id = 616
+# text = Sara Afternoon Good ,
+
+# sent_id = 617
+# text = 03/02/2001 PM 02:10
+
+# sent_id = 618
+# text = 06:07 PM 02/27/2001
+
+# sent_id = 619
+# text = March 20th Tuesday . ,
+
+# sent_id = 620
+# text = 04:03 PM 03/15/2001
+
+# sent_id = 621
+# text = 04:17 PM 03/15/2001
+
+# sent_id = 622
+# text = the 6871082 # passcode :
+
+# sent_id = 623
+# text = 04:11 PM 03/15/2001
+
+# sent_id = 624
+# text = 04:03 PM 03/15/2001
+
+# sent_id = 625
+# text = 04:44 PM 03/15/2001
+
+# sent_id = 626
+# text = it Here is .
+
+# sent_id = 627
+# text = 04:17 PM 03/15/2001
+
+# sent_id = 628
+# text = the 6871082 # passcode :
+
+# sent_id = 629
+# text = Leigh 46093 Lorie
+
+# sent_id = 630
+# text = 04:13 PM 02/13/2001
+
+# sent_id = 631
+# text = 09:22 AM 03/16/2001
+
+# sent_id = 632
+# text = you again Thank ,
+
+# sent_id = 633
+# text = Reception 14 June
+
+# sent_id = 634
+# text = spelling , for -5
+
+# sent_id = 635
+# text = Rise Rebellion to .
+
+# sent_id = 636
+# text = I n't remember ca .
+
+# sent_id = 637
+# text = 09:14 AM 08/01/2001
+
+# sent_id = 638
+# text = 12:12 PM 10/23/2000
+
+# sent_id = 639
+# text = 11:32 AM 10/20/2000
+
+# sent_id = 640
+# text = 11:07 AM 10/26/2000
+
+# sent_id = 641
+# text = 12:12 PM 10/23/2000
+
+# sent_id = 642
+# text = 11:32 AM 10/20/2000
+
+# sent_id = 643
+# text = 11:26 AM 10/26/2000
+
+# sent_id = 644
+# text = 11:07 AM 10/26/2000
+
+# sent_id = 645
+# text = 12:12 PM 10/23/2000
+
+# sent_id = 646
+# text = 11:32 AM 10/20/2000
+
+# sent_id = 647
+# text = Does work that ?
+
+# sent_id = 648
+# text = Keep touch in !
+
+# sent_id = 649
+# text = 05:07 PM 11/29/2000
+
+# sent_id = 650
+# text = 04:49 PM 11/29/2000
+
+# sent_id = 651
+# text = 04:31 PM 11/29/2000
+
+# sent_id = 652
+# text = 10:52 AM 11/30/2000
+
+# sent_id = 653
+# text = 06:05 AM 11/22/2000
+
+# sent_id = 654
+# text = AG Deutsched Bank
+
+# sent_id = 655
+# text = yourself Hey there ,
+
+# sent_id = 656
+# text = you really Are ?
+
+# sent_id = 657
+# text = You Yahoo Do ? !
+
+# sent_id = 658
+# text = 10:05 AM 08/17/2000
+
+# sent_id = 659
+# text = 10:56 AM 08/16/2000
+
+# sent_id = 660
+# text = 03:58 PM 07/14/2000
+
+# sent_id = 661
+# text = 02:18 PM 07/14/2000
+
+# sent_id = 662
+# text = Ted.Bockius@ivita.com > Bockius Ted <
+
+# sent_id = 663
+# text = 02:21 PM 07/17/2000
+
+# sent_id = 664
+# text = 06:15 PM 07/17/2000
+
+# sent_id = 665
+# text = 04:28 PM 07/17/2000
+
+# sent_id = 666
+# text = 02:34 PM 07/17/2000
+
+# sent_id = 667
+# text = 08:50 AM 07/17/2000
+
+# sent_id = 668
+# text = Haedicke E Mark
+
+# sent_id = 669
+# text = 08:58 AM 07/18/2000
+
+# sent_id = 670
+# text = 9 days work
+
+# sent_id = 671
+# text = gentlemen Ladies and ,
+
+# sent_id = 672
+# text = be ok should
+
+# sent_id = 673
+# text = Kaplan > Katie kaplan@iepa.com " " <
+
+# sent_id = 674
+# text = 06:20 PM 10/27/2000
+
+# sent_id = 675
+# text = jermeier@earthlink.net > Meier Jeremy <
+
+# sent_id = 676
+# text = 11:48 AM 10/29/2000
+
+# sent_id = 677
+# text = a million thanks .
+
+# sent_id = 678
+# text = 03:48 PM 10/31/2000
+
+# sent_id = 679
+# text = 02:17 PM 10/31/00
+
+# sent_id = 680
+# text = 09:45 AM 03/08/2000
+
+# sent_id = 681
+# text = I X37047 @ 'm .
+
+# sent_id = 682
+# text = 05:37 PM 03/08/2000
+
+# sent_id = 683
+# text = 03:51 PM 03/09/2000
+
+# sent_id = 684
+# text = hi mark -
+
+# sent_id = 685
+# text = 05:39 PM 03/09/2000
+
+# sent_id = 686
+# text = 05:37 PM 03/08/2000
+
+# sent_id = 687
+# text = 04:28 PM 03/10/2000
+
+# sent_id = 688
+# text = 09:27 AM 04/04/2001
+
+# sent_id = 689
+# text = 02:49 PM 12/14/2000
+
+# sent_id = 690
+# text = 02:42 PM 01/11/2001
+
+# sent_id = 691
+# text = it Here is .
+
+# sent_id = 692
+# text = 10:34 AM 01/12/2001
+
+# sent_id = 693
+# text = 04:37 PM 01/12/2001
+
+# sent_id = 694
+# text = 10:34 AM 01/12/2001
+
+# sent_id = 695
+# text = any Norma thoughts ? ,
+
+# sent_id = 696
+# text = 01:14 PM 01/12/2001
+
+# sent_id = 697
+# text = 09:45 AM 01/13/2001
+
+# sent_id = 698
+# text = any Norma thoughts ? ,
+
+# sent_id = 699
+# text = 01:14 PM 01/12/2001
+
+# sent_id = 700
+# text = a hoss What .
+
+# sent_id = 701
+# text = this Is correct ?
+
+# sent_id = 702
+# text = 03:31 PM 07/19/2001
+
+# sent_id = 703
+# text = me know Let .
+
+# sent_id = 704
+# text = Grand . ignored standing is -
+
+# sent_id = 705
+# text = 02:28 PM 04/30/2001
+
+# sent_id = 706
+# text = 12:42 PM 04/30/2001
+
+# sent_id = 707
+# text = 12:35 PM 04/30/2001
+
+# sent_id = 708
+# text = 09:24 AM 04/30/2001
+
+# sent_id = 709
+# text = Horton Mr. Dear ,
+
+# sent_id = 710
+# text = Horton Mr. Dear ,
+
+# sent_id = 711
+# text = 03:48 PM 05/01/2001
+
+# sent_id = 712
+# text = 12:03 05/02/2001 PM
+
+# sent_id = 713
+# text = Stephanie Sam & ,
+
+# sent_id = 714
+# text = 01:58 PM 03/21/2001
+
+# sent_id = 715
+# text = x3 9890 Samuel ENW_GCP -
+
+# sent_id = 716
+# text = Please attached see .
+
+# sent_id = 717
+# text = Cass B Robert
+
+# sent_id = 718
+# text = 04:52 PM 04/16/2001
+
+# sent_id = 719
+# text = Measure Unit of :
+
+# sent_id = 720
+# text = APPROVAL STEPS FOR :
+
+# sent_id = 721
+# text = select APPLICATIONS TEST
+
+# sent_id = 722
+# text = CLUSTER(PROD select ENRONONLINE )
+
+# sent_id = 723
+# text = Bill Hare D
+
+# sent_id = 724
+# text = 05:51 PM 04/16/2001
+
+# sent_id = 725
+# text = 03:11 PM 04/16/2001
+
+# sent_id = 726
+# text = 01:09 PM 03/28/2001
+
+# sent_id = 727
+# text = Stephanie Sam & ,
+
+# sent_id = 728
+# text = 01:58 PM 03/21/2001
+
+# sent_id = 729
+# text = x3 9890 Samuel ENW_GCP -
+
+# sent_id = 730
+# text = Please attached see .
+
+# sent_id = 731
+# text = a ton Thanks .
+
+# sent_id = 732
+# text = I this got .
+
+# sent_id = 733
+# text = Conf Where Call . :
+
+# sent_id = 734
+# text = # 8000 800/711 in Call - : -
+
+# sent_id = 735
+# text = please Michelle comment . ,
+
+# sent_id = 736
+# text = much Thanks very .
+
+# sent_id = 737
+# text = Do@ENRON_DEVELOPMENT Luan Ngoc
+
+# sent_id = 738
+# text = 12:36 PM 08/07/2001
+
+# sent_id = 739
+# text = Walker Scott Simone
+
+# sent_id = 740
+# text = 's tomorrow talk Let .
+
+# sent_id = 741
+# text = 10:07 AM 09/16/99
+
+# sent_id = 742
+# text = 08:55 AM 09/16/99
+
+# sent_id = 743
+# text = 10:16 AM 09/16/99
+
+# sent_id = 744
+# text = 04:41 PM 09/15/99
+
+# sent_id = 745
+# text = 08:15 PM 09/15/99
+
+# sent_id = 746
+# text = 01:47 PM 05/17/99
+
+# sent_id = 747
+# text = 11:23 AM 05/17/99
+
+# sent_id = 748
+# text = 01:57 PM 09/03/99
+
+# sent_id = 749
+# text = date Lunch later .
+
+# sent_id = 750
+# text = With regards best ,
+
+# sent_id = 751
+# text = Plantation Island Amelia ?
+
+# sent_id = 752
+# text = your How family 's ?
+
+# sent_id = 753
+# text = 04:50 AM 09/17/99
+
+# sent_id = 754
+# text = 09:48 PM 09/16/99
+
+# sent_id = 755
+# text = 06:28 PM 12/22/2000
+
+# sent_id = 756
+# text = 07:50 PM 12/21/2000
+
+# sent_id = 757
+# text = Minkin Greetings Judge :
+
+# sent_id = 758
+# text = Code 80435 is .
+
+# sent_id = 759
+# text = 03:15 PM 12/26/2000
+
+# sent_id = 760
+# text = Code 80435 is .
+
+# sent_id = 761
+# text = 03:33 PM 12/26/2000
+
+# sent_id = 762
+# text = You . 're Sue right ,
+
+# sent_id = 763
+# text = 04:37 PM 02/22/2001
+
+# sent_id = 764
+# text = Fraser- confirmed Jen
+
+# sent_id = 765
+# text = Rhee- confirmed Margaret
+
+# sent_id = 766
+# text = Hilgert- confirmed Chris
+
+# sent_id = 767
+# text = 12:48 PM 01/26/2001
+
+# sent_id = 768
+# text = Keep touch in .
+
+# sent_id = 769
+# text = 09:40 AM 01/25/2001
+
+# sent_id = 770
+# text = 01:02 PM 01/24/2001
+
+# sent_id = 771
+# text = 09:37 AM 01/26/2001
+
+# sent_id = 772
+# text = 11:57 AM 01/26/2001
+
+# sent_id = 773
+# text = Shankman Mr. Dear ,
+
+# sent_id = 774
+# text = going How school 's ?
+
+# sent_id = 775
+# text = 11:36 AM 01/26/2001
+
+# sent_id = 776
+# text = 10:51 AM 01/26/2001
+
+# sent_id = 777
+# text = 11:42 AM 01/24/2001
+
+# sent_id = 778
+# text = Great guys job . ,
+
+# sent_id = 779
+# text = 02:02 AM 01/25/2001
+
+# sent_id = 780
+# text = Great gentlemen job !
+
+# sent_id = 781
+# text = tonight completed Finally
+
+# sent_id = 782
+# text = 11:05 AM 05/30/2001
+
+# sent_id = 783
+# text = Clair St Carol
+
+# sent_id = 784
+# text = 09:01 AM 05/31/2001
+
+# sent_id = 785
+# text = 03:00 PM 05/30/2001
+
+# sent_id = 786
+# text = Cass Christie or :
+
+# sent_id = 787
+# text = Denton L Rhonda
+
+# sent_id = 788
+# text = 12:45 PM 05/25/2001
+
+# sent_id = 789
+# text = Denton L Rhonda
+
+# sent_id = 790
+# text = 11:45 AM 05/25/2001
+
+# sent_id = 791
+# text = 10:44 AM 05/25/2001
+
+# sent_id = 792
+# text = Denton L Rhonda
+
+# sent_id = 793
+# text = 03:20 PM 06/01/2001
+
+# sent_id = 794
+# text = Denton L Rhonda
+
+# sent_id = 795
+# text = 03:20 PM 06/01/2001
+
+# sent_id = 796
+# text = Denton L Rhonda
+
+# sent_id = 797
+# text = 03:20 PM 06/01/2001
+
+# sent_id = 798
+# text = me Please call .
+
+# sent_id = 799
+# text = 08:38 AM 06/04/01
+
+# sent_id = 800
+# text = Were there any ?
+
+# sent_id = 801
+# text = 8031 Chanley 625 Earl 505 - -
+
+# sent_id = 802
+# text = Buchanan Thanks John :
+
+# sent_id = 803
+# text = I aware was .
+
+# sent_id = 804
+# text = Buchanan Thanks John :
+
+# sent_id = 805
+# text = it Here is .
+
+# sent_id = 806
+# text = you Sunday See .
+
+# sent_id = 807
+# text = 8031 Chanley 625 Earl 505 - -
+
+# sent_id = 808
+# text = September 2001 , 26
+
+# sent_id = 809
+# text = By KINDY KIMBERLY
+
+# sent_id = 810
+# text = 06:16 PM 11/28/2000
+
+# sent_id = 811
+# text = ye What say ?
+
+# sent_id = 812
+# text = 03:58 PM 11/28/2000
+
+# sent_id = 813
+# text = Chumley Jason IT-
+
+# sent_id = 814
+# text = Marshall David Insurance-
+
+# sent_id = 815
+# text = Hooser Van Steve
+
+# sent_id = 816
+# text = 11:34 AM 11/28/2000
+
+# sent_id = 817
+# text = 07:35 PM 11/28/2000
+
+# sent_id = 818
+# text = Ken Michelle and ,
+
+# sent_id = 819
+# text = 08:22 AM 11/28/2000
+
+# sent_id = 820
+# text = Jacobs > Rob rsjacobs@Encoreacq.com <
+
+# sent_id = 821
+# text = 11:25 AM 11/28/2000
+
+# sent_id = 822
+# text = 09:46 AM 11/28/2000
+
+# sent_id = 823
+# text = 10:25 AM 11/27/2000
+
+# sent_id = 824
+# text = Sanders B Richard
+
+# sent_id = 825
+# text = 09:56 PM 11/28/2000
+
+# sent_id = 826
+# text = 10:25 AM 11/27/2000
+
+# sent_id = 827
+# text = 03:43 PM 11/13/2000
+
+# sent_id = 828
+# text = Strathmann > Gerry gstrathmann@mediaone.net " " <
+
+# sent_id = 829
+# text = 02:19 PM 11/08/2000
+
+# sent_id = 830
+# text = 09:52 AM 11/29/2000
+
+# sent_id = 831
+# text = 10:45 AM 11/29/2000
+
+# sent_id = 832
+# text = Jason > Leopold Jason.Leopold@dowjones.com " < , "
+
+# sent_id = 833
+# text = 10:40 AM 11/29/2000
+
+# sent_id = 834
+# text = it Probably is .
+
+# sent_id = 835
+# text = I so hope .
+
+# sent_id = 836
+# text = One Idea Simple .
+
+# sent_id = 837
+# text = One Opportunity Huge .
+
+# sent_id = 838
+# text = More freedom personal ?
+
+# sent_id = 839
+# text = Call Conference LOCATION :
+
+# sent_id = 840
+# text = Mate Good Day !
+
+# sent_id = 841
+# text = We here are .
+
+# sent_id = 842
+# text = we Who are ?
+
+# sent_id = 843
+# text = you ready Are ?
+
+# sent_id = 844
+# text = are Ideas welcome .
+
+# sent_id = 845
+# text = prayed Collaboration is .
+
+# sent_id = 846
+# text = the Watch airlift
+
+# sent_id = 847
+# text = Your experiences Katrina
+
+# sent_id = 848
+# text = Katrina 's path Follow
+
+# sent_id = 849
+# text = by Asked ga yheggy - :
+
+# sent_id = 850
+# text = $ List 2.00 Price :
+
+# sent_id = 851
+# text = 420072 ID Question :
+
+# sent_id = 852
+# text = September 2004 , 21
+
+# sent_id = 853
+# text = Search Terms Google :
+
+# sent_id = 854
+# text = Excellent googlenut answer .
+
+# sent_id = 855
+# text = listening thanks for .
+
+# sent_id = 856
+# text = By Spencer Richard
+
+# sent_id = 857
+# text = you It surrounds .
+
+# sent_id = 858
+# text = Open eyes your .
+
+# sent_id = 859
+# text = Visualization Mountain . 2
+
+# sent_id = 860
+# text = Fellow Americans My :
+
+# sent_id = 861
+# text = Testimony at http://judiciary.senate.gov/testimony.cfm?id=1725&wit_id=4905
+
+# sent_id = 862
+# text = you Blessings to .
+
+# sent_id = 863
+# text = http://www.loveallpeople.org/theonereasonwhy.txt and http://www.loveallpeople.org/theonereasonwhy.html
+
+# sent_id = 864
+# text = By CARREAU MARK
+
+# sent_id = 865
+# text = To > SPAR s...@sonic.net : <
+
+# sent_id = 866
+# text = now Farewell for ...
+
+# sent_id = 867
+# text = 5249025 uin icq :
+
+# sent_id = 868
+# text = n't Heisenberg sure was .
+
+# sent_id = 869
+# text = MAKE -- THOUSANDS ! ! !
+
+# sent_id = 870
+# text = pre Continue crap fab . -
+
+# sent_id = 871
+# text = WELL ! GUESS WHAT ! !
+
+# sent_id = 872
+# text = I shocked was ! !
+
+# sent_id = 873
+# text = By Whipple Dan
+
+# sent_id = 874
+# text = INTERNATIONAL PRESS UNITED
+
+# sent_id = 875
+# text = wow ' ! ' You , say "
+
+# sent_id = 876
+# text = By Whipple Dan
+
+# sent_id = 877
+# text = INTERNATIONAL PRESS UNITED
+
+# sent_id = 878
+# text = Or not maybe .
+
+# sent_id = 879
+# text = USA , Atlanta , --Paul
+
+# sent_id = 880
+# text = soon Response coming .
+
+# sent_id = 881
+# text = Mayur > ? <
+
+# sent_id = 882
+# text = Me 09819602175 SMS ...
+
+# sent_id = 883
+# text = 1647 history - Chess 1530
+
+# sent_id = 884
+# text = He away turned .
+
+# sent_id = 885
+# text = THE COURT HIGH .
+
+# sent_id = 886
+# text = The Five Judges ) (
+
+# sent_id = 887
+# text = yamwhatiyam pop...@spinach.eat > Email < :
+
+# sent_id = 888
+# text = Armaments   's Iran . 2
+
+# sent_id = 889
+# text = Preparedness   . American 5
+
+# sent_id = 890
+# text = of Iraq Saviour
+
+# sent_id = 891
+# text = Lawman Bush George :
+
+# sent_id = 892
+# text = The libertarian Civil
+
+# sent_id = 893
+# text = A conscious president health -
+
+# sent_id = 894
+# text = / or training behaviour Horse
+
+# sent_id = 895
+# text = it He loved .
+
+# sent_id = 896
+# text = I n't know do .
+
+# sent_id = 897
+# text = you If can ?
+
+# sent_id = 898
+# text = fries Large -
+
+# sent_id = 899
+# text = Mac Big -
+
+# sent_id = 900
+# text = Drink McCAFE -
+
+# sent_id = 901
+# text = Browns Hash -
+
+# sent_id = 902
+# text = bearded spikes dragon ?
+
+# sent_id = 903
+# text = christmas 100 ~
+
+# sent_id = 904
+# text = work That might
+
+# sent_id = 905
+# text = is Wool best .
+
+# sent_id = 906
+# text = Hit road the .
+
+# sent_id = 907
+# text = World http://3.bp.blogspot.com/-X_e2uwT6wPw/Tkj_7UVTw6I/AAAAAAAAAGs/e_hICAdYPYI/s1600/lotte_world_from_high_up.jpg Lotte :
+
+# sent_id = 908
+# text = Resort http://v2.cache7.c.bigcache.googleapis.com/static.panoramio.com/photos/original/42661265.jpg?redirect_counter=2 Everland :
+
+# sent_id = 909
+# text = Bay http://tong.visitkorea.or.kr/cms/resource/81/188181_image2_1.jpg Carribbean :
+
+# sent_id = 910
+# text = Namsan http://farm3.static.flickr.com/2406/2527255596_db23df940f.jpg tower :
+
+# sent_id = 911
+# text = work that should
+
+# sent_id = 912
+# text = On Metro the RER / :
+
+# sent_id = 913
+# text = helps Hope this .
+
+# sent_id = 914
+# text = in Philadelphia Pubs ?
+
+# sent_id = 915
+# text = That :) good 's .
+
+# sent_id = 916
+# text = In Yes short .
+
+# sent_id = 917
+# text = I helped Hope !
+
+# sent_id = 918
+# text = him time Give .
+
+# sent_id = 919
+# text = I THERE LIVE !
+
+# sent_id = 920
+# text = help Pictures would !
+
+# sent_id = 921
+# text = Any other way ? ?
+
+# sent_id = 922
+# text = Hubbard 1381 W.
+
+# sent_id = 923
+# text = IL 60622 Chicago ,
+
+# sent_id = 924
+# text = Operation Hours of :
+
+# sent_id = 925
+# text = thru Friday Monday
+
+# sent_id = 926
+# text = 8:00pm - 6:30am
+
+# sent_id = 927
+# text = Sunday & Saturday
+
+# sent_id = 928
+# text = 5:00pm 7:00am -
+
+# sent_id = 929
+# text = thru Friday Monday
+
+# sent_id = 930
+# text = 6:00pm - 4:00pm
+
+# sent_id = 931
+# text = 100 ago years ?
+
+# sent_id = 932
+# text = Fuji Mount Climb .
+
+# sent_id = 933
+# text = are questions My ..
+
+# sent_id = 934
+# text = is Rotorua fine .
+
+# sent_id = 935
+# text = Yes it ok 's .
+
+# sent_id = 936
+# text = London definitely -
+
+# sent_id = 937
+# text = It n't work does .
+
+# sent_id = 938
+# text = the Then environment .
+
+# sent_id = 939
+# text = it helps Hope !
+
+# sent_id = 940
+# text = It free is .
+
+# sent_id = 941
+# text = they Yes do .
+
+# sent_id = 942
+# text = that Is reasonable ?
+
+# sent_id = 943
+# text = below link See .
+
+# sent_id = 944
+# text = Be . responsible . 1
+
+# sent_id = 945
+# text = LIKE >:( SERIOUSLY ! !
+
+# sent_id = 946
+# text = the best All .
+
+# sent_id = 947
+# text = We two have .
+
+# sent_id = 948
+# text = activities fun -more
+
+# sent_id = 949
+# text = Where Europe in ?
+
+# sent_id = 950
+# text = School High Leave ?
+
+# sent_id = 951
+# text = places Lots of .
+
+# sent_id = 952
+# text = come Africa to .
+
+# sent_id = 953
+# text = Obudu ranch cattle .
+
+# sent_id = 954
+# text = very frustrating Its .
+
+# sent_id = 955
+# text = classes obedience Try .
+
+# sent_id = 956
+# text = horses and ? yoga .....
+
+# sent_id = 957
+# text = you thank :)
+
+# sent_id = 958
+# text = dating etiquette French ?
+
+# sent_id = 959
+# text = it true Is ?
+
+# sent_id = 960
+# text = it very 's logical .
+
+# sent_id = 961
+# text = My .... 2c .
+
+# sent_id = 962
+# text = Get education an !
+
+# sent_id = 963
+# text = I fine doing 'm .
+
+# sent_id = 964
+# text = helped hope this .
+
+# sent_id = 965
+# text = help ! any ! answers ! ! ! !
+
+# sent_id = 966
+# text = agreed Communists The .
+
+# sent_id = 967
+# text = Bearded question dragon ? ...
+
+# sent_id = 968
+# text = of luck Best !
+
+# sent_id = 969
+# text = me Please help !
+
+# sent_id = 970
+# text = my Heres reason .....
+
+# sent_id = 971
+# text = them I love .
+
+# sent_id = 972
+# text = You patience have .
+
+# sent_id = 973
+# text = nt give Do up !
+
+# sent_id = 974
+# text = example September for .
+
+# sent_id = 975
+# text = Thanks Advance in .
+
+# sent_id = 976
+# text = any So ideas ?
+
+# sent_id = 977
+# text = He not starving 's .
+
+# sent_id = 978
+# text = we He dropping 's
+
+# sent_id = 979
+# text = He not starving 's .
+
+# sent_id = 980
+# text = I n't know do .
+
+# sent_id = 981
+# text = Our Wedding 11/7/08
+
+# sent_id = 982
+# text = Saucey again Thanks 's .
+
+# sent_id = 983
+# text = Tattoo Shop Excellent
+
+# sent_id = 984
+# text = and Bad Good
+
+# sent_id = 985
+# text = Great care pet
+
+# sent_id = 986
+# text = JOB GUYS GREAT !
+
+# sent_id = 987
+# text = Dallas Attorney Criminal
+
+# sent_id = 988
+# text = cold was Food
+
+# sent_id = 989
+# text = FAST and reasonable$
+
+# sent_id = 990
+# text = favorite My florist !
+
+# sent_id = 991
+# text = I Max 's <3
+
+# sent_id = 992
+# text = They great are !
+
+# sent_id = 993
+# text = Clean Windows Prompt . ,
+
+# sent_id = 994
+# text = awful awful awful
+
+# sent_id = 995
+# text = Angels system heating
+
+# sent_id = 996
+# text = it and works !
+
+# sent_id = 997
+# text = Absolutely great !
+
+# sent_id = 998
+# text = PHOTOS DONE WELL
+
+# sent_id = 999
+# text = product made Home
+
+# sent_id = 1000
+# text = out Great night !
+
+# sent_id = 1001
+# text = First Ballerina Time
+
+# sent_id = 1002
+# text = No Service Customer
+
+# sent_id = 1003
+# text = else somewhere Go .
+
+# sent_id = 1004
+# text = it I love .
+
+# sent_id = 1005
+# text = She amazing is .
+
+# sent_id = 1006
+# text = very So delicious !
+
+# sent_id = 1007
+# text = was Service excellent !
+
+# sent_id = 1008
+# text = of Beware Sharayu
+
+# sent_id = 1009
+# text = Rude Rude Rude
+
+# sent_id = 1010
+# text = Run Thanks on !
+
+# sent_id = 1011
+# text = rocked place This .
+
+# sent_id = 1012
+# text = Every Penny Worth
+
+# sent_id = 1013
+# text = else somewhere Go ...
+
+# sent_id = 1014
+# text = and inspiring Professional
+
+# sent_id = 1015
+# text = also place Cute
+
+# sent_id = 1016
+# text = are Margaritas alright .
+
+# sent_id = 1017
+# text = short tricky guy
+
+# sent_id = 1018
+# text = Terrell Dave www.norcalfightingalliance.com
+
+# sent_id = 1019
+# text = refused salesperson The !
+
+# sent_id = 1020
+# text = Location plus Perfect
+
+# sent_id = 1021
+# text = was Service excellent .
+
+# sent_id = 1022
+# text = was Food excellent .
+
+# sent_id = 1023
+# text = was Wine excellent .
+
+# sent_id = 1024
+# text = eats notch Top !
+
+# sent_id = 1025
+# text = Right Chelan near .
+
+# sent_id = 1026
+# text = definitely return Will .
+
+# sent_id = 1027
+# text = EVEN FRANCE IN !
+
+# sent_id = 1028
+# text = EARTHHHHHHH ! ON ! HEAVEN ! !
+
+# sent_id = 1029
+# text = no :D homo ] [
+
+# sent_id = 1030
+# text = fine friendly food ,
+
+# sent_id = 1031
+# text = Love soups the .
+
+# sent_id = 1032
+# text = NJ Builders Prominent
+
+# sent_id = 1033
+# text = Cut Great Dude !
+
+# sent_id = 1034
+# text = every penny Worth .
+
+# sent_id = 1035
+# text = Hino Congratulations Prestige !
+
+# sent_id = 1036
+# text = but perfect simple
+
+# sent_id = 1037
+# text = amazing is David
+
+# sent_id = 1038
+# text = so great Not
+
+# sent_id = 1039
+# text = It pretty 's ridiculous !
+
+# sent_id = 1040
+# text = My practice counseling
+
+# sent_id = 1041
+# text = Fantastic for kids
+
+# sent_id = 1042
+# text = a vacation great !
+
+# sent_id = 1043
+# text = helps hope ! this !
+
+# sent_id = 1044
+# text = Excellent ! service customer ! !
+
+# sent_id = 1045
+# text = Service Great Honest ,
+
+# sent_id = 1046
+# text = it you love 'll
+
+# sent_id = 1047
+# text = first Great experience .
+
+# sent_id = 1048
+# text = non And smokers beware ! ! ! -
+
+# sent_id = 1049
+# text = Rate church a ?
+
+# sent_id = 1050
+# text = Woodinville M. Roger ,
+
+# sent_id = 1051
+# text = is Tiffany fabulous !
+
+# sent_id = 1052
+# text = try Might again
+
+# sent_id = 1053
+# text = hehehe Salsa ) Best (
+
+# sent_id = 1054
+# text = I away walked .
+
+# sent_id = 1055
+# text = immediate . telephone Over ,
+
+# sent_id = 1056
+# text = Disaster Change Oil
+
+# sent_id = 1057
+# text = negative stars Liars ! ,
+
+# sent_id = 1058
+# text = The Family Peterson
+
+# sent_id = 1059
+# text = a Orr nightmare 's !
+
+# sent_id = 1060
+# text = I amazed was .
+
+# sent_id = 1061
+# text = you Bowtie Thank ! ,
+
+# sent_id = 1062
+# text = a history What .
+
+# sent_id = 1063
+# text = Quimba 1/30/10 Barbara
+
+# sent_id = 1064
+# text = look beautiful Will .
+
+# sent_id = 1065
+# text = they serious Are ?
+
+# sent_id = 1066
+# text = EVER Apartments Worst
+
+# sent_id = 1067
+# text = IS ? THAT ? WHAT ? ? ?
+
+# sent_id = 1068
+# text = there n't stay Do .
+
+# sent_id = 1069
+# text = FTW Luna Mezza !
+
+# sent_id = 1070
+# text = there Nobody lived .
+
+# sent_id = 1071
+# text = Morris . -R.
+
+# sent_id = 1072
+# text = Media . Social . 1
+
+# sent_id = 1073
+# text = stunk service The .
+
+# sent_id = 1074
+# text = for business Bad .
+
+# sent_id = 1075
+# text = I appalled was .
+
+# sent_id = 1076
+# text = Very unhappy ...
+
+# sent_id = 1077
+# text = He yes said .
+
+# sent_id = 1078
+# text = n't walk do Run .
+
+# sent_id = 1079
+# text = Excellent Driving School
+
+# sent_id = 1080
+# text = Dumbest ever F'ers
+
+# sent_id = 1081
+# text = Yes I . say ,
+
+# sent_id = 1082
+# text = You 7th 're at .
+
+# sent_id = 1083
+# text = We nothing heard .
+
+# sent_id = 1084
+# text = no So totes .
+
+# sent_id = 1085
+# text = No glasses wine .
+
+# sent_id = 1086
+# text = some Here excerpts are :
+
+# sent_id = 1087
+# text = Lessons Report learned IAEA
+
+# sent_id = 1088
+# text = too stopped was That .
+
+# sent_id = 1089
+# text = From Star Daily 's Friday
+
+# sent_id = 1090
+# text = June 2004 Friday 04 , ,
+
+# sent_id = 1091
+# text = they . failed , too But ,
+
+# sent_id = 1092
+# text = Online Times 16/11/2004 Asia
+
+# sent_id = 1093
+# text = the calls bluff Musharraf
+
+# sent_id = 1094
+# text = Guard ’s National years Bush
+
+# sent_id = 1095
+# text = It full was work time . -
+
+# sent_id = 1096
+# text = you know Did that ?
+
+# sent_id = 1097
+# text = So Bush flying stopped .
+
+# sent_id = 1098
+# text = blog I yuor like .
+
+# sent_id = 1099
+# text = It You Do CAN .
+
+# sent_id = 1100
+# text = islands 's on Trouble India
+
+# sent_id = 1101
+# text = too change may That .
+
+# sent_id = 1102
+# text = it And 's guilty :
+
+# sent_id = 1103
+# text = ON GROUP POLYGAMY CRACKDOWN
+
+# sent_id = 1104
+# text = No worry need to .
+
+# sent_id = 1105
+# text = that Or something like .
+
+# sent_id = 1106
+# text = I my firing editor 'm .
+
+# sent_id = 1107
+# text = he . says They inseparable 're " ,
+
+# sent_id = 1108
+# text = They imposters are merely .
+
+# sent_id = 1109
+# text = Here interesting 's example another :
+
+# sent_id = 1110
+# text = from Coil Balance John .
+
+# sent_id = 1111
+# text = very very scary creepy ,
+
+# sent_id = 1112
+# text = there It never happens .
+
+# sent_id = 1113
+# text = it Turkey well understands .
+
+# sent_id = 1114
+# text = lethal be Words can .
+
+# sent_id = 1115
+# text = you What do do ?
+
+# sent_id = 1116
+# text = This is news old .
+
+# sent_id = 1117
+# text = no There explanation was .
+
+# sent_id = 1118
+# text = Dale " . " means valley river " "
+
+# sent_id = 1119
+# text = Second 20/20 is hindsight . ,
+
+# sent_id = 1120
+# text = I this 'm happy about .
+
+# sent_id = 1121
+# text = PRC Satisfactory YE Rating :
+
+# sent_id = 1122
+# text = $ Valdes 62,500 superior Maria
+
+# sent_id = 1123
+# text = Thomas 55,008 Paul excellent $
+
+# sent_id = 1124
+# text = $ Choate 60,008 excellent Jason
+
+# sent_id = 1125
+# text = $ DeCook 42,008 strong Todd
+
+# sent_id = 1126
+# text = Makkai 47,500 Peter strong $
+
+# sent_id = 1127
+# text = WHEN 5 at pm Today :
+
+# sent_id = 1128
+# text = 83N is responsibility my .
+
+# sent_id = 1129
+# text = Europe 1691 EBS EPI - -
+
+# sent_id = 1130
+# text = LLC , Apache 1307 EBIC - -
+
+# sent_id = 1131
+# text = there Is 1 available ?
+
+# sent_id = 1132
+# text = Sooners drool Huskers over .
+
+# sent_id = 1133
+# text = Sooners drool rule Huskers . ,
+
+# sent_id = 1134
+# text = the note Thanks for .
+
+# sent_id = 1135
+# text = I be 'll in around1000
+
+# sent_id = 1136
+# text = tommorow birthday 's Mom is .
+
+# sent_id = 1137
+# text = Paul me today called .
+
+# sent_id = 1138
+# text = You ASAP reply should .
+
+# sent_id = 1139
+# text = The done deed is .
+
+# sent_id = 1140
+# text = Watt says Ryan high .
+
+# sent_id = 1141
+# text = great Jan Late sounds .
+
+# sent_id = 1142
+# text = Dasovich Sent Jeff by :
+
+# sent_id = 1143
+# text = Dasovich Sent Jeff by :
+
+# sent_id = 1144
+# text = Nov. 13th Monday Date , :
+
+# sent_id = 1145
+# text = 7132 - 422 - # Call 888 In :
+
+# sent_id = 1146
+# text = be non should bondad
+
+# sent_id = 1147
+# text = Sorry about flooding the .
+
+# sent_id = 1148
+# text = a Have day great .
+
+# sent_id = 1149
+# text = Sorry about flooding the .
+
+# sent_id = 1150
+# text = a Have day great .
+
+# sent_id = 1151
+# text = Sorry about flooding the .
+
+# sent_id = 1152
+# text = a Have day great .
+
+# sent_id = 1153
+# text = How Deb is knee 's ?
+
+# sent_id = 1154
+# text = it she make Did ?
+
+# sent_id = 1155
+# text = me forget Do n't about .
+
+# sent_id = 1156
+# text = That be fun would .
+
+# sent_id = 1157
+# text = Enron Customers Satisfied . 8
+
+# sent_id = 1158
+# text = I the initiate call 'll .
+
+# sent_id = 1159
+# text = for me Thursday works .
+
+# sent_id = 1160
+# text = Please > respond ekrapels@esaibos.com to <
+
+# sent_id = 1161
+# text = Please > respond ekrapels@esaibos.com to <
+
+# sent_id = 1162
+# text = Please > respond ekrapels@esaibos.com to <
+
+# sent_id = 1163
+# text = Please > respond ekrapels@esaibos.com to <
+
+# sent_id = 1164
+# text = Please > respond ekrapels@esaibos.com to <
+
+# sent_id = 1165
+# text = a Have weekend great .
+
+# sent_id = 1166
+# text = Please to respond ekrapels@esaibos.com
+
+# sent_id = 1167
+# text = you what think do ?
+
+# sent_id = 1168
+# text = the 3143C place EB :
+
+# sent_id = 1169
+# text = Big stuff kinda deal .
+
+# sent_id = 1170
+# text = the 3143C place EB :
+
+# sent_id = 1171
+# text = the Here dates are :
+
+# sent_id = 1172
+# text = Good Kitty morning - ,
+
+# sent_id = 1173
+# text = District Representative 94 State
+
+# sent_id = 1174
+# text = Hi Katsof - Mr.
+
+# sent_id = 1175
+# text = it . wants Debbie Now ,
+
+# sent_id = 1176
+# text = first First serve . come ,
+
+# sent_id = 1177
+# text = the When wedding is ?
+
+# sent_id = 1178
+# text = We for set 11/01/01 're .
+
+# sent_id = 1179
+# text = Your Dry Powder Keep !
+
+# sent_id = 1180
+# text = you What think do ?
+
+# sent_id = 1181
+# text = Please 4743 - 853 me 713 call -
+
+# sent_id = 1182
+# text = I my checking emails 'm .
+
+# sent_id = 1183
+# text = you help Can out ?
+
+# sent_id = 1184
+# text = Simien Sent Ernie by :
+
+# sent_id = 1185
+# text = Please to respond Mary.Ellenberger@enron.com
+
+# sent_id = 1186
+# text = I at 'm home still .
+
+# sent_id = 1187
+# text = I in be tomorrow 'll .
+
+# sent_id = 1188
+# text = you prefer do Which ?
+
+# sent_id = 1189
+# text = I at 'm home still .
+
+# sent_id = 1190
+# text = I in be tomorrow 'll .
+
+# sent_id = 1191
+# text = you prefer do Which ?
+
+# sent_id = 1192
+# text = now go Got ta for .
+
+# sent_id = 1193
+# text = | > | > ----------------------------------------------------------------------------| ----------------------------------------------------------------------------|
+
+# sent_id = 1194
+# text = Bank National Union First
+
+# sent_id = 1195
+# text = you How doing are ?
+
+# sent_id = 1196
+# text = the How play was ?
+
+# sent_id = 1197
+# text = a Have weekend good .
+
+# sent_id = 1198
+# text = you guidelines offer Can concerns / comments / ?
+
+# sent_id = 1199
+# text = your help Thanks for !
+
+# sent_id = 1200
+# text = Pacheco 39938 Leonardo ext .
+
+# sent_id = 1201
+# text = the reminder Thanks for .
+
+# sent_id = 1202
+# text = a Have weekend great .
+
+# sent_id = 1203
+# text = Ineos.xls > File > : < <
+
+# sent_id = 1204
+# text = 3 . 2 ) Clauses & (
+
+# sent_id = 1205
+# text = you I posted keep 'll .
+
+# sent_id = 1206
+# text = you I posted keep 'll .
+
+# sent_id = 1207
+# text = Please to respond kaplan
+
+# sent_id = 1208
+# text = 's on regroup Monday Let .
+
+# sent_id = 1209
+# text = you then talk to .
+
+# sent_id = 1210
+# text = Tax EBS Buis x-37097 Angie -
+
+# sent_id = 1211
+# text = appreciated much Comments are .
+
+# sent_id = 1212
+# text = it You still considering ?
+
+# sent_id = 1213
+# text = This is message confidential .
+
+# sent_id = 1214
+# text = Cappelletto Sent Nella by :
+
+# sent_id = 1215
+# text = the You best are !
+
+# sent_id = 1216
+# text = distributed be Copies will .
+
+# sent_id = 1217
+# text = attached ) See ETA_revision0307.doc file : (
+
+# sent_id = 1218
+# text = distributed be Copies will .
+
+# sent_id = 1219
+# text = the Here attachment is ...
+
+# sent_id = 1220
+# text = you cc Forgot to .
+
+# sent_id = 1221
+# text = Yea it ! was news outstanding --
+
+# sent_id = 1222
+# text = I all 'm week in .
+
+# sent_id = 1223
+# text = L ROBERT JR BRADLEY , ,
+
+# sent_id = 1224
+# text = Thane Jean & --
+
+# sent_id = 1225
+# text = Thane Jean & --
+
+# sent_id = 1226
+# text = me with 's ok It .
+
+# sent_id = 1227
+# text = Jones 3744 Danny 443 smithjones@ev1.net - - 281
+
+# sent_id = 1228
+# text = Jones 3744 Danny 443 smithjones@ev1.net - - 281
+
+# sent_id = 1229
+# text = good and luck Congratulations .
+
+# sent_id = 1230
+# text = Meeting Weekly Committee Executive
+
+# sent_id = 1231
+# text = May 7th Monday Date , :
+
+# sent_id = 1232
+# text = CDT 11:00 ) a.m. Time ( :
+
+# sent_id = 1233
+# text = Boardroom Floor Location 50th :
+
+# sent_id = 1234
+# text = International Re Cargill Ferrous :
+
+# sent_id = 1235
+# text = example Additional : Information Product ) (
+
+# sent_id = 1236
+# text = the click button START
+
+# sent_id = 1237
+# text = PASSWORD LOGIN WITH USUAL / PROCEED
+
+# sent_id = 1238
+# text = / WITH LOGIN PASSWORD PROCEED EOL
+
+# sent_id = 1239
+# text = International Re Cargill Ferrous :
+
+# sent_id = 1240
+# text = I mediation am in .
+
+# sent_id = 1241
+# text = you What think do ?
+
+# sent_id = 1242
+# text = Please attached see the .
+
+# sent_id = 1243
+# text = Specialist Senior Goode Diane
+
+# sent_id = 1244
+# text = one day Two in .
+
+# sent_id = 1245
+# text = please verify try to .
+
+# sent_id = 1246
+# text = The cancelled call was .
+
+# sent_id = 1247
+# text = 35620 is extension My .
+
+# sent_id = 1248
+# text = you I call 'll shortly .
+
+# sent_id = 1249
+# text = I lost 've track simply !
+
+# sent_id = 1250
+# text = you gone Have international ?
+
+# sent_id = 1251
+# text = Year ! New stranger Happy ,
+
+# sent_id = 1252
+# text = all is well Hope .
+
+# sent_id = 1253
+# text = me you miss Do ?
+
+# sent_id = 1254
+# text = Dasovich Sent Jeff by :
+
+# sent_id = 1255
+# text = I the make change 'll .
+
+# sent_id = 1256
+# text = that make change Will .
+
+# sent_id = 1257
+# text = Pennsylvania Place University of :
+
+# sent_id = 1258
+# text = McGowan- Interviewers Kevin confirmed :
+
+# sent_id = 1259
+# text = Coordinator Recruiting Johnson Shawna
+
+# sent_id = 1260
+# text = before about Sorry that .
+
+# sent_id = 1261
+# text = I say 'll anything not .
+
+# sent_id = 1262
+# text = Kushnick > Scott skush@swbell.net A. < " "
+
+# sent_id = 1263
+# text = the update thanks for .
+
+# sent_id = 1264
+# text = my is resume Attached .
+
+# sent_id = 1265
+# text = Please me know let .
+
+# sent_id = 1266
+# text = the See spreadsheet attached .
+
+# sent_id = 1267
+# text = Monday always 's tough are .
+
+# sent_id = 1268
+# text = the Probing coup palace ' '
+
+# sent_id = 1269
+# text = The Register County Orange
+
+# sent_id = 1270
+# text = All broke hell loose '' . "
+
+# sent_id = 1271
+# text = Jeff Sue and --
+
+# sent_id = 1272
+# text = any there question Is ?
+
+# sent_id = 1273
+# text = you golf playing Are ?
+
+# sent_id = 1274
+# text = Manne > S. < Neal NMANNE@SusmanGodfrey.com " "
+
+# sent_id = 1275
+# text = cooperation for Thanks you .
+
+# sent_id = 1276
+# text = How look does this ?
+
+# sent_id = 1277
+# text = This is message confidential .
+
+# sent_id = 1278
+# text = me discuss Call to .
+
+# sent_id = 1279
+# text = me discuss Call to .
+
+# sent_id = 1280
+# text = Sanders Dear Mr. -
+
+# sent_id = 1281
+# text = Manne > S. < Neal NMANNE@SusmanGodfrey.com " "
+
+# sent_id = 1282
+# text = noon 11 - am WHEN :
+
+# sent_id = 1283
+# text = the Healing Body Collective
+
+# sent_id = 1284
+# text = these factors convenience Consider :
+
+# sent_id = 1285
+# text = This smoke call will !
+
+# sent_id = 1286
+# text = you I see 'll there !
+
+# sent_id = 1287
+# text = lost be Hopelessness will .
+
+# sent_id = 1288
+# text = the Here ideation is .
+
+# sent_id = 1289
+# text = The ran bear off .
+
+# sent_id = 1290
+# text = not I why say ?
+
+# sent_id = 1291
+# text = It worth 's look a .
+
+# sent_id = 1292
+# text = you And are who ?
+
+# sent_id = 1293
+# text = you feel Do safer ?
+
+# sent_id = 1294
+# text = IMMEDIATE NEEDED ATTENTION Subject : :
+
+# sent_id = 1295
+# text = Madam Dear Sir / ,
+
+# sent_id = 1296
+# text = warm Sincerely regards with ,
+
+# sent_id = 1297
+# text = England Oakley McVeigh Natalie ,
+
+# sent_id = 1298
+# text = the to top Return
+
+# sent_id = 1299
+# text = Science > Category Astronomy :
+
+# sent_id = 1300
+# text = / The Mars vision Moon : --
+
+# sent_id = 1301
+# text = funding NASA increases Senate
+
+# sent_id = 1302
+# text = two just cents my .
+
+# sent_id = 1303
+# text = The is site web
+
+# sent_id = 1304
+# text = is address That .
+
+# sent_id = 1305
+# text = SALOON STREET MAIN WHERE :
+
+# sent_id = 1306
+# text = Visualization Sun Warm . 1
+
+# sent_id = 1307
+# text = This called ideation is .
+
+# sent_id = 1308
+# text = 8466 Cate 296 Dudley 828 - jodud...@aol.com -
+
+# sent_id = 1309
+# text = bmc...@patriot.net > McGinnis < Bill Email :
+
+# sent_id = 1310
+# text = him His love workers co . -
+
+# sent_id = 1311
+# text = His him family loves .
+
+# sent_id = 1312
+# text = Bush him President loves .
+
+# sent_id = 1313
+# text = 2005 Chronicle Copyright Houston
+
+# sent_id = 1314
+# text = Job > Travis t...@sonic.net : From <
+
+# sent_id = 1315
+# text = VEGAN . : : GO .
+
+# sent_id = 1316
+# text = IS ! THIS ! ABSOLUTELY ! LEGAL ! !
+
+# sent_id = 1317
+# text = This is legal perfectly ! !
+
+# sent_id = 1318
+# text = Florida , Windermere B , --John
+
+# sent_id = 1319
+# text = those believe who For ....................
+
+# sent_id = 1320
+# text = Everyday Mails > Get <
+
+# sent_id = 1321
+# text = me > Talk < ymsgr ... sendIM?mayursha&__Hi+Mayur to :
+
+# sent_id = 1322
+# text = Scene 1 . -Act , 5
+
+# sent_id = 1323
+# text = From > Green MGr...@usa.pipeline.com Martin < :
+
+# sent_id = 1324
+# text = introduced is 1555 Castling .
+
+# sent_id = 1325
+# text = the gambit word Introduces .
+
+# sent_id = 1326
+# text = 1580 Ruy lopez died .
+
+# sent_id = 1327
+# text = You warned been have ...
+
+# sent_id = 1328
+# text = By Pitt Rivers William
+
+# sent_id = 1329
+# text = January 2006 Monday 09
+
+# sent_id = 1330
+# text = in   Iraq Blowback . 1
+
+# sent_id = 1331
+# text = Syrian   Connection The . 3
+
+# sent_id = 1332
+# text = significantly . recall Iraq More ,
+
+# sent_id = 1333
+# text = Bush Military George man :
+
+# sent_id = 1334
+# text = A friend best 's soldier
+
+# sent_id = 1335
+# text = the Making safer country
+
+# sent_id = 1336
+# text = Bush manager George Money :
+
+# sent_id = 1337
+# text = Bush cutter George Tax :
+
+# sent_id = 1338
+# text = the of poor Friend
+
+# sent_id = 1339
+# text = holder Nixon ) Richard Record . (
+
+# sent_id = 1340
+# text = his in favor Factors
+
+# sent_id = 1341
+# text = my now home Its .
+
+# sent_id = 1342
+# text = fixed be Can that ?
+
+# sent_id = 1343
+# text = mod work cynangon should .
+
+# sent_id = 1344
+# text = I VERY am satisfied .
+
+# sent_id = 1345
+# text = it or is normal ?
+
+# sent_id = 1346
+# text = North Loop Chicago Downtown , ,
+
+# sent_id = 1347
+# text = THAI AND FOOD ASIAN .
+
+# sent_id = 1348
+# text = Clay Dry Air- Crayola ?
+
+# sent_id = 1349
+# text = her i bring Should ?
+
+# sent_id = 1350
+# text = be pledge ok Would ?
+
+# sent_id = 1351
+# text = not what is ? If ,
+
+# sent_id = 1352
+# text = you not definitely its .
+
+# sent_id = 1353
+# text = you i saaaaaam emailed .
+
+# sent_id = 1354
+# text = you how know did .
+
+# sent_id = 1355
+# text = i curious 'm EDIT now ... :
+
+# sent_id = 1356
+# text = a just heads up .
+
+# sent_id = 1357
+# text = Drink Medium Fountain -
+
+# sent_id = 1358
+# text = Sausage McMuffin Egg , -
+
+# sent_id = 1359
+# text = is becca right .
+
+# sent_id = 1360
+# text = They really re hard not .
+
+# sent_id = 1361
+# text = it worry Do n't about .
+
+# sent_id = 1362
+# text = long well lasts works .
+
+# sent_id = 1363
+# text = station boarding Change of ?
+
+# sent_id = 1364
+# text = the Contact railways Indian .
+
+# sent_id = 1365
+# text = 18th wait birthday for ?
+
+# sent_id = 1366
+# text = in I London live .
+
+# sent_id = 1367
+# text = Advice travelling Anyway for .
+
+# sent_id = 1368
+# text = Mayko Vietnamese 's name girl ? ,
+
+# sent_id = 1369
+# text = the easiest thing What s ?
+
+# sent_id = 1370
+# text = it . was No guys ,
+
+# sent_id = 1371
+# text = Philadelphia in Steakhouse Better ?
+
+# sent_id = 1372
+# text = Jeju Go island to !
+
+# sent_id = 1373
+# text = It much 's fun so !
+
+# sent_id = 1374
+# text = it Everyone loves ^_^ !
+
+# sent_id = 1375
+# text = An outside park water ) ! (
+
+# sent_id = 1376
+# text = I ^_^ helped Hoped !
+
+# sent_id = 1377
+# text = Korea~ in Have fun
+
+# sent_id = 1378
+# text = petco ! thanks petsmart ..... ) , (
+
+# sent_id = 1379
+# text = little like container a .
+
+# sent_id = 1380
+# text = i options have two
+
+# sent_id = 1381
+# text = I I would know n't .
+
+# sent_id = 1382
+# text = outstanding They work do .
+
+# sent_id = 1383
+# text = I a 'm beginner still .
+
+# sent_id = 1384
+# text = these securely screws Tighten .
+
+# sent_id = 1385
+# text = the problem What is ?
+
+# sent_id = 1386
+# text = Thi$ $ co$t ervice will .
+
+# sent_id = 1387
+# text = I What do do ?
+
+# sent_id = 1388
+# text = smart bird dat is .
+
+# sent_id = 1389
+# text = They climb LOVE to .
+
+# sent_id = 1390
+# text = Just and enjoy relax .
+
+# sent_id = 1391
+# text = $ & 3 Heineken Coronas
+
+# sent_id = 1392
+# text = I think do so n't
+
+# sent_id = 1393
+# text = It special 's kind a .
+
+# sent_id = 1394
+# text = is best modern m16
+
+# sent_id = 1395
+# text = still aftershocks there Are ?
+
+# sent_id = 1396
+# text = yes yes . Yes and ,
+
+# sent_id = 1397
+# text = wrong with rotorua Nothing
+
+# sent_id = 1398
+# text = that Keep mind in .
+
+# sent_id = 1399
+# text = I helped Hope :)
+
+# sent_id = 1400
+# text = you where go would ?
+
+# sent_id = 1401
+# text = Sure you apply can .
+
+# sent_id = 1402
+# text = NOTE BEN to .
+
+# sent_id = 1403
+# text = I ! got ! so ! excited !
+
+# sent_id = 1404
+# text = A your least going ! .
+
+# sent_id = 1405
+# text = In ) a good way ... (
+
+# sent_id = 1406
+# text = hookless feathers Silkies have .
+
+# sent_id = 1407
+# text = soft Sussexs feathers have .
+
+# sent_id = 1408
+# text = four Sussex toes have .
+
+# sent_id = 1409
+# text = T.V. So what about ?
+
+# sent_id = 1410
+# text = an It evolution was .
+
+# sent_id = 1411
+# text = them with . Bargain . 3
+
+# sent_id = 1412
+# text = you But immigrate can ? ,
+
+# sent_id = 1413
+# text = any suggestion Anyone have ?
+
+# sent_id = 1414
+# text = much you very thank .
+
+# sent_id = 1415
+# text = is One enough night ) !
+
+# sent_id = 1416
+# text = it centrally situated is .
+
+# sent_id = 1417
+# text = a pig guinea Get .
+
+# sent_id = 1418
+# text = handled Never a had Degu / .
+
+# sent_id = 1419
+# text = a pig guinea Get .
+
+# sent_id = 1420
+# text = forms and including fees
+
+# sent_id = 1421
+# text = one had include which :
+
+# sent_id = 1422
+# text = States In United the ?
+
+# sent_id = 1423
+# text = a . lovely Nigeria country ,
+
+# sent_id = 1424
+# text = in But nigeria where ?
+
+# sent_id = 1425
+# text = myself her I trained .
+
+# sent_id = 1426
+# text = again it Later do .
+
+# sent_id = 1427
+# text = fun inside something Put .
+
+# sent_id = 1428
+# text = my So question is ..
+
+# sent_id = 1429
+# text = your . vet ) Call 4
+
+# sent_id = 1430
+# text = you How know would ?
+
+# sent_id = 1431
+# text = n't 700f advertised jobs are .
+
+# sent_id = 1432
+# text = they playing roughhouse were ?
+
+# sent_id = 1433
+# text = this not good is .
+
+# sent_id = 1434
+# text = it . worked Thing is ,
+
+# sent_id = 1435
+# text = THE WAS PLAN THAT .
+
+# sent_id = 1436
+# text = But another ’s question that .
+
+# sent_id = 1437
+# text = the Please parakeet choose ...
+
+# sent_id = 1438
+# text = the They best are !
+
+# sent_id = 1439
+# text = a is friendlier parakeet
+
+# sent_id = 1440
+# text = They also are friendly .
+
+# sent_id = 1441
+# text = the Checkout source second .
+
+# sent_id = 1442
+# text = time It vacation is .
+
+# sent_id = 1443
+# text = a We ball had .
+
+# sent_id = 1444
+# text = you Or are undecided ?
+
+# sent_id = 1445
+# text = different be something Might ?
+
+# sent_id = 1446
+# text = a Or birth difficult ?
+
+# sent_id = 1447
+# text = Extremely service bad customer
+
+# sent_id = 1448
+# text = My is fixed!. neck
+
+# sent_id = 1449
+# text = her I highly recommend .
+
+# sent_id = 1450
+# text = these were guys fantastic !
+
+# sent_id = 1451
+# text = This is office awesome !
+
+# sent_id = 1452
+# text = We Farmer love Little
+
+# sent_id = 1453
+# text = graphic Great work design !
+
+# sent_id = 1454
+# text = nice very Everyone was .
+
+# sent_id = 1455
+# text = Service Wine & Great
+
+# sent_id = 1456
+# text = They take do coupons n't .
+
+# sent_id = 1457
+# text = it I get do n't .
+
+# sent_id = 1458
+# text = you Zone Thank Comfort
+
+# sent_id = 1459
+# text = Gallery I Hellada Love !
+
+# sent_id = 1460
+# text = DONT ! COFFEE BOTHER BAD ,
+
+# sent_id = 1461
+# text = PPL ! CHANGE PROCESS THE ,
+
+# sent_id = 1462
+# text = But $ i 100 paid .
+
+# sent_id = 1463
+# text = a Never receipt gives .
+
+# sent_id = 1464
+# text = again And then wait .
+
+# sent_id = 1465
+# text = Best in northeast food
+
+# sent_id = 1466
+# text = it . accepted Yes they ,
+
+# sent_id = 1467
+# text = me you kidding Are ?
+
+# sent_id = 1468
+# text = it I get do n't .
+
+# sent_id = 1469
+# text = too bees Rcommended ! by ,
+
+# sent_id = 1470
+# text = No spraying pesticides of !
+
+# sent_id = 1471
+# text = his He bees knows !
+
+# sent_id = 1472
+# text = SERVICE AND GREAT PEOPLE ! !
+
+# sent_id = 1473
+# text = in Alpharetta Gem Hidden
+
+# sent_id = 1474
+# text = great also Pedicures are .
+
+# sent_id = 1475
+# text = this Try place out !
+
+# sent_id = 1476
+# text = amazing totally Rendy is .
+
+# sent_id = 1477
+# text = i go wo back nt !
+
+# sent_id = 1478
+# text = This is place bad .
+
+# sent_id = 1479
+# text = her I highly recommend .
+
+# sent_id = 1480
+# text = Chicago Fixtures Lighting Antique , ,
+
+# sent_id = 1481
+# text = HERE ! GO ! NOT DO !
+
+# sent_id = 1482
+# text = EVER ! CHINESE RESTAURANT BEST ! !
+
+# sent_id = 1483
+# text = Heating is Tiger awesome .
+
+# sent_id = 1484
+# text = a Absolutely company wonderful .
+
+# sent_id = 1485
+# text = the They queso fixed !
+
+# sent_id = 1486
+# text = GYM I MY LOVE !
+
+# sent_id = 1487
+# text = This rated restaurant over . is -
+
+# sent_id = 1488
+# text = The is service poor ...
+
+# sent_id = 1489
+# text = The EVER cakes best !
+
+# sent_id = 1490
+# text = poor service good Food ,
+
+# sent_id = 1491
+# text = Hats Lovely Great People ,
+
+# sent_id = 1492
+# text = them I highly recommend !
+
+# sent_id = 1493
+# text = Very and reliable kind .
+
+# sent_id = 1494
+# text = Extremely and professional helpful
+
+# sent_id = 1495
+# text = IN AMES PLACE BEST
+
+# sent_id = 1496
+# text = The Ever Service Best ! !
+
+# sent_id = 1497
+# text = We Cafe love T 's !
+
+# sent_id = 1498
+# text = Sicily When Scordia in ,
+
+# sent_id = 1499
+# text = Prices Great ! service Great ,
+
+# sent_id = 1500
+# text = very was expensive Which .
+
+# sent_id = 1501
+# text = Only With Concerned Money
+
+# sent_id = 1502
+# text = clean # immaculately 1 its .
+
+# sent_id = 1503
+# text = Exile is ! the ! best !
+
+# sent_id = 1504
+# text = Shop ! at Exile local !
+
+# sent_id = 1505
+# text = Wonderful Wildernest inn Wild WWW -
+
+# sent_id = 1506
+# text = not but bad Outdated
+
+# sent_id = 1507
+# text = It actually 's combative pretty .
+
+# sent_id = 1508
+# text = in McLean My Favorite
+
+# sent_id = 1509
+# text = The is service fast .
+
+# sent_id = 1510
+# text = just . unprofessional Rude jerks , ,
+
+# sent_id = 1511
+# text = Sanwiches Great Great Prices ,
+
+# sent_id = 1512
+# text = Big and grey imposing . ,
+
+# sent_id = 1513
+# text = I Hacienda recommend La
+
+# sent_id = 1514
+# text = ALL AVOID COSTS AT .
+
+# sent_id = 1515
+# text = Terrible well communication as .
+
+# sent_id = 1516
+# text = You fool can people
+
+# sent_id = 1517
+# text = I thoroughly was impressed !
+
+# sent_id = 1518
+# text = It ! was completly n't ! impossible ! !
+
+# sent_id = 1519
+# text = you Autos Thank Just !
+
+# sent_id = 1520
+# text = never Instructor showed up !
+
+# sent_id = 1521
+# text = I differ beg to .
+
+# sent_id = 1522
+# text = In Town Best DJ 's !
+
+# sent_id = 1523
+# text = FOOD SERVICE AND HORRIBLE
+
+# sent_id = 1524
+# text = service and neuter Spay .
+
+# sent_id = 1525
+# text = so is dumb Which .
+
+# sent_id = 1526
+# text = the to good All .
+
+# sent_id = 1527
+# text = i what expected Not !
+
+# sent_id = 1528
+# text = to Richmond An Asset
+
+# sent_id = 1529
+# text = History Wonderland with Craft
+
+# sent_id = 1530
+# text = them Definitely see go !
+
+# sent_id = 1531
+# text = Okay the 's scoop here . ,
+
+# sent_id = 1532
+# text = The Touch Midas Trust
+
+# sent_id = 1533
+# text = The Ever Experience ! Worst ! !
+
+# sent_id = 1534
+# text = TEXAS AT ROADHOUSE DINING
+
+# sent_id = 1535
+# text = First to trip Canada
+
+# sent_id = 1536
+# text = in Favorite Tampa place .
+
+# sent_id = 1537
+# text = Excellent and quality service
+
+# sent_id = 1538
+# text = n't The break window did !
+
+# sent_id = 1539
+# text = it He sarcastically said .
+
+# sent_id = 1540
+# text = she Then gone was .
+
+# sent_id = 1541
+# text = the Quit overstatements with !
+
+# sent_id = 1542
+# text = Say . like Huh something " ,
+
+# sent_id = 1543
+# text = OK fine . bad one experience ... ,
+
+# sent_id = 1544
+# text = again Nov.28 begins trial The .
+
+# sent_id = 1545
+# text = TEN ACCIDENT YEARS CHERNOBYL ON :
+
+# sent_id = 1546
+# text = Take Linda my friend care , ,
+
+# sent_id = 1547
+# text = Lanka over Sri defensive India
+
+# sent_id = 1548
+# text = he a missed physical That ?
+
+# sent_id = 1549
+# text = basic Six training weeks of .
+
+# sent_id = 1550
+# text = training three of Fifty flight weeks . -
+
+# sent_id = 1551
+# text = Not two of weekends years .
+
+# sent_id = 1552
+# text = OK superior said officers His .
+
+# sent_id = 1553
+# text = Carriles Posada Luis Remember ?
+
+# sent_id = 1554
+# text = same same ole ole ... , ...
+
+# sent_id = 1555
+# text = is a This blog excellent .
+
+# sent_id = 1556
+# text = regional Musharraf new Karzai equations ,
+
+# sent_id = 1557
+# text = Bush such did thing no .
+
+# sent_id = 1558
+# text = Bush sadistic has streak a .
+
+# sent_id = 1559
+# text = It Texas was accent a .
+
+# sent_id = 1560
+# text = SNAP right is part in .
+
+# sent_id = 1561
+# text = another The matter will is .
+
+# sent_id = 1562
+# text = we ? lost some So weapon " "
+
+# sent_id = 1563
+# text = a It good 's thing too .
+
+# sent_id = 1564
+# text = Long live is dead Irony Irony ! ...
+
+# sent_id = 1565
+# text = I hard wonder would too n't .
+
+# sent_id = 1566
+# text = not To the buying BS
+
+# sent_id = 1567
+# text = it They doing are deliberately .
+
+# sent_id = 1568
+# text = only their serves purposes This .
+
+# sent_id = 1569
+# text = actually the exist distinction Does ?
+
+# sent_id = 1570
+# text = so point 's ? your what enemy , ,
+
+# sent_id = 1571
+# text = it you state do n't Why ?
+
+# sent_id = 1572
+# text = dangerous True animals believers are .
+
+# sent_id = 1573
+# text = it And is war a !
+
+# sent_id = 1574
+# text = the are fashioned These dilemmas old . -
+
+# sent_id = 1575
+# text = it But avoided be not can .
+
+# sent_id = 1576
+# text = the is south in . Karachi ) (
+
+# sent_id = 1577
+# text = The exist position does . not ) (
+
+# sent_id = 1578
+# text = I your appreciate help all .
+
+# sent_id = 1579
+# text = you me 're Call interested if .
+
+# sent_id = 1580
+# text = He to rescheduled Wednesday just .
+
+# sent_id = 1581
+# text = me Beau invited buddy Your .
+
+# sent_id = 1582
+# text = Thursday work Would dinner instead .
+
+# sent_id = 1583
+# text = me work does for n't Wednesday .
+
+# sent_id = 1584
+# text = you guys think What do .
+
+# sent_id = 1585
+# text = me work does for n't Wednesday .
+
+# sent_id = 1586
+# text = you guys think What do .
+
+# sent_id = 1587
+# text = Please request respond below to .
+
+# sent_id = 1588
+# text = Group Job Listing Salary in :
+
+# sent_id = 1589
+# text = attend we to going Are ?
+
+# sent_id = 1590
+# text = Bitmap > Independent < Device ) Picture Embedded (
+
+# sent_id = 1591
+# text = LLC 1689 Ventures EPI EBS , - -
+
+# sent_id = 1592
+# text = I and numbered signed want .
+
+# sent_id = 1593
+# text = is some That stuff good .
+
+# sent_id = 1594
+# text = Mama`s so Yo fat ....
+
+# sent_id = 1595
+# text = him a Give tommorow call .
+
+# sent_id = 1596
+# text = 3703 Director - DeVries 865 Paul 416 - -
+
+# sent_id = 1597
+# text = 3704 Manager - Wilson 865 Jan 416 - -
+
+# sent_id = 1598
+# text = work you for Does that ?
+
+# sent_id = 1599
+# text = I into turning Mother Am ?
+
+# sent_id = 1600
+# text = Finally a regarding timing question . ,
+
+# sent_id = 1601
+# text = maam she Yes 's . now UBS ,
+
+# sent_id = 1602
+# text = I THE HANDLE TRACTOR CAN .
+
+# sent_id = 1603
+# text = PM 03:13:58 on Chris.Germany@enron.com 01/25/2002
+
+# sent_id = 1604
+# text = Winfrey talkshow Oprah host , . 6
+
+# sent_id = 1605
+# text = Microsoft , CEO Gates , Bill . 2
+
+# sent_id = 1606
+# text = about 10:30 my time What ?
+
+# sent_id = 1607
+# text = how July about Thursday 6 ? ,
+
+# sent_id = 1608
+# text = it 2:30 is 12 July . ,
+
+# sent_id = 1609
+# text = it we arrange can How ?
+
+# sent_id = 1610
+# text = How 2:30 is Wednesday at ?
+
+# sent_id = 1611
+# text = How the doing site is ?
+
+# sent_id = 1612
+# text = about Talk a marriage shotgun !
+
+# sent_id = 1613
+# text = Joe_Lardy@cargill.com AM 10:39:03 on 03/02/2001
+
+# sent_id = 1614
+# text = on your Congrats promotion ! ps
+
+# sent_id = 1615
+# text = you that Is ok with ?
+
+# sent_id = 1616
+# text = the showing revisions Here version 's .
+
+# sent_id = 1617
+# text = always difficult are times These .
+
+# sent_id = 1618
+# text = We doing are well quite .
+
+# sent_id = 1619
+# text = Secretary Executive Wells L. Tori
+
+# sent_id = 1620
+# text = matching Sitara the is spreadsheet n't .
+
+# sent_id = 1621
+# text = me ! race ! to want Makes !
+
+# sent_id = 1622
+# text = I + gave 16,900 tax $ .
+
+# sent_id = 1623
+# text = nice having money be ! Must !
+
+# sent_id = 1624
+# text = I the need prices below .
+
+# sent_id = 1625
+# text = I your need help again .
+
+# sent_id = 1626
+# text = 04:06:52 on 05/03/2001 Mary.Ellenberger@enron.com PM
+
+# sent_id = 1627
+# text = esimien@nisource.com PM 01:32:35 on 05/03/2001
+
+# sent_id = 1628
+# text = it I working 'm now on .
+
+# sent_id = 1629
+# text = I around meet 10:00 can .
+
+# sent_id = 1630
+# text = It for 's the not meek .
+
+# sent_id = 1631
+# text = you It chatting 's good with .
+
+# sent_id = 1632
+# text = you for coming Xmas Are ?
+
+# sent_id = 1633
+# text = referenced the is agreement Attached .
+
+# sent_id = 1634
+# text = you to Talk guys soon ,
+
+# sent_id = 1635
+# text = a She fun 's girl very .
+
+# sent_id = 1636
+# text = you I talk 'll later to .
+
+# sent_id = 1637
+# text = for ? the heads Thanks up .
+
+# sent_id = 1638
+# text = you that want what Is ?
+
+# sent_id = 1639
+# text = around ? Nice Arrv noon . -
+
+# sent_id = 1640
+# text = We Paris d Sept. 27 - .
+
+# sent_id = 1641
+# text = Paris - Sept. 30 Sat .
+
+# sent_id = 1642
+# text = on Elliotts the 's info Here .
+
+# sent_id = 1643
+# text = Specialist Legal Senior Heard Marie
+
+# sent_id = 1644
+# text = Specialist Legal Senior Heard Marie
+
+# sent_id = 1645
+# text = you your Thank assistance for .
+
+# sent_id = 1646
+# text = Specialist Legal Senior Heard Marie
+
+# sent_id = 1647
+# text = Cohen Blumenfeld Meier & Jeremy
+
+# sent_id = 1648
+# text = Priorities panel PUC for " Topic . " ,
+
+# sent_id = 1649
+# text = Hey Monday ! off guys take ,
+
+# sent_id = 1650
+# text = attend I to scheduled Am ?
+
+# sent_id = 1651
+# text = Bitmap > Independent < Device ) Picture Embedded (
+
+# sent_id = 1652
+# text = are available on request Publications .
+
+# sent_id = 1653
+# text = you your Thank time for .
+
+# sent_id = 1654
+# text = PM 01:39:56 on Danny_Jones%ENRON@eott.com 04/30/2001
+
+# sent_id = 1655
+# text = PM 01:39:56 on Danny_Jones%ENRON@eott.com 04/30/2001
+
+# sent_id = 1656
+# text = me This is ok by .
+
+# sent_id = 1657
+# text = Hannon Kevin Rice & Ken
+
+# sent_id = 1658
+# text = below Their listed schedule is .
+
+# sent_id = 1659
+# text = Stephen.Dyer@bakerbotts.com PM 08:50:01 on 05/01/2001
+
+# sent_id = 1660
+# text = Almost your done drafts with .
+
+# sent_id = 1661
+# text = Stan in attend person will .
+
+# sent_id = 1662
+# text = you the Thank invitation for .
+
+# sent_id = 1663
+# text = Please the review process below :
+
+# sent_id = 1664
+# text = Please the review process below :
+
+# sent_id = 1665
+# text = Please file attached see Word
+
+# sent_id = 1666
+# text = Here the are Agreements sample .
+
+# sent_id = 1667
+# text = It Concern May Whom To :
+
+# sent_id = 1668
+# text = issues picketing . NEPCO FYI re :
+
+# sent_id = 1669
+# text = us you tell Can where .
+
+# sent_id = 1670
+# text = This NOTICE confidential . message is :
+
+# sent_id = 1671
+# text = I the initiate call will .
+
+# sent_id = 1672
+# text = It a 's good point starting .
+
+# sent_id = 1673
+# text = I on checking London am .
+
+# sent_id = 1674
+# text = Year and New too Happy !
+
+# sent_id = 1675
+# text = In new a business franchise ?
+
+# sent_id = 1676
+# text = SamChawk@aol.com 07:48:44 on PM 09/11/99
+
+# sent_id = 1677
+# text = you your Thank help for .
+
+# sent_id = 1678
+# text = you your Thank help for .
+
+# sent_id = 1679
+# text = Judge Law Administrative Minkin --Angela
+
+# sent_id = 1680
+# text = II Participants Accord Settlement Gas :
+
+# sent_id = 1681
+# text = Corp Enron Director Dasovich Jeffrey ,
+
+# sent_id = 1682
+# text = a very good 's point That .
+
+# sent_id = 1683
+# text = you a gotten price have ?
+
+# sent_id = 1684
+# text = for the Any weekend plans ?
+
+# sent_id = 1685
+# text = I language add setoff would .
+
+# sent_id = 1686
+# text = you that Are okay with ?
+
+# sent_id = 1687
+# text = It 295870 is No Enpower . .
+
+# sent_id = 1688
+# text = It 295870 is No Enpower . .
+
+# sent_id = 1689
+# text = It 295870 is No Enpower . .
+
+# sent_id = 1690
+# text = we execute Are ready to ?
+
+# sent_id = 1691
+# text = Please 's . discuss me let call ,
+
+# sent_id = 1692
+# text = you I get 'll announcement the .
+
+# sent_id = 1693
+# text = We '' take . to action had "
+
+# sent_id = 1694
+# text = The their way generators got .
+
+# sent_id = 1695
+# text = please If contact Michelle so . ,
+
+# sent_id = 1696
+# text = you your Thank help for .
+
+# sent_id = 1697
+# text = Nuria_R_Ibarra@calpx.com 11:15:11 on AM 04/28/2000
+
+# sent_id = 1698
+# text = now for is all That .
+
+# sent_id = 1699
+# text = it OK was . perhaps inevitable ,
+
+# sent_id = 1700
+# text = it But is official now .
+
+# sent_id = 1701
+# text = never change will likely That .
+
+# sent_id = 1702
+# text = Very few do parents this .
+
+# sent_id = 1703
+# text = stamped It out be must .
+
+# sent_id = 1704
+# text = Canada Columbia British Coast Sunshine , ,
+
+# sent_id = 1705
+# text = you for searching What are ?
+
+# sent_id = 1706
+# text = your More family time with ?
+
+# sent_id = 1707
+# text = It revolutionary is hybrid a .
+
+# sent_id = 1708
+# text = long viability term What is ?
+
+# sent_id = 1709
+# text = you of Are Agel unsure ?
+
+# sent_id = 1710
+# text = The to is:5107 participate Passcode
+
+# sent_id = 1711
+# text = November 2005 Tuesday 22 , DATE , :
+
+# sent_id = 1712
+# text = become flexible will spine The .
+
+# sent_id = 1713
+# text = secretions regulated become Glandular will .
+
+# sent_id = 1714
+# text = over Gives the limbs control .
+
+# sent_id = 1715
+# text = removed complexes be Fear will .
+
+# sent_id = 1716
+# text = U.S. award Quebecker wins bravery
+
+# sent_id = 1717
+# text = big of companies Important information
+
+# sent_id = 1718
+# text = on I Yahoo am !
+
+# sent_id = 1719
+# text = a date release Anyone know ?
+
+# sent_id = 1720
+# text = it I heard havn't of .
+
+# sent_id = 1721
+# text = Orleans of New central Map
+
+# sent_id = 1722
+# text = IS WASTE A NASA Q ! :
+
+# sent_id = 1723
+# text = Answered 2 ) Comments , (
+
+# sent_id = 1724
+# text = IS WASTE A NASA Subject ! :
+
+# sent_id = 1725
+# text = on Appropriations Committee Senate U.S.
+
+# sent_id = 1726
+# text = AT DOOR THE DONATIONS ADMISSION :
+
+# sent_id = 1727
+# text = you Another try thing can .
+
+# sent_id = 1728
+# text = not But the ’s case that .
+
+# sent_id = 1729
+# text = him fellow love judges His .
+
+# sent_id = 1730
+# text = Links and UnitaryExecutive.net http://www Descriptions at .
+
+# sent_id = 1731
+# text = us all help God May .
+
+# sent_id = 1732
+# text = And America bless God may !
+
+# sent_id = 1733
+# text = appreciated Any be suggestions would .
+
+# sent_id = 1734
+# text = this extraordinary mistreatment What justifies ?
+
+# sent_id = 1735
+# text = It on 's the also net .
+
+# sent_id = 1736
+# text = I all are well hope .
+
+# sent_id = 1737
+# text = A NOT SCAM IS ! THIS ! !
+
+# sent_id = 1738
+# text = it this Look way at .
+
+# sent_id = 1739
+# text = the . true failed caper If ,
+
+# sent_id = 1740
+# text = pretty new are Wolves still . "
+
+# sent_id = 1741
+# text = distances considerable migrate Wolves can .
+
+# sent_id = 1742
+# text = adjust animals fuss Humans Climate , :
+
+# sent_id = 1743
+# text = it your altered life Has ?
+
+# sent_id = 1744
+# text = of the Some comments better :
+
+# sent_id = 1745
+# text = You the seen pictures have .
+
+# sent_id = 1746
+# text = the Bush nation addressed . Recently ,
+
+# sent_id = 1747
+# text = 2005 Flexibility Aries in -
+
+# sent_id = 1748
+# text = in 2005 Taurus Tenacity -
+
+# sent_id = 1749
+# text = in 2005 Gemini Success -
+
+# sent_id = 1750
+# text = in 2005 Balance Cancer -
+
+# sent_id = 1751
+# text = - Abundance 2005 in Leo
+
+# sent_id = 1752
+# text = easily and comes Love willingly .
+
+# sent_id = 1753
+# text = - in 2005 Virgo Perseverance
+
+# sent_id = 1754
+# text = in 2005 Libra Expansion -
+
+# sent_id = 1755
+# text = ahead and lie enjoyment Happiness .
+
+# sent_id = 1756
+# text = in 2005 Scorpio Transmutation -
+
+# sent_id = 1757
+# text = Be new for horizons prepared .
+
+# sent_id = 1758
+# text = in 2005 Sagittarius Empowerment -
+
+# sent_id = 1759
+# text = 2005 Capricorn Resolution in -
+
+# sent_id = 1760
+# text = 2005 Magic Aquarius in -
+
+# sent_id = 1761
+# text = confidence 2005 in Self Pisces - -
+
+# sent_id = 1762
+# text = Share mayur...@yahoo.com Your > Mails mailto:mayur...@yahoo.com <
+
+# sent_id = 1763
+# text = well offline send ] as [
+
+# sent_id = 1764
+# text = Spanish & player priest leading .
+
+# sent_id = 1765
+# text = Italian book chess Author of .
+
+# sent_id = 1766
+# text = It and shrink vanish will .
+
+# sent_id = 1767
+# text = misc.consumers.frugal-living misc.consumers ba.consumers , , alt.consumers Groups , :
+
+# sent_id = 1768
+# text = the for booster US Image
+
+# sent_id = 1769
+# text = Another in his favor factor
+
+# sent_id = 1770
+# text = n't understand My just dad does ?
+
+# sent_id = 1771
+# text = uk HELP NEED ? collages Equine ! ! !
+
+# sent_id = 1772
+# text = in Warwickshire Coventry Morrell Moreton ,
+
+# sent_id = 1773
+# text = it one got Orla in .
+
+# sent_id = 1774
+# text = read you through Hope this .
+
+# sent_id = 1775
+# text = they and are big how ?
+
+# sent_id = 1776
+# text = wht ? abt its quality picture ? ?
+
+# sent_id = 1777
+# text = my dead photos pixel of ?
+
+# sent_id = 1778
+# text = migrant Zealand skilled New visa ?
+
+# sent_id = 1779
+# text = it me is 's it not ? !
+
+# sent_id = 1780
+# text = I EDIT know ... How did :
+
+# sent_id = 1781
+# text = yes of you course can ....
+
+# sent_id = 1782
+# text = Chicken 20 McNuggets piece -
+
+# sent_id = 1783
+# text = Chicken 10 McNuggets piece -
+
+# sent_id = 1784
+# text = Oatmeal & Maple Fruit -
+
+# sent_id = 1785
+# text = quite delicate are Beardies actually .
+
+# sent_id = 1786
+# text = new 300 year Chinese ~
+
+# sent_id = 1787
+# text = noiseless relatively wheels are -
+
+# sent_id = 1788
+# text = It huge makes difference a .
+
+# sent_id = 1789
+# text = I 17 am years old .
+
+# sent_id = 1790
+# text = I here am unhappy very .
+
+# sent_id = 1791
+# text = travelling I to go want .
+
+# sent_id = 1792
+# text = also . itchy but warm Light , ,
+
+# sent_id = 1793
+# text = It ) 's and outdoors indoors ! (
+
+# sent_id = 1794
+# text = / called island an jeju jejudo island
+
+# sent_id = 1795
+# text = it there 's like almost paradise
+
+# sent_id = 1796
+# text = it I feed do what ?
+
+# sent_id = 1797
+# text = it I feed should What ?
+
+# sent_id = 1798
+# text = fine normal Is food bird ?
+
+# sent_id = 1799
+# text = small or worms bait buy .
+
+# sent_id = 1800
+# text = a for ticket Paris Buy .
+
+# sent_id = 1801
+# text = On France the Air bus :
+
+# sent_id = 1802
+# text = surgeons cheapest in plastic Thailand ?
+
+# sent_id = 1803
+# text = the expensive cheap comes ! Sometimes " "
+
+# sent_id = 1804
+# text = for Read the contents labels .
+
+# sent_id = 1805
+# text = quickly Your adjust cat will .
+
+# sent_id = 1806
+# text = also You less have spoilage 'll .
+
+# sent_id = 1807
+# text = ideas 10 reef nano gallon ?
+
+# sent_id = 1808
+# text = Tablet or NOOK Color NOOK ?
+
+# sent_id = 1809
+# text = just Or purchase Color the ?
+
+# sent_id = 1810
+# text = else good be Everything should .
+
+# sent_id = 1811
+# text = in not all However cases .
+
+# sent_id = 1812
+# text = It company to company varie$ .
+
+# sent_id = 1813
+# text = him You got only yesterday .
+
+# sent_id = 1814
+# text = Fujairah in to Things do ..
+
+# sent_id = 1815
+# text = when Dubai in Fujairah Visited .
+
+# sent_id = 1816
+# text = PSP or . DS Or N even -
+
+# sent_id = 1817
+# text = comfyy soo Joys XBOX are .....
+
+# sent_id = 1818
+# text = the =) key Patience is .
+
+# sent_id = 1819
+# text = he you teething 's think Do ?
+
+# sent_id = 1820
+# text = getting It of 's hand out .
+
+# sent_id = 1821
+# text = i try did No n't worries . ,
+
+# sent_id = 1822
+# text = better Which cage rat is ?
+
+# sent_id = 1823
+# text = The Grill Club & Breakfast
+
+# sent_id = 1824
+# text = to Go a tournament sumo .
+
+# sent_id = 1825
+# text = alright is m16 modern . ) 1
+
+# sent_id = 1826
+# text = No 3 burst one uses .
+
+# sent_id = 1827
+# text = Have Zealand in New fun ! !
+
+# sent_id = 1828
+# text = Then other add mate the .
+
+# sent_id = 1829
+# text = listlessness and . bad breath Vomiting , ,
+
+# sent_id = 1830
+# text = mark The change pass could .
+
+# sent_id = 1831
+# text = Stay honey Can . Gold Nothing , " "
+
+# sent_id = 1832
+# text = Renaissance is High What Italian ?
+
+# sent_id = 1833
+# text = me That failed tactic never .
+
+# sent_id = 1834
+# text = the and ring brack Barn .
+
+# sent_id = 1835
+# text = day christmas for cake christmas .
+
+# sent_id = 1836
+# text = watching T.V. enjoy dogs Do ?
+
+# sent_id = 1837
+# text = they have Do anywhere this ?
+
+# sent_id = 1838
+# text = basically american was . The Mission latin -
+
+# sent_id = 1839
+# text = not work did brass melting ?
+
+# sent_id = 1840
+# text = I wrong doing am what
+
+# sent_id = 1841
+# text = Play card the . sympathy . 4
+
+# sent_id = 1842
+# text = move to to Toronto Looking ?
+
+# sent_id = 1843
+# text = be clear about Lets this ...........
+
+# sent_id = 1844
+# text = this prevent How to ?
+
+# sent_id = 1845
+# text = here the is key Patience .
+
+# sent_id = 1846
+# text = Never of train fear out .
+
+# sent_id = 1847
+# text = your Good puppy luck with !
+
+# sent_id = 1848
+# text = quite small are ones Those .
+
+# sent_id = 1849
+# text = I know do In n't Varanasi .
+
+# sent_id = 1850
+# text = there many were hotels There .
+
+# sent_id = 1851
+# text = enjoy your Good time luck ! ,
+
+# sent_id = 1852
+# text = it bagh is karol in .
+
+# sent_id = 1853
+# text = yourself of take care Then .
+
+# sent_id = 1854
+# text = Caribbean Royal or cruise Carnival ?
+
+# sent_id = 1855
+# text = their Look website on rssc.com
+
+# sent_id = 1856
+# text = you traveled Have before every ?
+
+# sent_id = 1857
+# text = than More a centre tourist .
+
+# sent_id = 1858
+# text = him in put back then .
+
+# sent_id = 1859
+# text = not the shut door Do .
+
+# sent_id = 1860
+# text = Oh you . are confused if ,
+
+# sent_id = 1861
+# text = you I help ca n't really .
+
+# sent_id = 1862
+# text = No or abnormal anything pancreatitis .
+
+# sent_id = 1863
+# text = these and antibiotics help will ?
+
+# sent_id = 1864
+# text = you the Thank help for .
+
+# sent_id = 1865
+# text = they do Did any rays x ? -
+
+# sent_id = 1866
+# text = you I 're like answer really .
+
+# sent_id = 1867
+# text = this small hibernate babies do ?
+
+# sent_id = 1868
+# text = too how is rough rough ?
+
+# sent_id = 1869
+# text = they or fighting actually were ?
+
+# sent_id = 1870
+# text = they fighting are means That .
+
+# sent_id = 1871
+# text = NOT The fall government did .
+
+# sent_id = 1872
+# text = the And Vietnamese South people ?
+
+# sent_id = 1873
+# text = THE TO SOUTH GOVERNMENT VIETNAMESE . …
+
+# sent_id = 1874
+# text = you your Thank time for .
+
+# sent_id = 1875
+# text = them whole loves family The .
+
+# sent_id = 1876
+# text = not two get females Do .
+
+# sent_id = 1877
+# text = there And ’s the then rain .
+
+# sent_id = 1878
+# text = Golden KilliFish Help Wonder Breeding ?
+
+# sent_id = 1879
+# text = already your spawning lineatus are .
+
+# sent_id = 1880
+# text = too those Get ASAP out .
+
+# sent_id = 1881
+# text = I a get balcony Should ?
+
+# sent_id = 1882
+# text = the best option What is ?
+
+# sent_id = 1883
+# text = also other are amnesties There .
+
+# sent_id = 1884
+# text = be great would time Any .
+
+# sent_id = 1885
+# text = I here posting 'm 's why That !
+
+# sent_id = 1886
+# text = ago But was Years That .
+
+# sent_id = 1887
+# text = it Dealt with EPM Anyone ? ,
+
+# sent_id = 1888
+# text = it I do should Think ?
+
+# sent_id = 1889
+# text = always it like Was this ?
+
+# sent_id = 1890
+# text = he He doing s what knows .
+
+# sent_id = 1891
+# text = the and pool BBQ Loved .
+
+# sent_id = 1892
+# text = Tours for Star Thanks Bright .
+
+# sent_id = 1893
+# text = good and taste Price is .
+
+# sent_id = 1894
+# text = efficient & quick PAT testing
+
+# sent_id = 1895
+# text = efficient and quick Fantastic service . ,
+
+# sent_id = 1896
+# text = excellent Excellent service bagels and !
+
+# sent_id = 1897
+# text = They and are fast friendly .
+
+# sent_id = 1898
+# text = BEST Squeege is Mr. THE .
+
+# sent_id = 1899
+# text = Tints Window Sport Rover Range
+
+# sent_id = 1900
+# text = in the The area best !
+
+# sent_id = 1901
+# text = Tots Good Forest job Lake ! ,
+
+# sent_id = 1902
+# text = so great is place This !
+
+# sent_id = 1903
+# text = by one the reviews star Baffled -
+
+# sent_id = 1904
+# text = Sstaff on Unfriendly Weekends Slowest ,
+
+# sent_id = 1905
+# text = here terrible is internet The .
+
+# sent_id = 1906
+# text = very But is service poor .
+
+# sent_id = 1907
+# text = very of bad Attitude staff .
+
+# sent_id = 1908
+# text = even wrong gives dish Sometimes .
+
+# sent_id = 1909
+# text = so stupid is Line up .
+
+# sent_id = 1910
+# text = you if line Even up .
+
+# sent_id = 1911
+# text = absolutely superb is Food here .
+
+# sent_id = 1912
+# text = The in Best Town Deals
+
+# sent_id = 1913
+# text = The is FREE followup visit ! !
+
+# sent_id = 1914
+# text = It & 's dirty dingy dark . ,
+
+# sent_id = 1915
+# text = RIP Hams Friendly on ...
+
+# sent_id = 1916
+# text = Harbor In Boothbay Best Store
+
+# sent_id = 1917
+# text = Great Lighting place Antique for !
+
+# sent_id = 1918
+# text = absolutely professional were guys These .
+
+# sent_id = 1919
+# text = I the had enchiladas morelias .
+
+# sent_id = 1920
+# text = I recommend do this n't place .
+
+# sent_id = 1921
+# text = Service with Great Small Firm
+
+# sent_id = 1922
+# text = a is good this place
+
+# sent_id = 1923
+# text = A TIMES COUPLE ATE HERE .
+
+# sent_id = 1924
+# text = you Even are expensive though .
+
+# sent_id = 1925
+# text = else somewhere not go . If ,
+
+# sent_id = 1926
+# text = Reasonable and Service Prices Excellent
+
+# sent_id = 1927
+# text = Spot AMAZING Party NIGHT- Great ! !
+
+# sent_id = 1928
+# text = fantastic Excellent staff wait food ,
+
+# sent_id = 1929
+# text = HERE GO DO EVER NOT .
+
+# sent_id = 1930
+# text = you thank go here NOT DO ..
+
+# sent_id = 1931
+# text = The ! worst King restaurant Burger ! !
+
+# sent_id = 1932
+# text = Dave offer to much has .
+
+# sent_id = 1933
+# text = We new love roof our !
+
+# sent_id = 1934
+# text = perfect Their service customer was !
+
+# sent_id = 1935
+# text = Crepes you UP Roll Thank !
+
+# sent_id = 1936
+# text = The GREAT center fitness was !
+
+# sent_id = 1937
+# text = I living LOVED there absolutely .
+
+# sent_id = 1938
+# text = PLACE THE IS BEST THIS .
+
+# sent_id = 1939
+# text = EXCELLENT AND SERVICE FOOD NICE . ,
+
+# sent_id = 1940
+# text = Another in Italian Collingswood restaurant ?
+
+# sent_id = 1941
+# text = we another need one Do ?
+
+# sent_id = 1942
+# text = A very new satisfied customer !
+
+# sent_id = 1943
+# text = Favorite at My Wildwood place
+
+# sent_id = 1944
+# text = it 5 rated stars I .
+
+# sent_id = 1945
+# text = Best in Dealer TX Car
+
+# sent_id = 1946
+# text = They huge have inventory a .
+
+# sent_id = 1947
+# text = ago 4 was years That .
+
+# sent_id = 1948
+# text = Year of Dealer the Hino
+
+# sent_id = 1949
+# text = sales duty medium leader Market . ,
+
+# sent_id = 1950
+# text = Bronze metro excellence service award . ,
+
+# sent_id = 1951
+# text = metro excellence parts award Gold . ,
+
+# sent_id = 1952
+# text = the all Top way notch ! ,
+
+# sent_id = 1953
+# text = He your exceed expectations will !
+
+# sent_id = 1954
+# text = so is great not Trek
+
+# sent_id = 1955
+# text = from ! this Stay dealership away ! !
+
+# sent_id = 1956
+# text = a is Off This Rip place -
+
+# sent_id = 1957
+# text = you I thank ca enough n't .
+
+# sent_id = 1958
+# text = online first Schedule appointment your !
+
+# sent_id = 1959
+# text = I Experienced 've Service Ever Worst
+
+# sent_id = 1960
+# text = I again go would there n't .
+
+# sent_id = 1961
+# text = all on levels Alto delivers .
+
+# sent_id = 1962
+# text = AWESOME are ! The people maintenance ! ! !
+
+# sent_id = 1963
+# text = I be hope back to !
+
+# sent_id = 1964
+# text = Mechaincs my Restored faith in .
+
+# sent_id = 1965
+# text = She great did job a !
+
+# sent_id = 1966
+# text = Plantation Tree Mountain Thanks Tussey !
+
+# sent_id = 1967
+# text = her I recommend would highly !
+
+# sent_id = 1968
+# text = Shady is Dr. a . jerk " "
+
+# sent_id = 1969
+# text = You lost have mine just .
+
+# sent_id = 1970
+# text = We left have then should .
+
+# sent_id = 1971
+# text = very helpful very / professional
+
+# sent_id = 1972
+# text = Love at my Creekside home
+
+# sent_id = 1973
+# text = Mann killed Dr. our pet
+
+# sent_id = 1974
+# text = the places worst of One
+
+# sent_id = 1975
+# text = Centre excellent is training New
+
+# sent_id = 1976
+# text = large for group Wonderful service
+
+# sent_id = 1977
+# text = I going am back definitely
+
+# sent_id = 1978
+# text = too One was night much .
+
+# sent_id = 1979
+# text = Store and Daily Needs Grocery
+
+# sent_id = 1980
+# text = back ! go wait n't to ! Ca !
+
+# sent_id = 1981
+# text = it He warm did up .
+
+# sent_id = 1982
+# text = Limited Service Results Good -
+
+# sent_id = 1983
+# text = excellent and clean Friendly location ,
+
+# sent_id = 1984
+# text = really stellar is location The !
+
+# sent_id = 1985
+# text = were the These guys best .
+
+# sent_id = 1986
+# text = better Roadhouse is Texas WAY ! !
+
+# sent_id = 1987
+# text = It ingrown was toenail an .
+
+# sent_id = 1988
+# text = I their appreciate honesty also .
+
+# sent_id = 1989
+# text = you Grimy do guys work .
+
+# sent_id = 1990
+# text = Bethesda in Stationery Best store
+
+# sent_id = 1991
+# text = for out your Watch wallet
+
+# sent_id = 1992
+# text = Watch your out wallet for !
+
+# sent_id = 1993
+# text = It the is largest also .
+
+# sent_id = 1994
+# text = awesome And breakfast is ! their !
+
+# sent_id = 1995
+# text = I a am student college .
+
+# sent_id = 1996
+# text = is 2010 the Genesis grrrrrrrreeeaaat !
+
+# sent_id = 1997
+# text = untrained and workers switch Bait ,
+
+# sent_id = 1998
+# text = So $ to 260 ? $ from 55
+
+# sent_id = 1999
+# text = I at 'm the a HH regular .
+
+# sent_id = 2000
+# text = it It 's not just worth .
+
+# sent_id = 2001
+# text = n't or Expect Courtesy Do Sleep
+
+# sent_id = 2002
+# text = I a ordered slice So .
+
+# sent_id = 2003
+# text = I for guess Sorry interrupting .
+
+# sent_id = 2004
+# text = IT GOOD HAS PRICES VERY .
+
+# sent_id = 2005
+# text = they caught were s how That .
+
+# sent_id = 2006
+# text = usually quiet was apartment My .
+
+# sent_id = 2007
+# text = It an having SUV sucked .
+
+# sent_id = 2008
+# text = THIS 100 TRUE STORY % IS .
+
+# sent_id = 2009
+# text = in was this Wish Saratoga--
+
+# sent_id = 2010
+# text = not go wait to gain Can .
+
+# sent_id = 2011
+# text = honest Great establishment work and !
+
+# sent_id = 2012
+# text = though awful was experience My .
+
+# sent_id = 2013
+# text = Nope of . the none above ,
+
+# sent_id = 2014
+# text = not this use company Do !
+
+# sent_id = 2015
+# text = NOT THIS USE COMPANY DO .
+
+# sent_id = 2016
+# text = Hell from Experience The Salon
+
+# sent_id = 2017
+# text = I go will back never .
+
+# sent_id = 2018
+# text = Well was . that one strike ,
+
+# sent_id = 2019
+# text = sporadic sketchy times delivery Bit ,
+
+# sent_id = 2020
+# text = us He contacted once never .
+
+# sent_id = 2021
+# text = the was history rest ! .......
+
+# sent_id = 2022
+# text = your town dominos Call in .
+
+# sent_id = 2023
+# text = later and no earlier No .
+
+# sent_id = 2024
+# text = I . know do By n't whom , (
+
+# sent_id = 2025
+# text = I anyone saw there never .
+
+# sent_id = 2026
+# text = of What a TIME waste .
+
+# sent_id = 2027
+# text = It defanged be to continue should .
+
+# sent_id = 2028
+# text = He name could the not others .
+
+# sent_id = 2029
+# text = for Click source here ) . (
+
+# sent_id = 2030
+# text = learn to the Read facts on .
+
+# sent_id = 2031
+# text = That him his got daddy in ?
+
+# sent_id = 2032
+# text = Bush 1970 earned - in 1969 points 340 .
+
+# sent_id = 2033
+# text = He 1971 earned - in 1970 points 137 .
+
+# sent_id = 2034
+# text = I At hid a first lot . " (
+
+# sent_id = 2035
+# text = I a hide less Now lot ) " .
+
+# sent_id = 2036
+# text = Philippines ) Nichols Ask Terry about . the (
+
+# sent_id = 2037
+# text = Posada But up given be will ?
+
+# sent_id = 2038
+# text = an is more Meiring embarrassment than .
+
+# sent_id = 2039
+# text = So remain unspoken will name his .
+
+# sent_id = 2040
+# text = It much dating covers stuff pretty .
+
+# sent_id = 2041
+# text = I back come be to sure 'll .
+
+# sent_id = 2042
+# text = just Hey your I blog love .
+
+# sent_id = 2043
+# text = I dating deals with mostly advice
+
+# sent_id = 2044
+# text = only is one That problem temper .
+
+# sent_id = 2045
+# text = Worker Campaign GROOM BABA : Ms. Former ) (
+
+# sent_id = 2046
+# text = he But melded everybody just with .
+
+# sent_id = 2047
+# text = The Robinson opener 's letter weapon murder : ,
+
+# sent_id = 2048
+# text = the and tools prosecutors Police have .
+
+# sent_id = 2049
+# text = simply here go amazing just its ,
+
+# sent_id = 2050
+# text = i 14 count headlines explosive like .
+
+# sent_id = 2051
+# text = the Also family look kingston up .
+
+# sent_id = 2052
+# text = we And get 'll to around that .
+
+# sent_id = 2053
+# text = there in put some So information . ...
+
+# sent_id = 2054
+# text = even why their credit claims So ?
+
+# sent_id = 2055
+# text = the and valid Is distinction accurate ?
+
+# sent_id = 2056
+# text = I :) think " therefore I , am "
+
+# sent_id = 2057
+# text = behind murders the suicide What is ?
+
+# sent_id = 2058
+# text = it Russia understand to beginning is .
+
+# sent_id = 2059
+# text = it we do can What about ?
+
+# sent_id = 2060
+# text = to . all surrender terror never Above ,
+
+# sent_id = 2061
+# text = it But matter not really does .
+
+# sent_id = 2062
+# text = a Amerithrax confidential is investigation Understandably . ,
+
+# sent_id = 2063
+# text = Aafia the 's house reached uncle never .
+
+# sent_id = 2064
+# text = is " the Pilot His Jafar nickname . "
+
+# sent_id = 2065
+# text = of responsibility no was claim There .
+
+# sent_id = 2066
+# text = them sons treated like reportedly He .
+
+# sent_id = 2067
+# text = we already have current Brazil data
+
+# sent_id = 2068
+# text = we already have current China data
+
+# sent_id = 2069
+# text = on you that drive day Will ?
+
+# sent_id = 2070
+# text = work primarily coordinator administrative 's Admin do .
+
+# sent_id = 2071
+# text = for paperwork the putting Thanks together .
+
+# sent_id = 2072
+# text = Please me for look that into .
+
+# sent_id = 2073
+# text = already thursday have plans on .
+
+# sent_id = 2074
+# text = god oh an is agenda there .
+
+# sent_id = 2075
+# text = already thursday have plans on .
+
+# sent_id = 2076
+# text = god oh an is agenda there .
+
+# sent_id = 2077
+# text = Suarez Happy John WHAT Hour for :
+
+# sent_id = 2078
+# text = NOT sponsored is an This Enron event . -
+
+# sent_id = 2079
+# text = Please me know let morning Monday .
+
+# sent_id = 2080
+# text = x35172 Tax Corporate Lee EB1774 Patty
+
+# sent_id = 2081
+# text = LLC Operations 18 Indonesia T EI -
+
+# sent_id = 2082
+# text = LLC 86 Works Net Enron M -
+
+# sent_id = 2083
+# text = Inc. , Acquisition Broadband Enron - 80Y
+
+# sent_id = 2084
+# text = It 4 be . easy should -
+
+# sent_id = 2085
+# text = of Broke the out activities 1179 .
+
+# sent_id = 2086
+# text = of Broke the out activities 1307 .
+
+# sent_id = 2087
+# text = Please me know let morning Monday .
+
+# sent_id = 2088
+# text = x35172 Tax Corporate Lee EB1774 Patty
+
+# sent_id = 2089
+# text = delivered They this be week should .
+
+# sent_id = 2090
+# text = I several am artists interested in .
+
+# sent_id = 2091
+# text = on paper any - works Suerat ? (
+
+# sent_id = 2092
+# text = post or impressionist impressionist Other lithos
+
+# sent_id = 2093
+# text = the Jeff intial is draft here . ,
+
+# sent_id = 2094
+# text = Expect tonight a from call Paul .
+
+# sent_id = 2095
+# text = some are questions good interview What ?
+
+# sent_id = 2096
+# text = I about forget the n't $ wo .
+
+# sent_id = 2097
+# text = n't and wait Co. make Peters Do .
+
+# sent_id = 2098
+# text = letter and cover attached resume Find .
+
+# sent_id = 2099
+# text = he incorrectly anyting spel n't Hopefully did .
+
+# sent_id = 2100
+# text = I attend be to able will .
+
+# sent_id = 2101
+# text = She mid has big some presentation January . -
+
+# sent_id = 2102
+# text = we set Should a now date ?
+
+# sent_id = 2103
+# text = with me this sharing Thanks for .
+
+# sent_id = 2104
+# text = I I offended apologize anyone if .
+
+# sent_id = 2105
+# text = to Kaufman Paul Ass't Akin Lysa .
+
+# sent_id = 2106
+# text = File > : > ENRON.XLS < ENRON.XLS < -
+
+# sent_id = 2107
+# text = File > : > enrongss.xls < < - enrongss.xls
+
+# sent_id = 2108
+# text = File > : > ENRON.XLS < ENRON.XLS < -
+
+# sent_id = 2109
+# text = File > : > enrongss.xls < < - enrongss.xls
+
+# sent_id = 2110
+# text = File > : > ENRON.XLS < ENRON.XLS < -
+
+# sent_id = 2111
+# text = File > : > enrongss.xls < < - enrongss.xls
+
+# sent_id = 2112
+# text = it She getting is better said .
+
+# sent_id = 2113
+# text = She too was here down just .
+
+# sent_id = 2114
+# text = I n't find until out Monday wo .
+
+# sent_id = 2115
+# text = we drinking go too Maybe can .
+
+# sent_id = 2116
+# text = Motors General CEO Welch , Jack 10 , .
+
+# sent_id = 2117
+# text = Microsystems Sun CEO , McNeally , Scott . 9
+
+# sent_id = 2118
+# text = Bush George President . U.S. Former 3
+
+# sent_id = 2119
+# text = Bush W. George Governor Texas . 1
+
+# sent_id = 2120
+# text = all you your Thank participation for .
+
+# sent_id = 2121
+# text = we on do another Can day
+
+# sent_id = 2122
+# text = The 20 gross exposure mill reflects .
+
+# sent_id = 2123
+# text = We your look response forward to .
+
+# sent_id = 2124
+# text = I expectations manage client accordingly will .
+
+# sent_id = 2125
+# text = I expectations manage client accordingly will .
+
+# sent_id = 2126
+# text = the 2001 22nd date , , March Thursday :
+
+# sent_id = 2127
+# text = I expectations manage client accordingly will .
+
+# sent_id = 2128
+# text = the 2001 22nd date , , March Thursday :
+
+# sent_id = 2129
+# text = an He excellent joining company is .
+
+# sent_id = 2130
+# text = She 11/03 be 20 will on .
+
+# sent_id = 2131
+# text = her I am of really proud .
+
+# sent_id = 2132
+# text = you 2 need things I from .
+
+# sent_id = 2133
+# text = IF Subject Z1 Re LA TGPL : :
+
+# sent_id = 2134
+# text = you me think know what Let .
+
+# sent_id = 2135
+# text = I 'm is If happy Jeff happy . ,
+
+# sent_id = 2136
+# text = you me think know what Let .
+
+# sent_id = 2137
+# text = I 'm is If happy Jeff happy . ,
+
+# sent_id = 2138
+# text = you me think know what Let .
+
+# sent_id = 2139
+# text = I XMAS made 've my already plans .
+
+# sent_id = 2140
+# text = Engineer Solutions Technical Jones Kyle Harrison ) (
+
+# sent_id = 2141
+# text = See http://www.radianz.com our page web at "
+
+# sent_id = 2142
+# text = 's Thinking about your that title what ? ,
+
+# sent_id = 2143
+# text = No it . mean does not that ,
+
+# sent_id = 2144
+# text = Anyway today . of meetings fun lots ,
+
+# sent_id = 2145
+# text = you know like to Thought might .
+
+# sent_id = 2146
+# text = Tropez St. Sept. - Sun 24 .
+
+# sent_id = 2147
+# text = Tropez St. Sept. - Mon 25 .
+
+# sent_id = 2148
+# text = it I take will care of .
+
+# sent_id = 2149
+# text = a bit your up sound Turn .
+
+# sent_id = 2150
+# text = the and kind best All regards
+
+# sent_id = 2151
+# text = a bit your up sound Turn .
+
+# sent_id = 2152
+# text = Thanks you . are I busy know ,
+
+# sent_id = 2153
+# text = I Room booked Videoconference # 've 1 .
+
+# sent_id = 2154
+# text = with Please any me questions contact .
+
+# sent_id = 2155
+# text = Yes . participate I to like would ,
+
+# sent_id = 2156
+# text = I is hope the clear above .
+
+# sent_id = 2157
+# text = to I Bowen communicated Bob that .
+
+# sent_id = 2158
+# text = full of accounts A intercompany reconciliation
+
+# sent_id = 2159
+# text = asap Please your me thoughts provide .
+
+# sent_id = 2160
+# text = Please two approve of purchase the .
+
+# sent_id = 2161
+# text = Please two approve of purchase the .
+
+# sent_id = 2162
+# text = it If handle I so will . ,
+
+# sent_id = 2163
+# text = a We formal need plan do .
+
+# sent_id = 2164
+# text = I do need to What do ?
+
+# sent_id = 2165
+# text = a looks good like candidate Rick .
+
+# sent_id = 2166
+# text = for approval the See steps below .
+
+# sent_id = 2167
+# text = Phy Plate Rolled Hot Steel US
+
+# sent_id = 2168
+# text = for click the on EnronOnLine + " "
+
+# sent_id = 2169
+# text = appreciate Bill your help Thanks ! -
+
+# sent_id = 2170
+# text = me you cover Can today for ?
+
+# sent_id = 2171
+# text = an shows session My afternoon schedule .
+
+# sent_id = 2172
+# text = we 2 have today sessions Do ?
+
+# sent_id = 2173
+# text = we After do that do what ? ,
+
+# sent_id = 2174
+# text = on up this following Thanks for .
+
+# sent_id = 2175
+# text = please for print these me all .
+
+# sent_id = 2176
+# text = not trading settled . still Sara is ,
+
+# sent_id = 2177
+# text = you living are these Where days ?
+
+# sent_id = 2178
+# text = back get to to work Got !
+
+# sent_id = 2179
+# text = me you send Could set a ?
+
+# sent_id = 2180
+# text = me you send Could set a ?
+
+# sent_id = 2181
+# text = in 800.713.8600 The number call is .
+
+# sent_id = 2182
+# text = in 800.713.8600 The number call is .
+
+# sent_id = 2183
+# text = a be wild to ride Going .
+
+# sent_id = 2184
+# text = Wood And Carl extreme 's remarks were .
+
+# sent_id = 2185
+# text = the joined wagon gouging . band Bilbray " "
+
+# sent_id = 2186
+# text = for comments the much Thanks very .
+
+# sent_id = 2187
+# text = interviews follows as scheduled Campus are :
+
+# sent_id = 2188
+# text = Two Day One Interviews Interviews Day
+
+# sent_id = 2189
+# text = Where at On Pen Inn Campus :
+
+# sent_id = 2190
+# text = I I missed realized then Which .
+
+# sent_id = 2191
+# text = cooperation your for advance Thanks in .
+
+# sent_id = 2192
+# text = Not for single a cargo bad .
+
+# sent_id = 2193
+# text = Marianne The : my are comments following :
+
+# sent_id = 2194
+# text = I granting add also language will perfection / .
+
+# sent_id = 2195
+# text = we 9:30 playing tomorrow Are at ?
+
+# sent_id = 2196
+# text = 12:01 Clair 05/25/2001 St PM Carol
+
+# sent_id = 2197
+# text = 10:56 Clair 05/25/2001 St AM Carol
+
+# sent_id = 2198
+# text = 1 is date Our in service May . -
+
+# sent_id = 2199
+# text = $ ticket 1,183 per price Ticket was .
+
+# sent_id = 2200
+# text = Judy and Paul are board on .
+
+# sent_id = 2201
+# text = us and join you Tom Can ?
+
+# sent_id = 2202
+# text = the you comfortable Are difference with ?
+
+# sent_id = 2203
+# text = I wondering was No just hurry . ,
+
+# sent_id = 2204
+# text = Sorry for sending this not yesterday .
+
+# sent_id = 2205
+# text = Not of usual the operations mode .
+
+# sent_id = 2206
+# text = 1 is date Our in service May . -
+
+# sent_id = 2207
+# text = it He mention did about n't anything .
+
+# sent_id = 2208
+# text = for your this morning help Thanks .
+
+# sent_id = 2209
+# text = Specialist Viral Holistic Herbalist Homeopath Scipio / Christopher
+
+# sent_id = 2210
+# text = It longevity is company just not .
+
+# sent_id = 2211
+# text = call Here the are numbers to :
+
+# sent_id = 2212
+# text = Time 8:00 Eastern Standard PM TIME :
+
+# sent_id = 2213
+# text = especially is good for women Kaoshikii .
+
+# sent_id = 2214
+# text = Makes easy at childbirth delivery for .
+
+# sent_id = 2215
+# text = The and sharp becomes mind strong .
+
+# sent_id = 2216
+# text = menstruation cured in be Irregularities will .
+
+# sent_id = 2217
+# text = It for is Francisco short San .
+
+# sent_id = 2218
+# text = Laboratory It REsearch stands COwpland for .
+
+# sent_id = 2219
+# text = already 100 is functional The % game .
+
+# sent_id = 2220
+# text = we It got 's together time about .
+
+# sent_id = 2221
+# text = US victims to storm save battles
+
+# sent_id = 2222
+# text = 18:32 PDT 2004 Oct 25 Posted :
+
+# sent_id = 2223
+# text = PST 17:32 Nov 2004 Expires 24 :
+
+# sent_id = 2224
+# text = IS ! Re WASTE A NASA Subject : :
+
+# sent_id = 2225
+# text = IS ! Re WASTE A NASA Subject : :
+
+# sent_id = 2226
+# text = some me additional add info Let .
+
+# sent_id = 2227
+# text = helpful as technique a beginning Visualizations
+
+# sent_id = 2228
+# text = deeply and breathe Continue slowly to .
+
+# sent_id = 2229
+# text = you vast is Everything so around .
+
+# sent_id = 2230
+# text = limp and loose are muscles Your .
+
+# sent_id = 2231
+# text = that OK basic is :) fairly .
+
+# sent_id = 2232
+# text = a He high has intellect very .
+
+# sent_id = 2233
+# text = They in are any not hurry . "
+
+# sent_id = 2234
+# text = about I serious doing something am .
+
+# sent_id = 2235
+# text = Here of 's the the email text :
+
+# sent_id = 2236
+# text = it . works I is say All ,
+
+# sent_id = 2237
+# text = carefully ! Read entire this message Suggestion ! :
+
+# sent_id = 2238
+# text = it ) download or out it Print (
+
+# sent_id = 2239
+# text = are ecosystems critical to wildland Plants " .
+
+# sent_id = 2240
+# text = England In . the earlier cuckoo returns ,
+
+# sent_id = 2241
+# text = the changed US How Katrina has ?
+
+# sent_id = 2242
+# text = the changed US How Katrina has ?
+
+# sent_id = 2243
+# text = The be hectic will ones active !
+
+# sent_id = 2244
+# text = you ! be will soon not If ,
+
+# sent_id = 2245
+# text = Monday 1528 April 6 , DURER dies :
+
+# sent_id = 2246
+# text = Sunday 1483 April 6 , RAPHAEL born :
+
+# sent_id = 2247
+# text = Wednesday 1580 April 6 Kent EARTHQUAKE , :
+
+# sent_id = 2248
+# text = the Seaboard of Tale A Nostromo
+
+# sent_id = 2249
+# text = us . went But with everything wrong "
+
+# sent_id = 2250
+# text = Looming Folly A on Attack Iran :
+
+# sent_id = 2251
+# text = the   Economy US . China and 4
+
+# sent_id = 2252
+# text = Korea billion South $ holds 200 about .
+
+# sent_id = 2253
+# text = of Is This Any Possible Conclusion ? :
+
+# sent_id = 2254
+# text = of a this Is probability any ?
+
+# sent_id = 2255
+# text = special And his Bush friend George
+
+# sent_id = 2256
+# text = in in Surrey Woking Wood Merrist .
+
+# sent_id = 2257
+# text = you recovery using tried clockwork Have ?
+
+# sent_id = 2258
+# text = DIGITAL new X940 my CAMERA OLYMPUS ? ...
+
+# sent_id = 2259
+# text = it with has experience how ur ?
+
+# sent_id = 2260
+# text = no . knowing exact Without poison the ,
+
+# sent_id = 2261
+# text = She and loves homemade things giraffes !
+
+# sent_id = 2262
+# text = We our took camping Mitten cat .
+
+# sent_id = 2263
+# text = of you any not Its lol
+
+# sent_id = 2264
+# text = are strong that pullers horses For .
+
+# sent_id = 2265
+# text = hey me u smile made kido
+
+# sent_id = 2266
+# text = Paris things Plaster of does two
+
+# sent_id = 2267
+# text = Wheel Spinner Super Silent Exercise Pet
+
+# sent_id = 2268
+# text = PETSMART 12.99 to $ Our 10.99 Price ! :
+
+# sent_id = 2269
+# text = so office better in railway inquire
+
+# sent_id = 2270
+# text = for be expensive will Hotels travelling .
+
+# sent_id = 2271
+# text = the relating Japanese is Mayko to .
+
+# sent_id = 2272
+# text = a She Canadian born Vietnamese is .
+
+# sent_id = 2273
+# text = for advice the in advance Thanks .
+
+# sent_id = 2274
+# text = you I get hope answer your .
+
+# sent_id = 2275
+# text = Anyway ! have first a anniversary lovely ,
+
+# sent_id = 2276
+# text = as they a drink lot can .
+
+# sent_id = 2277
+# text = from Buy the a driver ticket .
+
+# sent_id = 2278
+# text = B&W good Photography software 's What are ?
+
+# sent_id = 2279
+# text = pretty and good is Picasa free .
+
+# sent_id = 2280
+# text = it I must away through .
+
+# sent_id = 2281
+# text = back or your you feed Thank .
+
+# sent_id = 2282
+# text = a Wishing happy your birthday husband !
+
+# sent_id = 2283
+# text = gosh they my are Oh great ! ,
+
+# sent_id = 2284
+# text = the is good Make temperature sure .
+
+# sent_id = 2285
+# text = I learn like would to how
+
+# sent_id = 2286
+# text = They . cost will a however bunch , ,
+
+# sent_id = 2287
+# text = He and 's still probably unsure scared .
+
+# sent_id = 2288
+# text = there Are new any console Gaming ?
+
+# sent_id = 2289
+# text = for ) PSP and DS Same N - (
+
+# sent_id = 2290
+# text = old 18 My years cat is .
+
+# sent_id = 2291
+# text = after 12 a bonus Anything is .
+
+# sent_id = 2292
+# text = my and trust loosing ? 's cockatiel Gaining ...
+
+# sent_id = 2293
+# text = he But be again then could !
+
+# sent_id = 2294
+# text = replica miniature/ model horse Breyer ,
+
+# sent_id = 2295
+# text = me to seems That though cruel .
+
+# sent_id = 2296
+# text = for is This better rats one .
+
+# sent_id = 2297
+# text = some IMO better are options Here :
+
+# sent_id = 2298
+# text = The much Better Is One First !
+
+# sent_id = 2299
+# text = your and opinons suggestions what are ?
+
+# sent_id = 2300
+# text = though in be a n't hurry Do .
+
+# sent_id = 2301
+# text = too They French have toast fabulous .
+
+# sent_id = 2302
+# text = Eat restaurant at sushi a belt conveyor . -
+
+# sent_id = 2303
+# text = very not 's big a city Naha .
+
+# sent_id = 2304
+# text = m16 version Modern vs m16 Vietnam ?
+
+# sent_id = 2305
+# text = you too play much P cod ;
+
+# sent_id = 2306
+# text = i need do What horse size ?
+
+# sent_id = 2307
+# text = in Iguazu the is world Where ?
+
+# sent_id = 2308
+# text = while or England aboard Paris studying ?
+
+# sent_id = 2309
+# text = However is wonderful outside everybody Paris . ,
+
+# sent_id = 2310
+# text = I 8 lived months there for .
+
+# sent_id = 2311
+# text = ’s now get Let with over this …
+
+# sent_id = 2312
+# text = a you compatible need pair First .
+
+# sent_id = 2313
+# text = be 7 should - The 6.5 H p .
+
+# sent_id = 2314
+# text = i 63 apply points Can with ?
+
+# sent_id = 2315
+# text = they there posted is Here what
+
+# sent_id = 2316
+# text = ahead your send application Go . in ,
+
+# sent_id = 2317
+# text = Toes five . Five toes Silkies have :
+
+# sent_id = 2318
+# text = I like do the though shadow . ,
+
+# sent_id = 2319
+# text = in But the really countryside only .
+
+# sent_id = 2320
+# text = Like you the pick destinations can ?
+
+# sent_id = 2321
+# text = together and live chickens rabbits Can ?
+
+# sent_id = 2322
+# text = I both echo other just answers 'll .
+
+# sent_id = 2323
+# text = them on Lay some dude knowledge .
+
+# sent_id = 2324
+# text = points Best receive answer shall :)
+
+# sent_id = 2325
+# text = yet n't pack do your So bags . ,
+
+# sent_id = 2326
+# text = How my train puppy to ?
+
+# sent_id = 2327
+# text = him I training having Recently trouble 'm .
+
+# sent_id = 2328
+# text = I Guesthouse recommend Ajay 'd Delhi In .
+
+# sent_id = 2329
+# text = per start double from Rooms 500 .
+
+# sent_id = 2330
+# text = long too stay Do in nt Agra . (
+
+# sent_id = 2331
+# text = So Guinea my pigs opinion is .
+
+# sent_id = 2332
+# text = they plus stink do that nt bad ) (
+
+# sent_id = 2333
+# text = you two get females certain Make .
+
+# sent_id = 2334
+# text = I ) Have 1 before collage year ! (
+
+# sent_id = 2335
+# text = you do like to What do ?
+
+# sent_id = 2336
+# text = The of federal DC sites Washington . ,
+
+# sent_id = 2337
+# text = a you foreign speak language Do ?
+
+# sent_id = 2338
+# text = college or before 1 collage year ?
+
+# sent_id = 2339
+# text = He command do on nt anything wo .
+
+# sent_id = 2340
+# text = on training a get book Maybe .
+
+# sent_id = 2341
+# text = with I a start leash would .
+
+# sent_id = 2342
+# text = a I satisfied am customer just .
+
+# sent_id = 2343
+# text = Very and few activities night clubs .
+
+# sent_id = 2344
+# text = Cafe not Cafe is Sinh a .
+
+# sent_id = 2345
+# text = problems you with having what are ?
+
+# sent_id = 2346
+# text = Some . great be help would ...
+
+# sent_id = 2347
+# text = in order your To questions answer :
+
+# sent_id = 2348
+# text = you a gave good answer Christiane .
+
+# sent_id = 2349
+# text = I though 'm completely still Obviously stupid .
+
+# sent_id = 2350
+# text = yes I . being And melodramatic am ,
+
+# sent_id = 2351
+# text = every him few handle days i .
+
+# sent_id = 2352
+# text = him death love to just i .
+
+# sent_id = 2353
+# text = he even bite try to nt wo .
+
+# sent_id = 2354
+# text = the solved thing be territory will .
+
+# sent_id = 2355
+# text = they It gone 've far too means .
+
+# sent_id = 2356
+# text = They Americans defeat could not the .
+
+# sent_id = 2357
+# text = they much succeeded pretty In . that ,
+
+# sent_id = 2358
+# text = appreciated be Any greatly advice would .
+
+# sent_id = 2359
+# text = them 4 tamed days I in .
+
+# sent_id = 2360
+# text = them My plays parents even with .
+
+# sent_id = 2361
+# text = used I the are steps These .
+
+# sent_id = 2362
+# text = you they work will Hopefully for .
+
+# sent_id = 2363
+# text = for Do this about hour one .
+
+# sent_id = 2364
+# text = the worst Kerry is County affected .
+
+# sent_id = 2365
+# text = I 4 have Killifish Golden Wonder .
+
+# sent_id = 2366
+# text = young ones line with cruise Disney ?
+
+# sent_id = 2367
+# text = marvelously and decorated are uniquely These .
+
+# sent_id = 2368
+# text = about is This my girls farrier . ,
+
+# sent_id = 2369
+# text = It and 's business a son father .
+
+# sent_id = 2370
+# text = yes And . him I like do ,
+
+# sent_id = 2371
+# text = you He likes Sounds really like ..
+
+# sent_id = 2372
+# text = Not or your he type is ?
+
+# sent_id = 2373
+# text = owner said has the Here what 's :
+
+# sent_id = 2374
+# text = be would other My wobblers theory .
+
+# sent_id = 2375
+# text = in pain The is horse not .
+
+# sent_id = 2376
+# text = in pain The is horse not .
+
+# sent_id = 2377
+# text = it He putting 's back not on .
+
+# sent_id = 2378
+# text = it Or occurred has birth since .
+
+# sent_id = 2379
+# text = Down and fast service earth to .
+
+# sent_id = 2380
+# text = They and lasted were forever beautiful !
+
+# sent_id = 2381
+# text = a Faris great Dr. doctor is !
+
+# sent_id = 2382
+# text = him I recommend would anyone to .
+
+# sent_id = 2383
+# text = I teeth taken out wisdom needed .
+
+# sent_id = 2384
+# text = was and excellent Wallen staff Dr. .
+
+# sent_id = 2385
+# text = honest and feedback Excellent service customer .
+
+# sent_id = 2386
+# text = go of to out Needs business
+
+# sent_id = 2387
+# text = They a have minimum card credit .
+
+# sent_id = 2388
+# text = the in Chineese Best area food
+
+# sent_id = 2389
+# text = They and go above really beyond !
+
+# sent_id = 2390
+# text = not ask Can better for experience a .
+
+# sent_id = 2391
+# text = them I recommend would anyone to ..
+
+# sent_id = 2392
+# text = are and awesome Their sweets food .
+
+# sent_id = 2393
+# text = So at confused the area payment .
+
+# sent_id = 2394
+# text = really and good there prices are !
+
+# sent_id = 2395
+# text = perfectly and delicous cooked Everything is .
+
+# sent_id = 2396
+# text = The was great at service Instep ! !
+
+# sent_id = 2397
+# text = them I recommend would anyone to !
+
+# sent_id = 2398
+# text = say I bad have nothing to .
+
+# sent_id = 2399
+# text = here bring do your NOT car
+
+# sent_id = 2400
+# text = I more paying up much ended .
+
+# sent_id = 2401
+# text = n't Dentistry go Gentle Do Amelia to .
+
+# sent_id = 2402
+# text = You Like Feel a Make Number
+
+# sent_id = 2403
+# text = It an get impossible to appointment 's .
+
+# sent_id = 2404
+# text = an at Amazing Amazing Price Pictures
+
+# sent_id = 2405
+# text = her I recommend would anyone to !
+
+# sent_id = 2406
+# text = come has a long way Course ! !
+
+# sent_id = 2407
+# text = really It no was brainer a .
+
+# sent_id = 2408
+# text = even time Great near closing help !
+
+# sent_id = 2409
+# text = THEY NASTY ARE AND VERY RUDE .
+
+# sent_id = 2410
+# text = with for sure the sercvice Satisfactory !
+
+# sent_id = 2411
+# text = Chandeliers . Modern & Contemporary Vintage Antiques , ,
+
+# sent_id = 2412
+# text = Awesome Awesome service Food food Great
+
+# sent_id = 2413
+# text = the QUESO only is complaint My .
+
+# sent_id = 2414
+# text = a at good Pizza price Good
+
+# sent_id = 2415
+# text = the We only were customers there !
+
+# sent_id = 2416
+# text = the bites great Another dust business !
+
+# sent_id = 2417
+# text = really Super good nice food people ,
+
+# sent_id = 2418
+# text = inside dining pretty of people Lots . " "
+
+# sent_id = 2419
+# text = we here are in So Manson .
+
+# sent_id = 2420
+# text = it tasted Took a odd bite . ,
+
+# sent_id = 2421
+# text = I again go 'll there back never
+
+# sent_id = 2422
+# text = but Kueck professional Jana nothing was .
+
+# sent_id = 2423
+# text = me Jana feel made very comfortable .
+
+# sent_id = 2424
+# text = of art the state Equipment is .
+
+# sent_id = 2425
+# text = the is best The valet person .
+
+# sent_id = 2426
+# text = never I better had service have .
+
+# sent_id = 2427
+# text = very and helpful was Everyone pleasant .
+
+# sent_id = 2428
+# text = an I A+ give dealer this !
+
+# sent_id = 2429
+# text = Beach in Solana The Breakfast Best !
+
+# sent_id = 2430
+# text = impeccable cool style vibe Great . service , ,
+
+# sent_id = 2431
+# text = be would the Any ER same .
+
+# sent_id = 2432
+# text = him I recommend would everyone to !
+
+# sent_id = 2433
+# text = Excellent and work quality service customer .
+
+# sent_id = 2434
+# text = is and insulting Department rude Internet
+
+# sent_id = 2435
+# text = of and inexpensive Wonderful fun lots ! ,
+
+# sent_id = 2436
+# text = were and nonexistent manners Service . ) 1
+
+# sent_id = 2437
+# text = The . unorganized is business very ) 4
+
+# sent_id = 2438
+# text = The over angry priced lobster completely ! was -
+
+# sent_id = 2439
+# text = no are other like waiters The ...
+
+# sent_id = 2440
+# text = the Holly best is hairstylist truely !
+
+# sent_id = 2441
+# text = The and gracious were owners entertaining .
+
+# sent_id = 2442
+# text = I . hated this said restaurant That ,
+
+# sent_id = 2443
+# text = prideful and Shady is Dr. inexperienced .
+
+# sent_id = 2444
+# text = too salad great salad Chicken is .
+
+# sent_id = 2445
+# text = It for 's a bloody chrisssake church ! ,
+
+# sent_id = 2446
+# text = one was with that God pleased !
+
+# sent_id = 2447
+# text = I there send my n't dogs would .
+
+# sent_id = 2448
+# text = money or waste your n't time Do !
+
+# sent_id = 2449
+# text = so Mann ai Dr. n't Yea great . ,
+
+# sent_id = 2450
+# text = downhill ownership Gone in since change
+
+# sent_id = 2451
+# text = LOVE I this used place to .
+
+# sent_id = 2452
+# text = FAR AS AS STAY POSSIBLE AWAY .
+
+# sent_id = 2453
+# text = us 3 were names There before .
+
+# sent_id = 2454
+# text = show not The did instructor up !
+
+# sent_id = 2455
+# text = This is best at place marginal .
+
+# sent_id = 2456
+# text = really They their know stuff just !
+
+# sent_id = 2457
+# text = I or felt discomfort never pain .
+
+# sent_id = 2458
+# text = it possibly cost could How much ?
+
+# sent_id = 2459
+# text = with They no did problem that .
+
+# sent_id = 2460
+# text = cuban in favorite My Orlando cafe
+
+# sent_id = 2461
+# text = is and The comfortable chill place .
+
+# sent_id = 2462
+# text = very friendly clean staff Nice ! selection , ,
+
+# sent_id = 2463
+# text = Service and Customer Cakes Cookies Great , ,
+
+# sent_id = 2464
+# text = She ! deserves 5 many reviews star !
+
+# sent_id = 2465
+# text = filled Bowtie that has role nicely .
+
+# sent_id = 2466
+# text = Just and main the feature previews .
+
+# sent_id = 2467
+# text = a great Great store name for !
+
+# sent_id = 2468
+# text = These alarms type are household not .
+
+# sent_id = 2469
+# text = above . all and fair knowledgeable Friendly , ,
+
+# sent_id = 2470
+# text = The there best is service in .
+
+# sent_id = 2471
+# text = Client and Service ok base not .
+
+# sent_id = 2472
+# text = Well . be an may exception this ,
+
+# sent_id = 2473
+# text = I pretty think that there good .
+
+# sent_id = 2474
+# text = The and personable was service excellent .
+
+# sent_id = 2475
+# text = forward He my going mechanic is !
+
+# sent_id = 2476
+# text = it far gone has so How ?
+
+# sent_id = 2477
+# text = definitely but Friendly some problems staff ,
+
+# sent_id = 2478
+# text = I Had 've Ever The Worst Chinese
+
+# sent_id = 2479
+# text = I again go will here NEVER .
+
+# sent_id = 2480
+# text = the I entire cried way home .
+
+# sent_id = 2481
+# text = you lose do a How drawer .
+
+# sent_id = 2482
+# text = that completely false is comment So .
+
+# sent_id = 2483
+# text = OK 1701 . STREET i LOCUST say ,
+
+# sent_id = 2484
+# text = I south am of just Walnut .
+
+# sent_id = 2485
+# text = YES of . broad I west am ,
+
+# sent_id = 2486
+# text = I ! calling one about board WAS !
+
+# sent_id = 2487
+# text = YOU ! PAY ! FOR YOU WHAT GET !
+
+# sent_id = 2488
+# text = Breakfast 10AM is # to 4 8AM . )
+
+# sent_id = 2489
+# text = for ? this ? other fall brides Do ?
+
+# sent_id = 2490
+# text = not your waste time Seriously . do :
+
+# sent_id = 2491
+# text = it They do let do just anybody n't .
+
+# sent_id = 2492
+# text = not to is Delhi This New unknown .
+
+# sent_id = 2493
+# text = Afghanistan and India the deny claim Both .
+
+# sent_id = 2494
+# text = clearly the was pleased at results Karzai .
+
+# sent_id = 2495
+# text = Afghanistan and India the deny claim Both .
+
+# sent_id = 2496
+# text = is the the medal logic of . That )
+
+# sent_id = 2497
+# text = his youth What with doing Bush was ?
+
+# sent_id = 2498
+# text = conviction on From Robinson the SNAP statement 's :
+
+# sent_id = 2499
+# text = congress you to sent Have yet this ?
+
+# sent_id = 2500
+# text = more info deficiency for up fumarase look .
+
+# sent_id = 2501
+# text = huh another Just daisy big ? whoopsie Iraq ,
+
+# sent_id = 2502
+# text = You :) hates . a void nature know ,
+
+# sent_id = 2503
+# text = satanism ala of truth The inversion deathly . ,
+
+# sent_id = 2504
+# text = accept But to their refused parents this .
+
+# sent_id = 2505
+# text = It but 's very a worthwhile long read .
+
+# sent_id = 2506
+# text = It very is psychological a weapon potent .
+
+# sent_id = 2507
+# text = relatively minor is direct real impact Its .
+
+# sent_id = 2508
+# text = You own believe your not eyes will .
+
+# sent_id = 2509
+# text = They for provide an emotional atrocities infrastructure .
+
+# sent_id = 2510
+# text = a the Arab democratic world solution Is ?
+
+# sent_id = 2511
+# text = Hambali to cooperating some reportedly degree is .
+
+# sent_id = 2512
+# text = has Front with Moro the JI ties .
+
+# sent_id = 2513
+# text = had Qaeda in Al a mind motive .
+
+# sent_id = 2514
+# text = I now have many right commitments too .
+
+# sent_id = 2515
+# text = you Sarah regarding Mike call Anne will . ,
+
+# sent_id = 2516
+# text = 3:30 How time at about Houston Tuesday 's .
+
+# sent_id = 2517
+# text = 3:30 How time at about Houston Tuesday 's .
+
+# sent_id = 2518
+# text = Lavorato the John attached requested report has .
+
+# sent_id = 2519
+# text = you questions have at any I xif 'm .
+
+# sent_id = 2520
+# text = me for is This pretty math easy .
+
+# sent_id = 2521
+# text = Please below see my in red comments .
+
+# sent_id = 2522
+# text = currently Not of our companies list on .
+
+# sent_id = 2523
+# text = Company problem moving over about No 1691
+
+# sent_id = 2524
+# text = Please below see my in red comments .
+
+# sent_id = 2525
+# text = he I did know do that n't any )
+
+# sent_id = 2526
+# text = We when settle find things down time 'll .
+
+# sent_id = 2527
+# text = I put will our on calendars this .
+
+# sent_id = 2528
+# text = ENA 4 October am . in orientation the ,
+
+# sent_id = 2529
+# text = October time . be 26/27 to vacation hope ,
+
+# sent_id = 2530
+# text = the or more ONE questions contract Forget .
+
+# sent_id = 2531
+# text = her we get going to What are ?
+
+# sent_id = 2532
+# text = forward drinking Look few to beers a .
+
+# sent_id = 2533
+# text = Michael.McDermott@spectrongroup.com 06:00:56 McDermott 06/01/2000 Michael AM > on <
+
+# sent_id = 2534
+# text = lifeguard came with Her a bowl cereal .
+
+# sent_id = 2535
+# text = at or 12 meeting 11:30 How about ?
+
+# sent_id = 2536
+# text = She a be grand would shower said .
+
+# sent_id = 2537
+# text = you How does late to sound January .
+
+# sent_id = 2538
+# text = Sorry that looks this long response so .
+
+# sent_id = 2539
+# text = hearing on for the the comment Thanks .
+
+# sent_id = 2540
+# text = me to attributing the for quote Thanks .
+
+# sent_id = 2541
+# text = however still are important There issues four : ,
+
+# sent_id = 2542
+# text = ONLY # for 362416 Kaufman Pin Paul :
+
+# sent_id = 2543
+# text = of 3/03 Same date expiration number with .
+
+# sent_id = 2544
+# text = you and survived your ok family Hope .
+
+# sent_id = 2545
+# text = you and survived your ok family Hope .
+
+# sent_id = 2546
+# text = you and survived your ok family Hope .
+
+# sent_id = 2547
+# text = How to was Moines your Des trip ?
+
+# sent_id = 2548
+# text = one looks exception good with everything Steve . ,
+
+# sent_id = 2549
+# text = on for this all your help Thanks .
+
+# sent_id = 2550
+# text = YOU NOT GO HAVE TO REALLY DO .
+
+# sent_id = 2551
+# text = me for be That particularly convenient would .
+
+# sent_id = 2552
+# text = I be shall available on days both .
+
+# sent_id = 2553
+# text = transactions I about know these n't anything do .
+
+# sent_id = 2554
+# text = from you I hearing look forward to .
+
+# sent_id = 2555
+# text = you enjoyed Hope your in weekend Houston .
+
+# sent_id = 2556
+# text = contract draft requested as for sheet Term . ,
+
+# sent_id = 2557
+# text = this Plus call hosting be Conference will :
+
+# sent_id = 2558
+# text = I surgery goes 's your hope dad well !
+
+# sent_id = 2559
+# text = it I to blackline got correctly finally .
+
+# sent_id = 2560
+# text = this Plus call hosting be Conference will :
+
+# sent_id = 2561
+# text = you We seeing look soon forward to .
+
+# sent_id = 2562
+# text = They of are a great fun deal .
+
+# sent_id = 2563
+# text = you a have great I summer hope .
+
+# sent_id = 2564
+# text = it a is new not truck Actually .
+
+# sent_id = 2565
+# text = $ Stock 33 up over is Dow back .
+
+# sent_id = 2566
+# text = us he pay will soon Reggie said .
+
+# sent_id = 2567
+# text = I sure of his writing style like .
+
+# sent_id = 2568
+# text = month paid over their every invoice Oglethorpe .
+
+# sent_id = 2569
+# text = n't I on get the through phones ca .
+
+# sent_id = 2570
+# text = I this sent last to week Mary .
+
+# sent_id = 2571
+# text = I in is Portland know Jeff that .
+
+# sent_id = 2572
+# text = to for this prompt your attention Thanks .
+
+# sent_id = 2573
+# text = or Either fine someone works fax else .
+
+# sent_id = 2574
+# text = I in is Portland know Jeff that .
+
+# sent_id = 2575
+# text = to for this prompt your attention Thanks .
+
+# sent_id = 2576
+# text = you It hear was from to good !
+
+# sent_id = 2577
+# text = We too had here a nice Thanksgiving .
+
+# sent_id = 2578
+# text = It the having good down girls was .
+
+# sent_id = 2579
+# text = n't Ma show Craig his did appartment Why ?
+
+# sent_id = 2580
+# text = I very am excited to Needless say .
+
+# sent_id = 2581
+# text = you in heard a Have while n't from .
+
+# sent_id = 2582
+# text = Please if discuss you to want call .
+
+# sent_id = 2583
+# text = we else tell should there anyone Is ?
+
+# sent_id = 2584
+# text = Acrylics for Ineos a is worksheet Enclosed .
+
+# sent_id = 2585
+# text = Please Agreement attached Master find Enron the .
+
+# sent_id = 2586
+# text = We to hearing your forward comments look .
+
+# sent_id = 2587
+# text = from you I hearing look forward to .
+
+# sent_id = 2588
+# text = you videoconference hook by in We guys 'll .
+
+# sent_id = 2589
+# text = you joining 're extremely pleased is Everyone that .
+
+# sent_id = 2590
+# text = it I see believe it I when 'll .
+
+# sent_id = 2591
+# text = So on resting our for laurels much ? .
+
+# sent_id = 2592
+# text = you me respond asked to Marly to .
+
+# sent_id = 2593
+# text = you Mark handle ? this or Carol will ,
+
+# sent_id = 2594
+# text = Here missing 's with the the counterparties list .
+
+# sent_id = 2595
+# text = I following discuss will with the AA
+
+# sent_id = 2596
+# text = please : following provide such As detail the ,
+
+# sent_id = 2597
+# text = Don provided Has the fixed stream payment ?
+
+# sent_id = 2598
+# text = him and visited I with also Thane .
+
+# sent_id = 2599
+# text = You discuss want with to Becky may .
+
+# sent_id = 2600
+# text = Peter for looking a currently job is .
+
+# sent_id = 2601
+# text = percell@swbell.net 11:16:58 Percell 04/30/2001 Peter AM > on <
+
+# sent_id = 2602
+# text = Stark an Cindy appointment to Contact make .
+
+# sent_id = 2603
+# text = Please from see Jones the Danny message .
+
+# sent_id = 2604
+# text = them iis Mailing the fine house to .
+
+# sent_id = 2605
+# text = us reading give some It weekend will !
+
+# sent_id = 2606
+# text = Conf lines . reserved AT&T been call have :
+
+# sent_id = 2607
+# text = is the this Datamanager select EOL EnronOnLine ) (
+
+# sent_id = 2608
+# text = click Types for on the Product + " "
+
+# sent_id = 2609
+# text = I morning be through in town Sunday 'll .
+
+# sent_id = 2610
+# text = I Central is 12:30 assume Time this ?
+
+# sent_id = 2611
+# text = please with help this you one Can ?
+
+# sent_id = 2612
+# text = I about am this very issue concerned .
+
+# sent_id = 2613
+# text = be will for all This employees safer .
+
+# sent_id = 2614
+# text = we come should over I EB assume .
+
+# sent_id = 2615
+# text = 51 CPUC Rule Settlement Per Document Confidential
+
+# sent_id = 2616
+# text = Please of know your me availability let .
+
+# sent_id = 2617
+# text = 5:00 - 8:00 5:00 Time - : 8:00
+
+# sent_id = 2618
+# text = they in hedging our are case only . ,
+
+# sent_id = 2619
+# text = me with provide more you details Can ?
+
+# sent_id = 2620
+# text = Please as review the you following note :
+
+# sent_id = 2621
+# text = we ? execute so If are ready to ,
+
+# sent_id = 2622
+# text = 5/1/01 forward from flows that Here everything 's .
+
+# sent_id = 2623
+# text = We all include outstanding to transactions need .
+
+# sent_id = 2624
+# text = Transwestern operate and the own interconnect will .
+
+# sent_id = 2625
+# text = Transwestern operate and the own interconnect will .
+
+# sent_id = 2626
+# text = you in Are the yet office back ?
+
+# sent_id = 2627
+# text = customers for according these adjusted Revenues were .
+
+# sent_id = 2628
+# text = they in negotiating any expressed interest Have ?
+
+# sent_id = 2629
+# text = It a settled long ago time anyway . ,
+
+# sent_id = 2630
+# text = you get Did my on fax Friday ?
+
+# sent_id = 2631
+# text = Liz with gathering the finished documents Has ?
+
+# sent_id = 2632
+# text = Court to Craig the and today Talked .
+
+# sent_id = 2633
+# text = you ? is yourselves this Look parents inside ,
+
+# sent_id = 2634
+# text = we and suffer all Any dischord major .
+
+# sent_id = 2635
+# text = downsizing of from corporate the fear Freedom ?
+
+# sent_id = 2636
+# text = sampling imagine serving Single the capabilities packages ) (
+
+# sent_id = 2637
+# text = forward I to looking Wars really Guild m .
+
+# sent_id = 2638
+# text = has 05 on calender the feb rumor .
+
+# sent_id = 2639
+# text = It massive 's game a playing role multiplayer .
+
+# sent_id = 2640
+# text = pretty a is straightforward The alliance one .
+
+# sent_id = 2641
+# text = USA ASSISTANCE URGENT FROM CONFIDENTIAL HIGHLY -
+
+# sent_id = 2642
+# text = you that understand our I plight pray .
+
+# sent_id = 2643
+# text = processing occurred while this an directive error ] [
+
+# sent_id = 2644
+# text = He levels rise could still water warned .
+
+# sent_id = 2645
+# text = processing occurred while this an directive error ] [
+
+# sent_id = 2646
+# text = a to comment add Comments in Log
+
+# sent_id = 2647
+# text = i extremely believe that to hard find .
+
+# sent_id = 2648
+# text = Please read take this to moment a .
+
+# sent_id = 2649
+# text = It for is a certainly cause good .
+
+# sent_id = 2650
+# text = you a have huge I network hope .
+
+# sent_id = 2651
+# text = FREEMAN & ABBY BENEFIT RAFFLE FOR AUCTION
+
+# sent_id = 2652
+# text = feel and The soothing soft rays golden .
+
+# sent_id = 2653
+# text = Try for to this 10 minutes 5 .
+
+# sent_id = 2654
+# text = practicing The keep main to thing is .
+
+# sent_id = 2655
+# text = EQUALITY COALITION MARRIAGE FOR CAROLINA RELIGIOUS NORTH
+
+# sent_id = 2656
+# text = message of located this below Copies are .
+
+# sent_id = 2657
+# text = China manned launches second its mission spaceflight
+
+# sent_id = 2658
+# text = it And DOING I about am what ?
+
+# sent_id = 2659
+# text = 02:39:27 Mar 2004 Thu 11 -0800 Date , :
+
+# sent_id = 2660
+# text = http://www.sonic.net/~fsjob/TragiCore-TheCivetCat.mp3 is for the The song url
+
+# sent_id = 2661
+# text = we But looking communities at been streamside 've .
+
+# sent_id = 2662
+# text = They 10 been years there 've only for .
+
+# sent_id = 2663
+# text = They . be just that seem rumors to :
+
+# sent_id = 2664
+# text = days nine nesting swallows earlier Tree are .
+
+# sent_id = 2665
+# text = us using Send your the form comments .
+
+# sent_id = 2666
+# text = you the can restful when periods Enjoy .
+
+# sent_id = 2667
+# text = you absolute handle prepared to power Are ?
+
+# sent_id = 2668
+# text = Monday 1327 April 6 LAURA Petrarch , meets :
+
+# sent_id = 2669
+# text = Friday 1520 Good 6 April RAPHAEL , dies :
+
+# sent_id = 2670
+# text = 10:57:32 Oct 1995 Sunday 22 -0400 Date , :
+
+# sent_id = 2671
+# text = 1551 Russia chess IV bans Ivan of .
+
+# sent_id = 2672
+# text = Madrid beats Lopez in Ruy 1575 Leonardo .
+
+# sent_id = 2673
+# text = a Lennon murderer John being stardom entered .
+
+# sent_id = 2674
+# text = further than Look Avenue no Pennsylvania 1600 .
+
+# sent_id = 2675
+# text = it They did in already Iraq once .
+
+# sent_id = 2676
+# text = Proposed 2004 for $ military 401.3b budget . -
+
+# sent_id = 2677
+# text = to up the Giving advantaged a hand
+
+# sent_id = 2678
+# text = friends of with a A lot man
+
+# sent_id = 2679
+# text = texting Being of the the world capital .
+
+# sent_id = 2680
+# text = the Get mod older of version Cynagon .
+
+# sent_id = 2681
+# text = stability and on focus Those speed roms .
+
+# sent_id = 2682
+# text = them information give about me anyone can ?
+
+# sent_id = 2683
+# text = sensor cleaned get to the is Cure
+
+# sent_id = 2684
+# text = again right turn 2 then blocks Walk .
+
+# sent_id = 2685
+# text = there poison Is for any mouse cure ?
+
+# sent_id = 2686
+# text = I laying sculpted the down giraffe have .
+
+# sent_id = 2687
+# text = in ) a not good VERY way like (
+
+# sent_id = 2688
+# text = it there strengthen any to way Is ?
+
+# sent_id = 2689
+# text = she in is a also carrier good .
+
+# sent_id = 2690
+# text = I from agree the w Nothing answer .
+
+# sent_id = 2691
+# text = mine and was better than gpa their ....
+
+# sent_id = 2692
+# text = you of have newborn what fish kind ?
+
+# sent_id = 2693
+# text = I Monopoly about McDonald a 's question have !
+
+# sent_id = 2694
+# text = EXTRA And has pieces what game food .
+
+# sent_id = 2695
+# text = you FOUR give Because Large Fries PIECES !
+
+# sent_id = 2696
+# text = They as are an there adaptation just .
+
+# sent_id = 2697
+# text = bit is for used a kimberwick what ?
+
+# sent_id = 2698
+# text = Here http://www.the-dslr-photographer.com/2009/11/which-dslr-to-buy/ 's Guide a Buying DSLR -
+
+# sent_id = 2699
+# text = punctuation Jeez on . your and spelling work ,
+
+# sent_id = 2700
+# text = I or reapply need do to ?
+
+# sent_id = 2701
+# text = hammy fun with and your have regards
+
+# sent_id = 2702
+# text = I pretty is 'm that Japanese Mayko sure .
+
+# sent_id = 2703
+# text = them online carry Many like stores Adorama : ,
+
+# sent_id = 2704
+# text = David of censored the be statue Should ?
+
+# sent_id = 2705
+# text = in his the bathroom cage in ?
+
+# sent_id = 2706
+# text = though There consider some to things are ...
+
+# sent_id = 2707
+# text = him I put would else somewhere personally .
+
+# sent_id = 2708
+# text = Here my 's shots in of B&W one
+
+# sent_id = 2709
+# text = You in try this also gimp could .
+
+# sent_id = 2710
+# text = riding trail s about favorite your part What ?
+
+# sent_id = 2711
+# text = They and be would too spooky scared .
+
+# sent_id = 2712
+# text = YOU the spend training to time have .
+
+# sent_id = 2713
+# text = I or want an do Kindle n't iPad .
+
+# sent_id = 2714
+# text = itself a is mini like tablet It !
+
+# sent_id = 2715
+# text = always great is help A =) little .
+
+# sent_id = 2716
+# text = a How tank new to fish start ?
+
+# sent_id = 2717
+# text = You though feeling be to better appear .
+
+# sent_id = 2718
+# text = you manually shoot learn Therefore to . must ,
+
+# sent_id = 2719
+# text = me above Ignore the btw answer ^_^ ! ,
+
+# sent_id = 2720
+# text = it And charged you get do for ?
+
+# sent_id = 2721
+# text = I mean understands I what hope somebody
+
+# sent_id = 2722
+# text = him But give now for just time .
+
+# sent_id = 2723
+# text = never Dubai be ! like and Nothing will ,
+
+# sent_id = 2724
+# text = his losing trust before happen anything Did ?
+
+# sent_id = 2725
+# text = a How horse stable to breyer make ?
+
+# sent_id = 2726
+# text = I or decide width ca between nt height .
+
+# sent_id = 2727
+# text = the of sinking the about Question Titanic ?
+
+# sent_id = 2728
+# text = How life is in the Naha night ?
+
+# sent_id = 2729
+# text = Well you speaking try first Japanese can .
+
+# sent_id = 2730
+# text = up and running the back hotels Are ?
+
+# sent_id = 2731
+# text = Please NO is such remember thing there . :
+
+# sent_id = 2732
+# text = Please issue help with my bladder cats ?
+
+# sent_id = 2733
+# text = she peeing been A Recently LOT has .
+
+# sent_id = 2734
+# text = Unfortunately above were both my score minimums . ,
+
+# sent_id = 2735
+# text = you have Hope of a fun crapload !
+
+# sent_id = 2736
+# text = you think do of these photos What ?
+
+# sent_id = 2737
+# text = you think do of these photos What ?
+
+# sent_id = 2738
+# text = ireland are in unique some customs what ?
+
+# sent_id = 2739
+# text = of customise No call ports possibility to .
+
+# sent_id = 2740
+# text = I ! Thank make just sure wanna :)
+
+# sent_id = 2741
+# text = it and cast I brass melt http://www.mikegigi.com/castgobl.htm
+
+# sent_id = 2742
+# text = Not packed bring lunch to everyone wants .
+
+# sent_id = 2743
+# text = Ball They pythons know about n't ANYTHING do .
+
+# sent_id = 2744
+# text = sharing experience your for advance Thanks in !
+
+# sent_id = 2745
+# text = It quite find easy to something was .
+
+# sent_id = 2746
+# text = I the are easier much adults find .
+
+# sent_id = 2747
+# text = back to Take the the shelter kittens .
+
+# sent_id = 2748
+# text = you start born here elsewhere were . If ,
+
+# sent_id = 2749
+# text = OVERALL YOU MORE LIKED STUFF JUST -AND
+
+# sent_id = 2750
+# text = them between Are any there differences major ?
+
+# sent_id = 2751
+# text = I in go the Where states could ?
+
+# sent_id = 2752
+# text = I & need how much would money Also ?
+
+# sent_id = 2753
+# text = I saving start hehe now can So
+
+# sent_id = 2754
+# text = it they do just on own their .
+
+# sent_id = 2755
+# text = like me She its tosses nothing around !
+
+# sent_id = 2756
+# text = I use could any there tricks Is ?
+
+# sent_id = 2757
+# text = like He to learn will really this .
+
+# sent_id = 2758
+# text = outside come will Potty at point some .
+
+# sent_id = 2759
+# text = my gastroenteritis dog after to What feed ?
+
+# sent_id = 2760
+# text = WHITE breast Boiled chicken and rice boiled .
+
+# sent_id = 2761
+# text = You fallen have cultural in misunderstanding a .
+
+# sent_id = 2762
+# text = you left done before have research Should .
+
+# sent_id = 2763
+# text = There in are this no country jobs .
+
+# sent_id = 2764
+# text = I two 'm degree undergraduate into years an .
+
+# sent_id = 2765
+# text = I you 'm saying bad Are bed in ?
+
+# sent_id = 2766
+# text = you hunger depends for on what It .
+
+# sent_id = 2767
+# text = i eastern have snake a king baby .
+
+# sent_id = 2768
+# text = he n't eaten has entire in month an .
+
+# sent_id = 2769
+# text = awhile eating go without can snakes Remember .
+
+# sent_id = 2770
+# text = They to have a natural hibernate instinct .
+
+# sent_id = 2771
+# text = too looking be will dull Its body . ,
+
+# sent_id = 2772
+# text = my or playing two fighting cats are ?
+
+# sent_id = 2773
+# text = her then let ten out minutes for .
+
+# sent_id = 2774
+# text = they . playing they are hiss not if ,
+
+# sent_id = 2775
+# text = they the rallied ultimate give choice When … ,
+
+# sent_id = 2776
+# text = I just bought one a yesterday baby .
+
+# sent_id = 2777
+# text = better or Is a a parakeet finch ?
+
+# sent_id = 2778
+# text = they of are all very tame First .
+
+# sent_id = 2779
+# text = The or brown pink either girl has .
+
+# sent_id = 2780
+# text = you in have your If tank plants .
+
+# sent_id = 2781
+# text = too with help that The changes water .
+
+# sent_id = 2782
+# text = year is of best the time What ?
+
+# sent_id = 2783
+# text = either though before I done 've never that .
+
+# sent_id = 2784
+# text = I you m call back He sure will !
+
+# sent_id = 2785
+# text = I If Go you i would were ...
+
+# sent_id = 2786
+# text = it I give to a 'm shot willing .
+
+# sent_id = 2787
+# text = options and at Looked such treatment studies . ,
+
+# sent_id = 2788
+# text = you for are that up something Is ?
+
+# sent_id = 2789
+# text = here every has large much stable Pretty .
+
+# sent_id = 2790
+# text = super and is efficient here everyone friendly !
+
+# sent_id = 2791
+# text = area down in best the place Hands ! ,
+
+# sent_id = 2792
+# text = next Place vehicle to your buy Fantastic
+
+# sent_id = 2793
+# text = you again Thank great for service customer !
+
+# sent_id = 2794
+# text = I my loving style always hair leave .
+
+# sent_id = 2795
+# text = They and been have professional reliable % 100 .
+
+# sent_id = 2796
+# text = BURNT very and bitter The taste coffee .
+
+# sent_id = 2797
+# text = Yes G1 working is my back screen .
+
+# sent_id = 2798
+# text = me They Charge to $ was 129 about ...
+
+# sent_id = 2799
+# text = 3 Tried occasions on on Crust Broad .
+
+# sent_id = 2800
+# text = them Very went with that glad we .
+
+# sent_id = 2801
+# text = away Chester Stay West from First Kids .
+
+# sent_id = 2802
+# text = you I disappointed be will not promise !
+
+# sent_id = 2803
+# text = it Maybe have next they time will .
+
+# sent_id = 2804
+# text = develop she a needs personality to !
+
+# sent_id = 2805
+# text = They exceed to your set expectations out .
+
+# sent_id = 2806
+# text = they I get hope together act there ...
+
+# sent_id = 2807
+# text = I again try new to someplace wanted .
+
+# sent_id = 2808
+# text = business in stay these How places do .
+
+# sent_id = 2809
+# text = watery be ..... not Queso should :(
+
+# sent_id = 2810
+# text = from horrible the department Absolute parts service .
+
+# sent_id = 2811
+# text = this local great business deals support service / -
+
+# sent_id = 2812
+# text = I got were worth The what prices .
+
+# sent_id = 2813
+# text = for a A romantic perfect dinner place .
+
+# sent_id = 2814
+# text = of is that rude What service kind ?
+
+# sent_id = 2815
+# text = they And get a to customer THRIVE .
+
+# sent_id = 2816
+# text = very best is french Disgusting menu fries .
+
+# sent_id = 2817
+# text = You be will happy at store this !
+
+# sent_id = 2818
+# text = We and appreciated kindness her knowledge patience ! ,
+
+# sent_id = 2819
+# text = She also get a to manager refused .
+
+# sent_id = 2820
+# text = from starting the front Bad desk service .
+
+# sent_id = 2821
+# text = I recommend would to these anybody apartments !
+
+# sent_id = 2822
+# text = everyone for be The not atmosphere may .
+
+# sent_id = 2823
+# text = the on Italian The Block New Kid
+
+# sent_id = 2824
+# text = I from purchased this a dealship nissan .
+
+# sent_id = 2825
+# text = we and eat 'll there Last First time
+
+# sent_id = 2826
+# text = the Overall year dealer of finance Hino .
+
+# sent_id = 2827
+# text = Well and done the to team Anthony !
+
+# sent_id = 2828
+# text = Well and done the to team Brendan !
+
+# sent_id = 2829
+# text = Well and done the to team Jason !
+
+# sent_id = 2830
+# text = I anyone recommend to highly David would .
+
+# sent_id = 2831
+# text = just But broke a this peddle week .
+
+# sent_id = 2832
+# text = myself $ did 50 the for work I .
+
+# sent_id = 2833
+# text = LOVE TRY PLACE THIS IT YOU'LL . -
+
+# sent_id = 2834
+# text = not nor is The helpful nice landlord
+
+# sent_id = 2835
+# text = I and love the the apartment location ! !
+
+# sent_id = 2836
+# text = the And nice also exterminator is . very ,
+
+# sent_id = 2837
+# text = enough I about say this not place can .
+
+# sent_id = 2838
+# text = They restored have my in faith Mechanics .
+
+# sent_id = 2839
+# text = i Trees seen Christmas The 've finest ever .
+
+# sent_id = 2840
+# text = I Coach work Life as Transformational a .
+
+# sent_id = 2841
+# text = the hit head the on nail Kelly .
+
+# sent_id = 2842
+# text = completely but UNTRUE written Doctor Beautifully reviews . ,
+
+# sent_id = 2843
+# text = I I done had wish that n't this .
+
+# sent_id = 2844
+# text = Yeah this is good very complex not . ,
+
+# sent_id = 2845
+# text = I there buy even the did bag n't !
+
+# sent_id = 2846
+# text = very and was clean The atmosphere nice .
+
+# sent_id = 2847
+# text = again try Will this Other place Thoughts . :
+
+# sent_id = 2848
+# text = a Is joke This ! co. insurance ! !
+
+# sent_id = 2849
+# text = CONVENIENT and SUPER great Great pricing service ! ,
+
+# sent_id = 2850
+# text = me a had Lucky with spare I !
+
+# sent_id = 2851
+# text = to than average higher boot prices With !
+
+# sent_id = 2852
+# text = too and Very friendly nice guys work .
+
+# sent_id = 2853
+# text = I remodeling spent ever Best 've money on .
+
+# sent_id = 2854
+# text = We and served soda also salad were .
+
+# sent_id = 2855
+# text = overcome FusionRetail these has issues How ?
+
+# sent_id = 2856
+# text = they They doing are certainly what know .
+
+# sent_id = 2857
+# text = I today stopped @ in Brewery Yards .
+
+# sent_id = 2858
+# text = it back brought 9000 with miles I .
+
+# sent_id = 2859
+# text = We in signed our about name 6:00pm .
+
+# sent_id = 2860
+# text = I any understand his not reasons could .
+
+# sent_id = 2861
+# text = again to going the NEVER dentist fear !
+
+# sent_id = 2862
+# text = I Then got for a $ bill 483.00 .
+
+# sent_id = 2863
+# text = me a surprised larger recently order They .
+
+# sent_id = 2864
+# text = overpriced is for their This services company .
+
+# sent_id = 2865
+# text = Virginia is in THE This university premier .
+
+# sent_id = 2866
+# text = very and are conscientious The staff friendly .
+
+# sent_id = 2867
+# text = she a has great really website Also ! (
+
+# sent_id = 2868
+# text = you at talks each to appointment She .
+
+# sent_id = 2869
+# text = in a A great great location cinema .
+
+# sent_id = 2870
+# text = so fun was first My yesterday visit .
+
+# sent_id = 2871
+# text = problem with Like the the fuse girl ...
+
+# sent_id = 2872
+# text = the And $ wrapping 100 for furniture another .
+
+# sent_id = 2873
+# text = Just and of accessories a couple curtains .
+
+# sent_id = 2874
+# text = I also mentioned to the person reception .
+
+# sent_id = 2875
+# text = a people problems with having hotel Imagine .
+
+# sent_id = 2876
+# text = him finally alerted his to rudeness I .
+
+# sent_id = 2877
+# text = I never emailed 4 a response times . ,
+
+# sent_id = 2878
+# text = I Tourist emailed Mackinaw even nothing and .
+
