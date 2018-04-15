@@ -9,8 +9,8 @@ with open('./dataset/jumbled_sentences.txt', 'r') as f:
 	for line in f:
 		jumbled.append(line.strip().split())
 
-print(correct[3])
-print(jumbled[3])
+#print(correct[3])
+#print(jumbled[3])
 assert len(jumbled) == len(correct)
 
 count = 0
@@ -19,8 +19,8 @@ for i in range(len(correct)):
 		assert len(correct[i]) == len(jumbled[i])
 	except AssertionError:
 		print(i)
-		print(correct[i])
-		print(jumbled[i])
+		print(' '.join(correct[i]))
+		print(' '.join(jumbled[i]))
 		count+=1
 
 print(count)
