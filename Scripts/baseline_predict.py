@@ -176,37 +176,42 @@ def main(argv):
         suffbias = pickle.load(f)
 
     # Run eval on dev
-    devlines = [line.strip() for line in codecs.open(PATH + 'en-train-complete.txt', "r", encoding="utf-8")]
+    devlines = [line.strip() for line in codecs.open(PATH + 'en-test-complete.txt', "r", encoding="utf-8")]
     
     numcorrect = 0
     numguesses = 0
 
     if OUTPUT:
-        outfile = codecs.open(PATH + "en-out-complete", "w", encoding="utf-8")
+        outfile = codecs.open(PATH + "en-out-complete-test", "w", encoding="utf-8")
     
     for l in devlines:
-        lemma, correct, msd, = l.split(u'\t')
+        a = l.strip()
+        if not a:
+            if OUTPUT:
+                outfile.write("\n")
+            continue
+        lemma, msd, = l.split(u'\t')
         lemmaorig = lemma
         if prefbias > suffbias:
             lemma = lemma[::-1]
         outform = apply_best_rule(lemma, msd, allprules, allsrules)
         if prefbias > suffbias:
             outform = outform[::-1]
-        if outform == correct:
-            numcorrect += 1
-        numguesses += 1
+        # if outform == correct:
+        #     numcorrect += 1
+        # numguesses += 1
         if OUTPUT:
-            outfile.write(lemmaorig + "\t" + outform + "\t" + msd + "\n")
+            outfile.write(outform + "\t" + msd + "\n")
 
     if OUTPUT:
         outfile.close()
              
-    runningavg += numcorrect/float(numguesses)
-    numiter += 1                    
+    # runningavg += numcorrect/float(numguesses)
+    # numiter += 1                    
     
-    print("en" + ": " + str(str(numcorrect/float(numguesses)))[0:7])
-    print("Average:", str(runningavg/float(numiter)))
-    print("------------------------------------\n")
+    # print("en" + ": " + str(str(numcorrect/float(numguesses)))[0:7])
+    # print("Average:", str(runningavg/float(numiter)))
+    # print("------------------------------------\n")
 
 if __name__ == "__main__":
     main(sys.argv)
