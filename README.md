@@ -6,14 +6,14 @@ Project File Structure
 ----------------------
 
 * **Approaches** - The approaches used to solve the problem
-	* Best PoS Sequenc
+	* Best PoS Sequence
 	* Language Model
-	* Reinflecction-Baseline
+	* Reinflection-Baseline
 
 * **dataset** - The dataset of the shared task
 
-* **Reports** - The reports and presentations of the project
-
 * **resources** - Collection of resources used for reference
 
-To get an overall understanding of our approach, please go through our final [report](Reports/iit-bhu-varanasi.pdf)
+* **Reports** - The reports and presentations of the project
+
+To get an overall understanding of our approach, please go through our final [report](Reports/iit-bhu-varanasi.pdf).
