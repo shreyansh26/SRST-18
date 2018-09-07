@@ -16,7 +16,7 @@ Project File Structure
 
 * **Reports** - The reports and presentations of the project
 
-To get an overall understanding of our approach, please go through our final [report](Reports/srst_report.pdf) and [paper](Reports/iit-bhu-varanasi.pdf).  
+To get an overall understanding of our approach, please go through our final [report](Reports/srst_report.pdf) and [paper](Reports/camera-ready-iit-bhu-varanasi.pdf).  
 
 If you wish to use our work, use the following BibTeX-
 ```
