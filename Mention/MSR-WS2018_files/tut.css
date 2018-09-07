@@ -1,0 +1,185 @@
+#wrapper{
+    width:800;
+    margin:0 auto;
+    font-size:17px;
+    background-color: white;
+    padding: 30px;
+}
+
+#header{
+    position: relative;
+    height: 75px;
+    margin-top:35px;
+}
+
+
+#ekaw-text{
+    position:absolute;
+    margin-left:12%;
+    margin-top:15px;
+    
+}
+
+#ekaw{
+    position:absolute;
+}
+
+#knoesis{
+    position:absolute;
+    margin-left:60%;
+    margin-bottom:10px;
+}
+
+#iotest-png{
+    position:relative;
+    margin-left:80%;
+}
+
+#ccsr{
+    position:absolute;
+    margin-left:85%;
+    margin-top:5px;
+}
+
+#title{
+    margin:center;
+    color:#3465a4;
+}
+
+
+
+#quote{
+    margin-top:-10px;
+    text-align:center;
+    font-style:italic;
+    font-size:18px;
+}
+
+body {
+    background-color: lightgrey;
+    margin: 0px;
+	font-family: "Source Sans Pro", sans-serif, Arial;
+}
+
+p{
+    margin-top:-10px;
+}
+
+hr{
+    color: #3465a4;
+    height:5px;
+    background:#3465a4
+}
+
+h2{
+    font-size:26px;
+    text-align: center;
+}
+
+h3 {
+    font-size:20px;
+    color: #3465a4;
+}
+
+ul{
+    margin-left:20px;
+}
+
+li{
+    margin-top:6px;
+}
+
+#table-title{
+    font-style:italic;
+}
+
+#table{
+    margin-left:-10px;
+    margin-top:-15px;
+    font-size:20px;
+}
+
+#program_table {
+	border: 1px solid black;
+    border-collapse: collapse;
+	background-color: lightblue;
+}
+
+#program_table tr {
+	border: 1px solid black;
+}
+#program_table tr.program_break {
+	background-color: aliceblue;
+}
+#program_table tr td {
+	border: 1px solid black;
+	padding: 5px;
+}
+/*
+#material_table {
+	border: 1px solid black;
+    border-collapse: collapse;
+}
+
+#material_table tr {
+	border: 1px solid black;
+}
+
+#material_table tr td {
+	border: 1px solid black;
+	padding: 5px;
+}
+*/
+.description{
+    font-size:17px;
+}
+
+/* # means "id"; applies to any element with id = bottom-quote*/
+#bottom-quote{
+    font-style:italic;
+    color: #3465a4;
+}
+
+ul.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #dddddd;
+    height: 35Px;
+}
+
+/* applies to all "li" elements inside "ul" element of the class "navbar"*/
+ul.navbar li {
+    float: left;
+    margin-top:0px;
+    font-size: 15px;
+    color: #3465a4;
+
+}
+
+
+ul.navbar li a {
+    display: block;
+    padding: 8px;
+    text-decoration: none;
+    color: #3465a4;
+}
+
+ul.navbar li a:visited {
+    text-decoration: none;
+    color: #3465a4;
+}
+
+img.logo {
+    margin-left: 50px
+}
+
+.organizer_name {
+	font-size: 17px;
+}
+
+.back_top {
+	float:right;
+	margin-top: -42px;
+	text-decoration:none;
+}
